@@ -1,1 +1,1 @@
-# CSE508_Winter2023_A1_105
+This repository contains all the code and documentation for assignment 1 of the course CSE508: Information Retrieval.
