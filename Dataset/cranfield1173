@@ -1,19 +1,4 @@
-<DOC>
-<DOCNO>
-1173
-</DOCNO>
-<TITLE>
-the buckling of cylindrical shells under longitudinally varying loads .
-</TITLE>
-<AUTHOR>
-v. i. weingarten
-</AUTHOR>
-<BIBLIO>
-space technology laboratories, inc., los angeles, calif.
-now with aerospace corp., los angeles, calif.
-</BIBLIO>
-<TEXT>
-two problems illustrating the effect of nonuniformity of loading
+the buckling of cylindrical shells under longitudinally varying loads . two problems illustrating the effect of nonuniformity of loading
 on the buckling characteristics of circular cylinders are
 investigated .  the first problem deals with the effect of
 linearly varying axial compressive stress, such as would be
@@ -29,5 +14,3 @@ pressure varying linearly in the longitudinal direction is also
 investigated .  the results indicate that for z greater than 100,
 the buckling coefficients are proportional to square
 root z .
-</TEXT>
-</DOC>

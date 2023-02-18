@@ -1,16 +1,4 @@
-<DOC>
-<DOCNO>
-1043
-</DOCNO>
-<TITLE>
-on transverse vibrations of thin, shallow elastic shells .
-</TITLE>
-<AUTHOR>
-</AUTHOR>
-<BIBLIO>
-</BIBLIO>
-<TEXT>
-  a numerical analysis is given for the solution of the
+on transverse vibrations of thin, shallow elastic shells . a numerical analysis is given for the solution of the
 general equations of thin shells of revolution subjected to
 rotationally symmetric pressure and temperature distributions
 .
@@ -31,5 +19,3 @@ language which can be used on most high speed computers .
 comparisons of numerical solutions to known exact and approximate
 solutions of the thin shell equations are made to
 demonstrate the accuracy of this method .
-</TEXT>
-</DOC>

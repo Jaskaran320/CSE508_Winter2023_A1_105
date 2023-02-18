@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-433
-</DOCNO>
-<TITLE>
 application of two dimensional vortex theory to the
 prediction of flow fields behind wings of wing-body
-combinations at subsonic and supersonic speeds .
-</TITLE>
-<AUTHOR>
-rogers,a.w.
-</AUTHOR>
-<BIBLIO>
-naca tn.3227, 1954.
-</BIBLIO>
-<TEXT>
-  a theoretical investigation has been made of a general method for
+combinations at subsonic and supersonic speeds . a theoretical investigation has been made of a general method for
 predicting the flow field behind the wings of plane and cruciform wing
 and body combinations at transonic or supersonic speeds and slender configurations
 at subsonic speeds .  the wing trailing-vortex wake is
@@ -49,5 +35,3 @@ considered, it appeared that downwash at horizontal tail locations is
 largely determined except near the tail-body juncture by the wing
 vortices alone for small ratios of body radius to wing semispan, and by
 the body upwash alone for large values of that ratio .
-</TEXT>
-</DOC>

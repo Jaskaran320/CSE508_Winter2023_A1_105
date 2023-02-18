@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1068
-</DOCNO>
-<TITLE>
 instability analysis of cylindrical shells under hydrostatic
-pressure .
-</TITLE>
-<AUTHOR>
-herrmann,g.
-</AUTHOR>
-<BIBLIO>
-nasa tn.d1510, 1962, 239.
-</BIBLIO>
-<TEXT>
-  to determine the elastic buckling
+pressure . to determine the elastic buckling
 pressure of simply supported
 cylindrical shells subjected to lateral
 and axial hydrostatic forces,
@@ -38,5 +24,3 @@ establishment of a simple but
 accurate expression for the buckling
 pressure applicable to a wide
 range of shell dimensions .
-</TEXT>
-</DOC>

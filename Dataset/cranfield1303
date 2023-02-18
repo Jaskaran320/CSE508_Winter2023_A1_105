@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1303
-</DOCNO>
-<TITLE>
-air pressure on a cone moving at high speeds .
-</TITLE>
-<AUTHOR>
-taylor,g.i. and maccoll,j.w.
-</AUTHOR>
-<BIBLIO>
-proc. roy. soc. a, 139, 1933, 278.
-</BIBLIO>
-<TEXT>
-  the cone is considered to be
+air pressure on a cone moving at high speeds . the cone is considered to be
 moving at a velocity higher than that
 of sound, so that there is in front
 of it a shock wave, moving with the
@@ -46,5 +32,3 @@ agree well in the case of the cone
 of 10 semi-vertical angle, but diverges
 increasingly from the truth as
 the angle is increased .
-</TEXT>
-</DOC>

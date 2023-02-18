@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-49
-</DOCNO>
-<TITLE>
 temperature and velocity profiles in the compressible
 laminar boundary layer with arbitrary distribution
-of surface temperature .
-</TITLE>
-<AUTHOR>
-chapman,d. and rubesin,m.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 16, 1949, 547.
-</BIBLIO>
-<TEXT>
-  an analysis is presented which enables the temperature profiles,
+of surface temperature . an analysis is presented which enables the temperature profiles,
 veiocity profiles, heat transfer, and skin friction to be calculated
 for laminar flow over a two-dimensional or axially symmetric
 surface without pressure gradient but with an arbitrary analytic
@@ -54,5 +40,3 @@ possible effects of the heat transfer on flow separation is given .
 in order to facilitate the use of the results, all of the principal
 equations developed are collected and summarized in the section
 entitled /practical use of results ./
-</TEXT>
-</DOC>

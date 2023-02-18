@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-255
-</DOCNO>
-<TITLE>
 an approximate solution of the turbulent boundary layer
-equations in incompressible and compressible .
-</TITLE>
-<AUTHOR>
-lilley,g.m.
-</AUTHOR>
-<BIBLIO>
-coa r134, 1960.
-</BIBLIO>
-<TEXT>
-  if over the 'outer region' of the boundary layer, where the mean
+equations in incompressible and compressible . if over the 'outer region' of the boundary layer, where the mean
 velocity varies but little from its value outside the shear layer, a
 virtual eddy viscosity is defined, which is constant over the outer
 region but varies in the direction of the mainstream, a solution of the
@@ -31,5 +17,3 @@ derived by townsend agrees with ours for reynolds numbers (based on x)
 of about .  with this relation for an equation, analoguous to the
 momentum integral equation solution, can be found for as a function of
 local freestream velocity, with one disposable parameter .
-</TEXT>
-</DOC>

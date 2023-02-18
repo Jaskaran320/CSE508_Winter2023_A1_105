@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-16
-</DOCNO>
-<TITLE>
 transformation of the compressible turbulent boundary
-layer .
-</TITLE>
-<AUTHOR>
-mager,a.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 25, 1958, 305.
-</BIBLIO>
-<TEXT>
-  the transformation of the compressible turbulent boundarylayer
+layer . the transformation of the compressible turbulent boundarylayer
 equations to their incompressible equivalent is demonstrated
 analytically .  the transformation is essentially the same
 as that for the laminar layer, first given by stewartson, except
@@ -29,5 +15,3 @@ agreement with the experimentally measured and independently
 reported results .  an application of the transformation to the
 self-preserving boundary layers and to the computations of
 general boundary-layer flow is shown .
-</TEXT>
-</DOC>

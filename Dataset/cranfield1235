@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1235
-</DOCNO>
-<TITLE>
 a theory of the two dimensional laminar bounary layer
-over a curved surface .
-</TITLE>
-<AUTHOR>
-yen,k.t. and toba,k.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1961, 877.
-</BIBLIO>
-<TEXT>
-  the purpose of this paper is to present a theory to account for
+over a curved surface . the purpose of this paper is to present a theory to account for
 surface curvature effects on the two-dimensional boundary-layer
 flow which approaches a potential flow at free stream .
   the problem of two-dimensional viscous flow is first formulated
@@ -42,5 +28,3 @@ differences in the boundary-layer characteristics .  in particular,
 murphy's results indicate that the wall skin friction for a convex
 surface is smaller than the blasius value, while for a concave wall
 it is higher .
-</TEXT>
-</DOC>

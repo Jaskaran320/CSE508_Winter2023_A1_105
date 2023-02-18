@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-852
-</DOCNO>
-<TITLE>
 stress and displacement analysis of simply supported
-non- circular cylindrical shell under lateral pressure .
-</TITLE>
-<AUTHOR>
-romano,f. and kempner,j.
-</AUTHOR>
-<BIBLIO>
-pibal r.415, 1958.
-</BIBLIO>
-<TEXT>
-this paper presents an analysis of the deflections of and stresses in a
+non- circular cylindrical shell under lateral pressure . this paper presents an analysis of the deflections of and stresses in a
 short noncircular cylindrical shell of uniform wall thickness whose
 median-surface cross section is described analytically by a simple expression
 corresponding to a family of doubly symmetric ovals .  the
@@ -26,5 +12,3 @@ stresses and displacements for points of the oval cylinder, which are 5
 percent of the axial length and 2.5 percent of the circumferential
 length apart, have been calculated for an oval cross section with a
 major-minor axis ratio of 1.10 .
-</TEXT>
-</DOC>

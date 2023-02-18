@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-63
-</DOCNO>
-<TITLE>
-hypersonic viscous flow over slender cones .
-</TITLE>
-<AUTHOR>
-talbot,l.
-</AUTHOR>
-<BIBLIO>
-naca tn.4327, 1958.
-</BIBLIO>
-<TEXT>
-  viscous self-induced pressures on 3 -semivertex-angle cones were
+hypersonic viscous flow over slender cones . viscous self-induced pressures on 3 -semivertex-angle cones were
 measured over the range 3.7 free-stream mach number 5.8 and 0.5
 viscous-interaction parameter 2.3 .  the data were found to be in good
 agreement with results obtained by talbot on 5 cones in the range
@@ -26,5 +12,3 @@ which takes into account the interaction between boundary-layer growth
 and the inviscid-flow field at the outer edge of the boundary layer .
 pressures calculated by this method were only 10 to 20 percent higher
 than the measured values .
-</TEXT>
-</DOC>

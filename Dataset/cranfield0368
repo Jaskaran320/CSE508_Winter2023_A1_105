@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-368
-</DOCNO>
-<TITLE>
-some problems of polar missile control .
-</TITLE>
-<AUTHOR>
-best,d.
-</AUTHOR>
-<BIBLIO>
-j.roy.ae.soc., 64, 1960.
-</BIBLIO>
-<TEXT>
-  a polar-controlled missile is one in which manoeuvre
+some problems of polar missile control . a polar-controlled missile is one in which manoeuvre
 is carried out by rotations about roll and pitch axes,
 that is, in the manner of a conventional aeroplane .  this
 paper discusses some problems in the application of this
@@ -29,5 +15,3 @@ necessary to consider the whole three-dimensional system
 general, not susceptible to analysis .  because of this,
 the design of control systems requires extensive use of
 simulators .
-</TEXT>
-</DOC>

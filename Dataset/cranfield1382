@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-1382
-</DOCNO>
-<TITLE>
 the solution of the equations of the laminar boundary
 layer for schubauer's observed pressure distribution
-for an elliptic cylinder .
-</TITLE>
-<AUTHOR>
-hartree,d.r.
-</AUTHOR>
-<BIBLIO>
-arc r + m.2427, 1949.
-</BIBLIO>
-<TEXT>
-  the solution of the equations of the laminar
+for an elliptic cylinder . the solution of the equations of the laminar
 boundary layer has been carried out for the pressure
 distribution for an elliptic cylinder of axial ratio 2.96 ..  1 with
 its major axis in the direction of the incident stream .
@@ -46,5 +32,3 @@ separation is observed to occur .  the solution with this pressure
 distribution also gives very good agreement with the
 observed velocity distribution through the boundary layer at
 points upstream from separation .
-</TEXT>
-</DOC>

@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-59
-</DOCNO>
-<TITLE>
 tables of exact laminar-boundary layer solutions when
-the wall is porous and fluid properties are variable .
-</TITLE>
-<AUTHOR>
-brown,w.d. and donoughe,p.l.
-</AUTHOR>
-<BIBLIO>
-naca tn.2479, 1951.
-</BIBLIO>
-<TEXT>
-  the three partial differential equations of the laminar boundary
+the wall is porous and fluid properties are variable . the three partial differential equations of the laminar boundary
 layer for two-dimensional steady-state compressible flow have been
 transformed into two ordinary differential equations by the method of
 pohlhausen, falkner, and skan .  the ordinary equations include parameters
@@ -36,5 +22,3 @@ function of pohlhausen and its derivatives .
   for each case, displacement, momentum, and convection thicknesses,
 as well as nusselt number and coefficient of friction at the wall, were
 computed .
-</TEXT>
-</DOC>

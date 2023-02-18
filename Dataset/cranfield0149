@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-149
-</DOCNO>
-<TITLE>
 expansions at small reynolds number for the flow past
-a sphere and a circular cylinder .
-</TITLE>
-<AUTHOR>
-proudman,i. and pearson,j.r.a.
-</AUTHOR>
-<BIBLIO>
-j.fluid mech. 2, 1957, 237.
-</BIBLIO>
-<TEXT>
-  this paper is concerned with the problem of obtaining higher
+a sphere and a circular cylinder . this paper is concerned with the problem of obtaining higher
 approximations to the flow past a sphere and a circular cylinder
 than those represented by the well-known solutions of stokes
 and oseen .  since the perturbation theory arising from the
@@ -42,5 +28,3 @@ expansion .
   the leading terms of the expansions are shown to be closely
 related to the original solutions of stokes and oseen, and detailed
 results for some further terms are obtained .
-</TEXT>
-</DOC>

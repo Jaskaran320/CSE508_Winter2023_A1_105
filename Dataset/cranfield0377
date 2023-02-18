@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-377
-</DOCNO>
-<TITLE>
-a turbulent analog of the stewartson-illingworth transformation .
-</TITLE>
-<AUTHOR>
-culick,f.e. and hill,j.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 25, 1958.
-</BIBLIO>
-<TEXT>
-  the stewartson-illingworth transformation is applied to the
+a turbulent analog of the stewartson-illingworth transformation . the stewartson-illingworth transformation is applied to the
 integral momentum equation for compressible boundary-layer
 flow, leaving the x-coordinate transformation unspecified, however
 .  it is shown that the transformed equation is the integral
@@ -29,5 +15,3 @@ presented which gives the turbulent boundary-layer growth in
 compressible flow in terms of a simple quadrature .  the predictions
 of this equation are then compared with some measurements
 on wind-tunnel nozzles .
-</TEXT>
-</DOC>

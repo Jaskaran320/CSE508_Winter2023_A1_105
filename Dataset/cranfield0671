@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-671
-</DOCNO>
-<TITLE>
 pressure and boundary-layer measurements on a two dimensional wing at
-low speed .
-</TITLE>
-<AUTHOR>
-brebner, g.g. and bagley, j.a.
-</AUTHOR>
-<BIBLIO>
-a.r.c. r + m 2886, july, 1962 .
-</BIBLIO>
-<TEXT>
-results are given of pressure measurements and boundary-layer traverses
+low speed . results are given of pressure measurements and boundary-layer traverses
 on a two-dimensional wing with 10 per cent rae 101 section at reynolds
 numbers of 1.6x10 and 3.2x10 . these results which have been integrated
 to give lift, drag and aerodynamic-centre characteristics, are used to
@@ -25,5 +11,3 @@ little refinement before it is accurate enough to predict viscosity
 effects on pressure distribution, lift, drag and aerodynamic center,.but
  that these effects can be calculated if the actual boundary-layer
 characteristics are known .
-</TEXT>
-</DOC>

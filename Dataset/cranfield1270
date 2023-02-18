@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1270
-</DOCNO>
-<TITLE>
-supersonic inlet dynamics .
-</TITLE>
-<AUTHOR>
-fraiser,h.r.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1960, 429.
-</BIBLIO>
-<TEXT>
-  an approximation of the differential equation for compressible
+supersonic inlet dynamics . an approximation of the differential equation for compressible
 duct flow is presented .  the equation is linear and of the second
 order .  the duct transfer function and response characteristics
 are obtained by applying small-perturbation theory to the differential
@@ -26,5 +12,3 @@ sugar-scoop inlet model with hypass for matching airflows .  testing
 was done in the 10 x 10 and 8 x 6 ft. supersonic tunnels
 at nasa lewis flight propulsion laboratory .  further agreement
 was obtained during flight tests of the f8u-3 airplane .
-</TEXT>
-</DOC>

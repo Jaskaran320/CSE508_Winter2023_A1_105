@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-769
-</DOCNO>
-<TITLE>
 local circumferential buckling of thin circular cylindrical
-shells .
-</TITLE>
-<AUTHOR>
-johns,d.j.
-</AUTHOR>
-<BIBLIO>
-nasa tn.d1510, 1962, 267.
-</BIBLIO>
-<TEXT>
-  the problem of circumferential
+shells . the problem of circumferential
 buckling of a thin circular cylindrical
 shell due to compressive
 hoop stresses which vary in the axial
@@ -28,5 +14,3 @@ into these two types of problem are
 considered which show that only
 a limited number of buckle deflection
 modes needs to be assumed .
-</TEXT>
-</DOC>

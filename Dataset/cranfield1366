@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1366
-</DOCNO>
-<TITLE>
 the compressible laminar boundary layer with heat transfer
-and arbitrary pressure gradient .
-</TITLE>
-<AUTHOR>
-cohen,c.b. and reshotko,e.
-</AUTHOR>
-<BIBLIO>
-naca r.1294, 1956.
-</BIBLIO>
-<TEXT>
-  an approximate method for the calculation of the compressible
+and arbitrary pressure gradient . an approximate method for the calculation of the compressible
 laminar boundary layer with heat transfer and
 arbitrary pressure gradient, based on thwaites' correlation
 concept, is presented .  the method results from the application
@@ -34,5 +20,3 @@ is demonstrated by applying the method to calculate the characteristics
 of the boundary layer on thin supersonic surfaces
 and in a highly cooled, convergent-divergent, axially symmetric
 rocket nozzle .
-</TEXT>
-</DOC>

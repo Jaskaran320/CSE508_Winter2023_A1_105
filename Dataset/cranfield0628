@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-628
-</DOCNO>
-<TITLE>
-thermal effects on a transpiration cooled hemisphere .
-</TITLE>
-<AUTHOR>
-gollnick,a.f.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 29, 1962, 583.
-</BIBLIO>
-<TEXT>
-  an approximate method is used to obtain the injection
+thermal effects on a transpiration cooled hemisphere . an approximate method is used to obtain the injection
 distribution which would exist on an isothermal,
 transpiration-cooled hemisphere in a supersonic stream .
 this distribution is the same for both air and helium
@@ -36,5 +22,3 @@ nose considerably reduces the heat flux at the surface .
 the additional reduction in heat flux resulting from
 helium injection as opposed to air injection, and predicted
 by existing theory, is largely absent .
-</TEXT>
-</DOC>

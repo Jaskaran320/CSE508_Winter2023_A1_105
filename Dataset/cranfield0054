@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-54
-</DOCNO>
-<TITLE>
 method for calculation of compressible laminar boundary
 layer characteristics in axial pressure gradient with
-zero heat transfer .
-</TITLE>
-<AUTHOR>
-morduchow,m. and clarke,j.h.
-</AUTHOR>
-<BIBLIO>
-naca tn.2784, 1952.
-</BIBLIO>
-<TEXT>
-  the karman-pohlhausen method is extended primarily to sixth-degree
+zero heat transfer . the karman-pohlhausen method is extended primarily to sixth-degree
 velocity profiles for determining
 the characteristics of the compressible
 laminar boundary layer over an adiabatic
@@ -36,5 +22,3 @@ for the special case of flow near a forward stagnation point it is shown
 that the karman-pohlhausen method with the usual fourth-degree profiles
 leads to results of adequate accuracy, even for the critical reynolds
 number .
-</TEXT>
-</DOC>

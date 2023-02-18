@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-929
-</DOCNO>
-<TITLE>
-stability of the cylindrical shell of variable curvature .
-</TITLE>
-<AUTHOR>
-marguerre,k.
-</AUTHOR>
-<BIBLIO>
-naca tm.1302,1951.
-</BIBLIO>
-<TEXT>
-the report is a first attempt to devise a calculation method
+stability of the cylindrical shell of variable curvature . the report is a first attempt to devise a calculation method
 for representing the buckling behavior of cylindrical shells
 of variable curvature .  the problem occurs, for instance, in
 dimensioning wing noses, the stability behavior of which is
@@ -29,5 +15,3 @@ applied approximately to an unsymmetrical oval-shell segment
 under compression, shear, and bending so that the numerical
 values contained in the diagrams 10 to 12 represent directly
 dimensioning data for the wing nose .
-</TEXT>
-</DOC>

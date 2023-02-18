@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-629
-</DOCNO>
-<TITLE>
-second-order effects in laminar boundary layers .
-</TITLE>
-<AUTHOR>
-maslen,s.h.
-</AUTHOR>
-<BIBLIO>
-a.i.a.a. j. 1963, 33.
-</BIBLIO>
-<TEXT>
-  second-order boundary layer disturbances are
+second-order effects in laminar boundary layers . second-order boundary layer disturbances are
 due to the displacement of the main flow by
 the boundary layer, surface curvature, freestream
 vorticity, and slip .  a procedure for finding
@@ -26,5 +12,3 @@ both shear and heat flux .  for the plate or cylinder,
 the same conclusion tends to hold for high
 speed flow .  the vorticity effect is governed by the
 entire outer flow--not just the wall vorticity .
-</TEXT>
-</DOC>

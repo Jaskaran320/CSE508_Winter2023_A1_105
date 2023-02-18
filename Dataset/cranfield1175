@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1175
-</DOCNO>
-<TITLE>
 stresses from local loadings in cylindrical pressure
-vessels .
-</TITLE>
-<AUTHOR>
-bijlaard,p.p.
-</AUTHOR>
-<BIBLIO>
-asme trans. 77, 1953.
-</BIBLIO>
-<TEXT>
-  a short discussion is given of the possible methods for
+vessels . a short discussion is given of the possible methods for
 computing the stresses caused in cylindrical shells by local
 loadings .  it is concluded that the method of developing
 the loads and displacements into double fourier series
@@ -44,5 +30,3 @@ is derived in terms of the radial displacement and the
 tangential load .  using this equation, formulas for the displacements,
 bending moments, and membrane forces for
 tangential loading within a rectangle are found .
-</TEXT>
-</DOC>

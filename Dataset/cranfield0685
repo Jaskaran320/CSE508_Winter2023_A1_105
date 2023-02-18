@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-685
-</DOCNO>
-<TITLE>
 aerodynamic effects of some configuration variables
 on the aeroelastic characteristics of lifting surfaces
-at mach numbers from 0. 7 to 6. 86 .
-</TITLE>
-<AUTHOR>
-hanson,p.w.
-</AUTHOR>
-<BIBLIO>
-nasa tn.d984, 1961.
-</BIBLIO>
-<TEXT>
-  results of flutter tests on
+at mach numbers from 0. 7 to 6. 86 . results of flutter tests on
 some simple all-movable-control-type
 models are given .  one set of models,
 which had a square planform with
@@ -65,5 +51,3 @@ increasing mach number .  in general,
 both methods of analysis gave unconservative
 results with respect to the
 experimental flutter boundaries .
-</TEXT>
-</DOC>

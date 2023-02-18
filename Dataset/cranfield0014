@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-14
-</DOCNO>
-<TITLE>
 piston theory - a new aerodynamic tool for the aeroelastician
-.
-</TITLE>
-<AUTHOR>
-ashley,h. and zartarian,g.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 23, 1956, 1109.
-</BIBLIO>
-<TEXT>
-  representative applications are described which illustrate the
+. representative applications are described which illustrate the
 extent to which simplifications in the solutions of high-speed unsteady
 aeroelastic problems can be achieved through the use of
 certain aerodynamic techniques known collectively as /piston
@@ -53,5 +39,3 @@ thermal effects are appreciable but nonlinear viscous interactions
 may be neglected, and that in this zone piston theory is the logical
 way of estimating air loads when analyzing aerodynamic-thermoelastic
 interaction problems .
-</TEXT>
-</DOC>

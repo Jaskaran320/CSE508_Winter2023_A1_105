@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1342
-</DOCNO>
-<TITLE>
-the calculation of aerodynamic loading on surfaces of any shape .
-</TITLE>
-<AUTHOR>
-falkner, v.m.
-</AUTHOR>
-<BIBLIO>
-r + m 1910, august 1943 .
-</BIBLIO>
-<TEXT>
-the object of the report is to establish a routine method for the calculation
+the calculation of aerodynamic loading on surfaces of any shape . the object of the report is to establish a routine method for the calculation
 of aerodynamic loads on wings of arbitrary shape . the method
 developed is based on potential theory and uses a general mathematical
 formula for continuous loading on a wing which is equivalent to a double
@@ -37,5 +23,3 @@ development includes the application to the calculation of the characteristics
 of actual sweptback wings, including rotary derivatives, and
  future development includes also applications in wind tunnel design and
  technique .
-</TEXT>
-</DOC>

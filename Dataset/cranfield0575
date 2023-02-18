@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-575
-</DOCNO>
-<TITLE>
-atomic recombination in a hypersonic wind tunnel nozzle .
-</TITLE>
-<AUTHOR>
-bray, k.n.c.
-</AUTHOR>
-<BIBLIO>
-j. fluid mech. v.6 part 1, 1-32. july, 1959 .
-</BIBLIO>
-<TEXT>
-the flow of an ideal dissociating gas through a nearly conical nozzle is
+atomic recombination in a hypersonic wind tunnel nozzle . the flow of an ideal dissociating gas through a nearly conical nozzle is
  considered . the equations of one-dimensional motion are solved numerically
 assuming a simple rate equation together with a number of different
 values for the rate constant . these calculations suggest that
@@ -35,5 +21,3 @@ slightly . the heat transfer rate and drag of a blunt body are estimated
  to be reduced by only about 25 per cent even if complete freezing
 occurs . however, the shock wave shape is shown to be rather more sensitive
 to departures from equilibrium .
-</TEXT>
-</DOC>

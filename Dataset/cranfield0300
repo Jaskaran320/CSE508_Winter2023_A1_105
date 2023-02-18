@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-300
-</DOCNO>
-<TITLE>
 on a particular class of similar solutions of the equations
-of motion and energy of a viscous fluid .
-</TITLE>
-<AUTHOR>
-reeves,b.l. and kippenhan,c.j.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 29, 1962.
-</BIBLIO>
-<TEXT>
-  by introducing the similarity concept to the two-dimensional,
+of motion and energy of a viscous fluid . by introducing the similarity concept to the two-dimensional,
 incompressible navier-stokes equations and energy equation, a
 particular class of solutions is found .  two general types of flows
 are considered ..  (1) laminar free convection--i.e., flows which
@@ -39,5 +25,3 @@ for prandtl numbers of 0.01 and 1.0 and for linear surface temperature
 variations .  some rather surprising results are obtained
 for diverging flows when separation occurs and some revealing
 comparisons with results from boundary-layer theory are made .
-</TEXT>
-</DOC>

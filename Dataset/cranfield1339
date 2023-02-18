@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1339
-</DOCNO>
-<TITLE>
 calculation of flutter characteristics for finite-span swept or unswept
-wings at subsonic and supersonic speeds by a modified strip analysis .
-</TITLE>
-<AUTHOR>
-yates, e.c.
-</AUTHOR>
-<BIBLIO>
-naca rm l57l10, 1958 .
-</BIBLIO>
-<TEXT>
-a method has been developed for calculating flutter characteristics of
+wings at subsonic and supersonic speeds by a modified strip analysis . a method has been developed for calculating flutter characteristics of
 finite-span swept or unswept wings at subsonic and supersonic speeds .
 the method is basically a rayleigh type analysis and is illustrated with
  uncoupled vibration modes although coupled modes can be used . the
@@ -31,5 +17,3 @@ flutter characteristics have been calculated by this method for 12 wings
 position at mach numbers from 0 to as high as 1.75 . comparisons
  of the results with experimental flutter data indicate that this method
  gives generally good flutter results for a broad range of wings .
-</TEXT>
-</DOC>

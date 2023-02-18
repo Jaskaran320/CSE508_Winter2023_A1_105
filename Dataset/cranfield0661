@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-661
-</DOCNO>
-<TITLE>
 summary of laminar boundary layer solutions for wedgetype
 flow over convection and transpiration cooled
-surfaces .
-</TITLE>
-<AUTHOR>
-livingood,j.n.b. and donoughe,p.
-</AUTHOR>
-<BIBLIO>
-naca tn.3588, 1955.
-</BIBLIO>
-<TEXT>
-  a summary of exact solutions of the
+surfaces . a summary of exact solutions of the
 laminar-boundary-layer equations
 for wedge-type flow, useful in estimating
 heat transfer to such arbitrarily
@@ -48,5 +34,3 @@ gradient .  heat-transfer results
 in the literature reveal that transpiration
 cooling is much more effective
 for prandtl numbers of the order of 5.0 than for 0.7 .
-</TEXT>
-</DOC>

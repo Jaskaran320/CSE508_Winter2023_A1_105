@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-574
-</DOCNO>
-<TITLE>
 inviscid flow with nonequilibrium molecular dissociation for pressure
-distributions encountered in hypersonic flight .
-</TITLE>
-<AUTHOR>
-bloom, m.g. and steiger, m.h.
-</AUTHOR>
-<BIBLIO>
-j. aero. sc. v. 27, pp 821-835, 1960 .
-</BIBLIO>
-<TEXT>
-one-dimensional inviscid nonequilibrium flows of a two-component model
+distributions encountered in hypersonic flight . one-dimensional inviscid nonequilibrium flows of a two-component model
 gas are studied for prescribed pressure variations and an average reaction
 rate based on recent data for oxygen recombination . these flows
 are interpreted in relation to the flow along streamlines around blunt
@@ -30,5 +16,3 @@ of the nose . these conclusions may lead to the simplification of
 the problem of distinguishing a dimensionless length-reaction rate parameter,
 which characterizes the extent of departures from equilibrium or
  from frozen behavior in the flow fields of interest here, is discussed
-</TEXT>
-</DOC>

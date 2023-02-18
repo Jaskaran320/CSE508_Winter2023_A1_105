@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-167
-</DOCNO>
-<TITLE>
-linearized flow of a dissociating gas .
-</TITLE>
-<AUTHOR>
-clarke,j.f.
-</AUTHOR>
-<BIBLIO>
-j.fluid mech. 7, 1960, 577.
-</BIBLIO>
-<TEXT>
-the equations for planar two-dimensional
+linearized flow of a dissociating gas . the equations for planar two-dimensional
 steady flow of an ideal dissociating gas
 are linearized, assuming small disturbances
 to a free stream in chemical
@@ -31,5 +17,3 @@ verify the present theory experimentally .
 in particular it may prove feasible to
 use the results to obtain a measure of the
 reaction rates in the gas mixture .
-</TEXT>
-</DOC>

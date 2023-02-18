@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1197
-</DOCNO>
-<TITLE>
 unsteady aerodynamic forces on slender supersonic aircraft
-with flexible wings and bodies .
-</TITLE>
-<AUTHOR>
-yates,j.e. and zeydel,e.f.e.
-</AUTHOR>
-<BIBLIO>
-aiaa jnl. 1, 1963, 350.
-</BIBLIO>
-<TEXT>
-  the present paper derives generalized aerodynamic
+with flexible wings and bodies . the present paper derives generalized aerodynamic
 forces for slender supersonic aircraft on
 the basis of slender-body theory .  particular
 consideration is given to configurations which
@@ -32,5 +18,3 @@ basis of slender-body theory, the velocity potential
 and, subsequently, the generalized aerodynamic
 forces are derived for a general class of
 spanwise flexible wing-body configurations .
-</TEXT>
-</DOC>

@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-975
-</DOCNO>
-<TITLE>
-one dimensional flows of an imperfect diatomic gas .
-</TITLE>
-<AUTHOR>
-eggers,a.j.
-</AUTHOR>
-<BIBLIO>
-naca r.959, 1950.
-</BIBLIO>
-<TEXT>
-  with the assumptions that berthelot's equation of state
+one dimensional flows of an imperfect diatomic gas . with the assumptions that berthelot's equation of state
 accounts for molecular size and intermolecular force effects, and
 that changes in the vibrational heat capacities are given by a
 planck term, expressions are developed for analyzing onedimensional
@@ -30,5 +16,3 @@ of gaseous imperfections on oblique shock flows are studied from
 the standpoint of their influence on the lift and pressure drag
 of a flat plate operating at mach numbers of 10 and 20 .  the
 influence is found to be small .
-</TEXT>
-</DOC>

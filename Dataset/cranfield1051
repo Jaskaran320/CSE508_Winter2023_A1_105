@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-1051
-</DOCNO>
-<TITLE>
 the stability of thin-walled unstiffened circular cylinders
 under axial compression including the effects of internal
-pressure .
-</TITLE>
-<AUTHOR>
-harris,l.a.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 24, 1957, 587.
-</BIBLIO>
-<TEXT>
-  in the design of high-speed aircraft the importance of unpressurized
+pressure . in the design of high-speed aircraft the importance of unpressurized
 and pressurized monocoque cylinders necessitates a reliable
 analysis procedure for the compressive buckling of cylindrical
 shells .  analysis by the classical small-deflection theory has
@@ -36,5 +22,3 @@ compressive buckling curves are then developed as 90 per cent
 probability curves from the test data .  in general, these statistically
 defined design curves are significantly lower than previously
 available design curves .
-</TEXT>
-</DOC>

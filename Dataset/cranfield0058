@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-58
-</DOCNO>
-<TITLE>
 pressure measurements on sharp and blunt 5 and 15 half-angle
 cones at mach number 3.86 and angles of attack to
-100 .
-</TITLE>
-<AUTHOR>
-amick,j.l.
-</AUTHOR>
-<BIBLIO>
-nasa tn.d753, 1961.
-</BIBLIO>
-<TEXT>
-  measured pressure distributions on cones are compared with modified
+100 . measured pressure distributions on cones are compared with modified
 newtonian theory .  deviations as large as 14 percent of the stagnation
 pressure behind a normal shock are found .
 by combining empirical results
@@ -38,5 +24,3 @@ behind the shock .
 pressure above the true value, if
 the orifice width is greater than onetenth
 the local radius of curvature .
-</TEXT>
-</DOC>

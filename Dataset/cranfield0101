@@ -1,20 +1,5 @@
-<DOC>
-<DOCNO>
-101
-</DOCNO>
-<TITLE>
 laminar heat transfer over blunt-nosed bodies at hypersonic flight
-speeds .
-</TITLE>
-<AUTHOR>
-lester lees
-</AUTHOR>
-<BIBLIO>
-the ramo-wooldridge corporation, los angles, and california institute
-of technology, pasadena, california
-</BIBLIO>
-<TEXT>
-this paper deals with two limiting cases of laminar heat transfer over
+speeds . this paper deals with two limiting cases of laminar heat transfer over
 blunt-nosed bodies at hypersonic flight speeds, or high stagnation temperatures..
  (a) thermodynamic equilibrium, in which the chemical reaction
 rates are regarded as /very fast/ compared to the rates of diffusion
@@ -44,5 +29,3 @@ when the diffusion coefficient is estimated by taking a reasonable value
 of atom-molecule collision cross section this ratio is 1.30 .  additional
 theoretical and (especially) experimental studies are clearly required
 before these simple results are accepted .
-</TEXT>
-</DOC>

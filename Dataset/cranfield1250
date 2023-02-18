@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1250
-</DOCNO>
-<TITLE>
-high-speed viscous corner flow .
-</TITLE>
-<AUTHOR>
-bloom,m.h. and rubin,s.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1961, 145.
-</BIBLIO>
-<TEXT>
-  a boundary-layer integral method analysis is set up for compressible
+high-speed viscous corner flow . a boundary-layer integral method analysis is set up for compressible
 laminar flow in a symmetric corner with varying angle
 and streamwise pressure gradient .  it represents an extension
 and modification of the constant density analysis of loitsianskii
@@ -40,5 +26,3 @@ decrease with mach number as its two-dimensional counterpart,
 whereas the /specific displacement-area,/ a measure of streamtube
 dilation, increases more rapidly with mach number than
 the comparable two-dimensional parameter .
-</TEXT>
-</DOC>

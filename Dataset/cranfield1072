@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1072
-</DOCNO>
-<TITLE>
-ignition and combustion in a laminar mixing zone .
-</TITLE>
-<AUTHOR>
-marble,f. and adamson,t.c.
-</AUTHOR>
-<BIBLIO>
-jet prop. 24, 1954, 85.
-</BIBLIO>
-<TEXT>
-  the analytic investigation of laminar combustion
+ignition and combustion in a laminar mixing zone . the analytic investigation of laminar combustion
 processes which are essentially two- or three-dimensional
 present some mathematical difficulties .  there are, however,
 several examples of two-dimensional flame propagation
@@ -55,5 +41,3 @@ physical apparatus of finite dimension .  the complete
 development of the laminar flame front is computed using
 an approximation similar to the integral technique introduced
 by von karman into boundary layer theory .
-</TEXT>
-</DOC>

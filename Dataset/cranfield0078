@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-78
-</DOCNO>
-<TITLE>
 an analytical treatment of aircraft propeller precession
-instability .
-</TITLE>
-<AUTHOR>
-reed,w.h. and bland,s.r.
-</AUTHOR>
-<BIBLIO>
-nasa tn.d659, 1961.
-</BIBLIO>
-<TEXT>
-  an analytical investigation is made of a precession-type instability
+instability . an analytical investigation is made of a precession-type instability
 which can occur in a flexibly supported aircraft-engine-propeller combination
 .  by means of an idealized
 mathematical model which is comprised
@@ -37,5 +23,3 @@ airspeeds for neutral stability
 are consistently lower than the
 measured values .  evidently, this result is due to the fact that wing
 response tends to add damping to the system .
-</TEXT>
-</DOC>

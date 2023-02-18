@@ -1,17 +1,4 @@
-<DOC>
-<DOCNO>
-474
-</DOCNO>
-<TITLE>
-laminar mixing of a compressible fluid .
-</TITLE>
-<AUTHOR>
-dean r. chapman
-</AUTHOR>
-<BIBLIO>
-</BIBLIO>
-<TEXT>
-a theoretical investigation of the velocity profiles for laminar
+laminar mixing of a compressible fluid . a theoretical investigation of the velocity profiles for laminar
 mixing of a high-velocity stream with a region of fluid at rest
 has been made assuming that the prandtl number is unity .  a method
 which involves only quadratures is presented for calculating the
@@ -27,5 +14,3 @@ such that it gives the correct value for the viscosity in the hightemperature
 part of the mixing layer, the resulting velocity profiles
 are in excellent agreement with those calculated by a 0.76-power
 variation .
-</TEXT>
-</DOC>

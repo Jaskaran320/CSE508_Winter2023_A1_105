@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-1381
-</DOCNO>
-<TITLE>
 effect of mach number on boundary layer transition
 in the presence of pressure rise and surface roughness
-on an ogive-cylinder body with cold wall conditions .
-</TITLE>
-<AUTHOR>
-carros,r.j.
-</AUTHOR>
-<BIBLIO>
-naca rm a56b15, 1956.
-</BIBLIO>
-<TEXT>
-  the effect of mach number variation
+on an ogive-cylinder body with cold wall conditions . the effect of mach number variation
 from 1.8 to 7.4 on boundary-layer
 transition was investigated on a slender
 fin-stabilized ogive-cylinder
@@ -59,5 +45,3 @@ infinite laminar stability to
 small two-dimensional disturbances as
 calculated for a flat plate with
 zero pressure gradient .
-</TEXT>
-</DOC>

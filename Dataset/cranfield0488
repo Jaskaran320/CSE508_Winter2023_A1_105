@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-488
-</DOCNO>
-<TITLE>
 a reaction-rate parameter for gasdynamics of a chemically
-reacting gas mixture .
-</TITLE>
-<AUTHOR>
-leonard,m.
-</AUTHOR>
-<BIBLIO>
-j.ae.scs. 29, 1962, 995.
-</BIBLIO>
-<TEXT>
-  presented note proposes a linearized reaction rate parameter
+reacting gas mixture . presented note proposes a linearized reaction rate parameter
 which is applicable to any reacting gas mixture provided all the
 pertinent reactions and their rate constants are known at the thermodynamic
 conditions under consideration .  linearizing is
@@ -26,5 +12,3 @@ space sciences laboratory, general electric co., msvo .
 by hall, i. g., et.al., /inviscid hypersonic air-flows with
 coupled non-equilibrium processes/ (ias paper 62-67, 30th annual
 meeting, new york, jan. 1962) indicates good agreement .
-</TEXT>
-</DOC>

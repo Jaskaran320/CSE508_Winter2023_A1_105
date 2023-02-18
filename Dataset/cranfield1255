@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1255
-</DOCNO>
-<TITLE>
-the flow about a charged body moving in the lower atmosphere .
-</TITLE>
-<AUTHOR>
-hunziker,r.r.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1960.
-</BIBLIO>
-<TEXT>
-  the flow about an electrically charged body traveling at high
+the flow about a charged body moving in the lower atmosphere . the flow about an electrically charged body traveling at high
 speeds through the lower ionosphere is analyzed .  a simple
 gas model composed of electrons, ions, and neutral particles is
 used and the hydrodynamic description given is based on maxwell's
@@ -29,5 +15,3 @@ calculated .  finally, the lack of validity of debye's linearization
 in this case and the solution of the exterior nonlinear problem
 which characterize the electric potential and the electron distribution
 are discussed .
-</TEXT>
-</DOC>

@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-682
-</DOCNO>
-<TITLE>
-the lift of twisted and cambered wings in supersonic flow .
-</TITLE>
-<AUTHOR>
-lance, g.n.
-</AUTHOR>
-<BIBLIO>
-aero. quart. v. 6/2/, may, 1955 .
-</BIBLIO>
-<TEXT>
-a generalised conical flow theory is used to deduce an integral equation
+the lift of twisted and cambered wings in supersonic flow . a generalised conical flow theory is used to deduce an integral equation
  relating the velocity potential on a delta wing/with subsonic leading
 edges/to the given downwash distribution over the wing . the complete
 solution of this integral equation is derived . this complete solution
@@ -29,5 +15,3 @@ co-ordinates . table iii gives similar formulae in the limiting case
 were used over a cycle of the tumbling motion . the analytical expression
 was in good agreement with numerical solutions of the complete nonlinear
 equations of motion .
-</TEXT>
-</DOC>

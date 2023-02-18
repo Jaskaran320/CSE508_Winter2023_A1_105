@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1393
-</DOCNO>
-<TITLE>
 heat transfer near the forward stagnation point of
-a body of revolution .
-</TITLE>
-<AUTHOR>
-sibulkin,m.j.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 19, 1952, 570.
-</BIBLIO>
-<TEXT>
-in order to determine the temperature distribution over a
+a body of revolution . in order to determine the temperature distribution over a
 body moving through the atmosphere, a knowledge of the
 local heat-transfer coefficients is required .  for slender sharpnosed
 bodies, the heat-transfer coefficients are frequently approximated
@@ -30,5 +16,3 @@ with supersonic velocity, the flow behind the central portion of
 the bow wave is subsonic, and it is possible that a low-speed solution,
 using as /free-stream/ conditions those behind the center
 of the bow wave, will apply near the stagnation point .
-</TEXT>
-</DOC>

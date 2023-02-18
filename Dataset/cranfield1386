@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-1386
-</DOCNO>
-<TITLE>
 analysis and calculation by integral methods of laminar
 compressible boundary layer with heat transfer and
-with and without pressure gradient .
-</TITLE>
-<AUTHOR>
-morduchow,m.
-</AUTHOR>
-<BIBLIO>
-naca r.1245, 1955.
-</BIBLIO>
-<TEXT>
-  a survey of integral methods in laminar-boundary-layer
+with and without pressure gradient . a survey of integral methods in laminar-boundary-layer
 analysis is first given .  a simple and sufficiently accurate
 method for practical purposes of calculating the properties
 layer in an axial pressure gradient with heat transfer at the
@@ -36,5 +22,3 @@ boundary-layer characteristics are derived and illustrated .  in
 particular the effects on skin-friction, heat-transfer coefficient,
 separation point in an adverse pressure gradient, and stability
 of the laminar boundary layer are analyzed .
-</TEXT>
-</DOC>

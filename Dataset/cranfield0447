@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-447
-</DOCNO>
-<TITLE>
-motion of thin bodies in a highly rarefied plasma .
-</TITLE>
-<AUTHOR>
-yoshira,h.
-</AUTHOR>
-<BIBLIO>
-phys.fluids,4, 1961.
-</BIBLIO>
-<TEXT>
-  magnetic effects are considered negligible,
+motion of thin bodies in a highly rarefied plasma . magnetic effects are considered negligible,
 and the velocity of the body is in a range between the
 electron and positive ion thermal speeds .
 the self-consistent field approach is used in which the
@@ -26,5 +12,3 @@ of a maxwellian distribution .  the solution for
 the simple case of a dielectric body with a given surface
 charge, as well as some general properties to
 be expected for a conducting body are given .
-</TEXT>
-</DOC>

@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-556
-</DOCNO>
-<TITLE>
 numerical comparison between exact and approximate
 theories of hypersonic inviscid flow past slender blunt
-nosed bodies .
-</TITLE>
-<AUTHOR>
-feldman,s.
-</AUTHOR>
-<BIBLIO>
-ars j. 30, 1960.
-</BIBLIO>
-<TEXT>
-  this paper presents numerical results of
+nosed bodies . this paper presents numerical results of
 exact calculations of the inviscid equilibrium flow about
 a long hemisphere-cylinder in motion
 at hypersonic velocity .  a comparison is made with blast
@@ -34,5 +20,3 @@ numerical calculations .  it was found
 that for certain flight velocities the pressure on the body
 does not decay to free stream pressure
 monotonically but overexpands .
-</TEXT>
-</DOC>

@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-873
-</DOCNO>
-<TITLE>
 lagrangian thermodynamics of heat transfer in systems
-including fluid motion .
-</TITLE>
-<AUTHOR>
-biot,m.a.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 29, 1962, 568.
-</BIBLIO>
-<TEXT>
-  the lagrangian thermodynamic equations of irreversible
+including fluid motion . the lagrangian thermodynamic equations of irreversible
 processes are extended to convective heat transfer .  this generalization
 provides equations for the unified analysis of transient
 heat flow in complex systems comprising solid structures and
@@ -30,5 +16,3 @@ concept of entropy production for both laminar and turbulent
 flow .  the theory amounts to an extension of the thermodynamics
 of irreversible processes to systems for which onsager's
 relations are not valid .
-</TEXT>
-</DOC>

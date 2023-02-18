@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-990
-</DOCNO>
-<TITLE>
 a rapid approximate method for determining velocity distribution on impeller
-blades of centrifugal compressors .
-</TITLE>
-<AUTHOR>
-stanitz, j.d. and prian, v.d.
-</AUTHOR>
-<BIBLIO>
-naca tn 2421, 1951 .
-</BIBLIO>
-<TEXT>
-a rapid approximate method of analysis was developed for both compressible
+blades of centrifugal compressors . a rapid approximate method of analysis was developed for both compressible
 and incompressible, nonviscous flow through radial- or mixedflow
 centrifugal compressors with arbitrary hub and shroud contours and
 with arbitrary blade shape . the method of analysis is used to determine
@@ -29,5 +15,3 @@ between the approximate solutions and the relaxation solutions was
 satisfactory except at the impeller tip where the velocities obtained by
  the approximate method did not, in general, become equal on both surfaces
 of the blade as required by the joukowski condition .
-</TEXT>
-</DOC>

@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-738
-</DOCNO>
-<TITLE>
-finding zero's of arbitrary functions .
-</TITLE>
-<AUTHOR>
-frank,w.l.
-</AUTHOR>
-<BIBLIO>
-j. assoc. comput. mach. 5, 1958, 154.
-</BIBLIO>
-<TEXT>
-  a method for finding real and complex
+finding zero's of arbitrary functions . a method for finding real and complex
 roots of polynomial equations, due to
 d. muller, is applied to finding roots of
 general equations of the form f(z) = 0,
@@ -33,5 +19,3 @@ arbitrary matrices ,. finding zeros of the
 generalized eigenvalue problem ,. finding
 roots of a number of transcendental
 equations .
-</TEXT>
-</DOC>

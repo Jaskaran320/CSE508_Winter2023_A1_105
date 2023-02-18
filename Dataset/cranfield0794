@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-794
-</DOCNO>
-<TITLE>
 experiments with a tapered swept-back wing of warren 12 planform at mach
- numbers between 0.6 and 1.6 .
-</TITLE>
-<AUTHOR>
-hall, i.m. and rogers, e.w.e.
-</AUTHOR>
-<BIBLIO>
-a.r.c. r + m 3271, part ii, july 1960 .
-</BIBLIO>
-<TEXT>
-the development of the flow pattern on a wing of aspect ratio 2 828,
+ numbers between 0.6 and 1.6 . the development of the flow pattern on a wing of aspect ratio 2 828,
 taper ratio 0 333, leading-edge sweepback 53 5 deg and 6 per cent
 thickness/chord ratio in the streamwise direction has been described in
 part 1, which discussed oil-flow patterns obtained on the surface of the
@@ -37,5 +23,3 @@ to illustrate the effects of mach number and incidence on the flow about
 boundary-layer separation due to shock waves on the wing surface . the
 principal factor appears to be the component of mach number normal to
 the shock front .
-</TEXT>
-</DOC>

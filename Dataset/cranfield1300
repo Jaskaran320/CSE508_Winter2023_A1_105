@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1300
-</DOCNO>
-<TITLE>
 some effects of bluntness on boundary layer transition
-and heat transfer at supersonic speeds .
-</TITLE>
-<AUTHOR>
-moeckel,w.e.
-</AUTHOR>
-<BIBLIO>
-naca r.1312, 1957.
-</BIBLIO>
-<TEXT>
-  large downstream movements of transition observed when the
+and heat transfer at supersonic speeds . large downstream movements of transition observed when the
 leading edge of a hollow cylinder or a flat plate is slightly
 blunted are explained in terms of the reduction in reynolds
 number at the outer edge of the boundary layer due to the detached
@@ -42,5 +28,3 @@ shock wave at flight mach numbers to 20 .  the dissipation and
 stability of these profiles are discussed, and a method is described
 for estimating the amount of blunting required to produce
 the maximum possible downstream movement of transition .
-</TEXT>
-</DOC>

@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-456
-</DOCNO>
-<TITLE>
 a study of flow fields about some typical blunt-nosed
-slender bodies .
-</TITLE>
-<AUTHOR>
-vaglio-laurin,r. and trella,m.
-</AUTHOR>
-<BIBLIO>
-pibal r.623, 1960.
-</BIBLIO>
-<TEXT>
-  complete inviscid flow fields about three model axisymmetric
+slender bodies . complete inviscid flow fields about three model axisymmetric
 configurations have been determined numerically .  configurations
 decreasing bluntness) and flight conditions have been selected so
 as to indicate separately effects of nose shape, drag coefficient,
@@ -37,5 +23,3 @@ configuration knowledge of the complete flow field in one flight
 condition (even pertaining to ideal gas flow) can be used to
 estimate features of flows under general flight conditions including
 those where equilibrium dissociation is encountered .
-</TEXT>
-</DOC>

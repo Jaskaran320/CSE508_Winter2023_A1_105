@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-235
-</DOCNO>
-<TITLE>
 on the minimisation and numerical evaluation of wave
-drag .
-</TITLE>
-<AUTHOR>
-eminton,e.
-</AUTHOR>
-<BIBLIO>
-rae r.aero.2564.
-</BIBLIO>
-<TEXT>
-  a fourier analysis of the linearised theory expression for the
+drag . a fourier analysis of the linearised theory expression for the
 zero-lift wave drag of a smooth, slender body in terms of its crosssectional
 area distribution is used
 to derive the area distribution which
@@ -33,5 +19,3 @@ calculation of the wave drag of
 wing-body combinations at zero lift,.
 an example is constructed to illustrate
 the method and to give an indication of its accuracy .
-</TEXT>
-</DOC>

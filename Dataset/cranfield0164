@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-164
-</DOCNO>
-<TITLE>
 an approximate analytical method for studying entry
-into planetary atospheres .
-</TITLE>
-<AUTHOR>
-chapman,d.r.
-</AUTHOR>
-<BIBLIO>
-nasa r-11, 1959.
-</BIBLIO>
-<TEXT>
-  the pair of motion equations for entry into a
+into planetary atospheres . the pair of motion equations for entry into a
 planetary atmosphere is reduced to a single, ordinary,
 nonlinear differential equation of second order by
 disregarding two relatively small terms and by introduring
@@ -51,5 +37,3 @@ for several types of manned entry .  a brief study
 is included of the process of atmosphere braking for
 slowing a vehicle from near escape velocity to near
 satellite velocity .
-</TEXT>
-</DOC>

@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-786
-</DOCNO>
-<TITLE>
-the skin friction on infinite cylinders moving parallell to their length
-</TITLE>
-<AUTHOR>
-batchelor, g.k.
-</AUTHOR>
-<BIBLIO>
-quart. j. mech. app. math. vol. vii, /2/, 1954, p. 179-192 .
-</BIBLIO>
-<TEXT>
-the frictional force on a cylinder moving steadily parallel to its
+the skin friction on infinite cylinders moving parallell to their length the frictional force on a cylinder moving steadily parallel to its
 length through a viscous liquid which is initially at rest is determined
  with reasonable accuracy over the whole range of values of the duration
  of the motion and for a wide variety of shapes of the cylinder crosssection
@@ -30,5 +16,3 @@ not overlap but can be joined without much ambiguity . for no value of t
  do the forces on cylinders of different shape /excluding those whose
 curvature is not everywhere inwards/ differ by more than about 25 per
 cent .
-</TEXT>
-</DOC>

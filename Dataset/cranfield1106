@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1106
-</DOCNO>
-<TITLE>
 free-flight observation of a separated turbulent flow
-including heat transfer up to mach 8. 5.
-</TITLE>
-<AUTHOR>
-mcconnell,d.g.
-</AUTHOR>
-<BIBLIO>
-nasa tn.d278, 1961.
-</BIBLIO>
-<TEXT>
-  a turbulent boundary layer separated
+including heat transfer up to mach 8. 5. a turbulent boundary layer separated
 by a forward-facing step was
 observed on the cylindrical portion
 of a hemisphere-cone-cylinder test
@@ -36,5 +22,3 @@ in heating of the separated
 flow, relative to the corresponding
 attached flow, was found to compare
 well with the expected results .
-</TEXT>
-</DOC>

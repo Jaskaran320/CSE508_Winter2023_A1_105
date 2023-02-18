@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1181
-</DOCNO>
-<TITLE>
 steady magnetohydrodynamic flow past a non-conducting
-wedge .
-</TITLE>
-<AUTHOR>
-chu,c.k. and lynn,y.m.
-</AUTHOR>
-<BIBLIO>
-aiaa jnl.
-</BIBLIO>
-<TEXT>
-  this paper presents a study of the steady twodimensional
+wedge . this paper presents a study of the steady twodimensional
 magnetohydrodynamic flow of an
 infinitely conducting fluid past a nonconducting
 wedge with nonaligned flow and magnetic
@@ -32,5 +18,3 @@ explicit solutions are obtained which are
 qualitatively similar to the nonlinear solutions .
 some interesting and unexpected features
 arise, and they are discussed in detail .
-</TEXT>
-</DOC>

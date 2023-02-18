@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-218
-</DOCNO>
-<TITLE>
 intensity, scale and spectra of turbulence in mixing
-region of free subsonic jet .
-</TITLE>
-<AUTHOR>
-laurence,j.
-</AUTHOR>
-<BIBLIO>
-naca r1292, 1956.
-</BIBLIO>
-<TEXT>
-  the intensity of turbulence, the longitudinal and lateral correlation
+region of free subsonic jet . the intensity of turbulence, the longitudinal and lateral correlation
 coefficients, and the spectra of turbulence in a 3.5-inchdiameter
 free jet were measured with hot-wire anemometers at
 exit mach numbers from 0.2 to 0.7 and reynolds numbers from
@@ -38,5 +24,3 @@ mum moves out from the centerline .  (6) a statistical analysis
 of the correlograms and spectra yields a /scale/ which, although
 different in magnitude from the conventional, varies similarly
 to the ordinary scale and is easier to evaluate .
-</TEXT>
-</DOC>

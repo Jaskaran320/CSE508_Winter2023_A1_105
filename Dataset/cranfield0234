@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-234
-</DOCNO>
-<TITLE>
 a second order shock-expansion method applicable to
-bodies of revolution near zero lift .
-</TITLE>
-<AUTHOR>
-syvertson,c.a. and denis,d.h.
-</AUTHOR>
-<BIBLIO>
-naca tn.3527.
-</BIBLIO>
-<TEXT>
-  a second-order shock-expansion
+bodies of revolution near zero lift . a second-order shock-expansion
 method applicable to bodies of revolution
 near zero lift is developed .
 expressions defining the pressures on
@@ -69,5 +55,3 @@ shock-expansion method appears
 applicable for values of the ratio
 of free-stream mach number to nose
 fineness ratio from 0.4 to 2 .
-</TEXT>
-</DOC>

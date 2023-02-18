@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1271
-</DOCNO>
-<TITLE>
-theory of supersonic propeller aerodynamics .
-</TITLE>
-<AUTHOR>
-ordway,d.e. and hale,r.w.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1960, 437.
-</BIBLIO>
-<TEXT>
-  a supersonic propeller with blades attached to an infinite cylinder
+theory of supersonic propeller aerodynamics . a supersonic propeller with blades attached to an infinite cylinder
 as a hub is studied .  the forward speed may be subsonic, but
 the relative speed at each section is supersonic .  the lightly
 loaded blades are represented by a surface distribution of appropriate
@@ -43,5 +29,3 @@ of the blade, as well as over the entire tip region .
   though this analysis is carried out explicitly for the supersonic
 propeller, it could also be extended to calculate various rotary
 derivatives for highspeed flight vehicles .
-</TEXT>
-</DOC>

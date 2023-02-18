@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1291
-</DOCNO>
-<TITLE>
 atmosphere entries with spacecraft lift-drag ratios
-modulated to limit decelerations .
-</TITLE>
-<AUTHOR>
-levy,l.l.
-</AUTHOR>
-<BIBLIO>
-nasa tn.d1427, 1962.
-</BIBLIO>
-<TEXT>
-  an analysis has been made of
+modulated to limit decelerations . an analysis has been made of
 atmosphere entries for which the
 spacecraft lift-drag ratios were
 modulated to limit the maximum deceleration
@@ -59,5 +45,3 @@ coefficients .  the fractional
 increase in corridor depth can be
 expressed as an empirically determined
 analytical function of this ratio .
-</TEXT>
-</DOC>

@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-801
-</DOCNO>
-<TITLE>
 experimental study of the equivalence of transonic
 flow about slender cone-cylinders of circular and elliptic
-cross section .
-</TITLE>
-<AUTHOR>
-page,w.a.
-</AUTHOR>
-<BIBLIO>
-naca tn.4233, 1958.
-</BIBLIO>
-<TEXT>
-  this report describes an experimental investigation of the equivalence
+cross section . this report describes an experimental investigation of the equivalence
 relationship and the related theory for lifting forces proposed by transonic
 slender-body theory .  the models chosen for this study are a
 flat, winglike, elliptic cone-cylinder and its equivalent body of
@@ -32,5 +18,3 @@ body of revolution are known, either by experiment, or by an adequate
 nonlinear theory .  from transonic slender-body theory it is deduced
 that the slenderness required for this application is the same as that
 required for the successful application of the transonic area rule .
-</TEXT>
-</DOC>

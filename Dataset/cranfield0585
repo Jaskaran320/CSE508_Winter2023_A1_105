@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-585
-</DOCNO>
-<TITLE>
-nonlinear heat transfer problem .
-</TITLE>
-<AUTHOR>
-chambre,p.l.
-</AUTHOR>
-<BIBLIO>
-j. app. phys. 30, 1959, 1683.
-</BIBLIO>
-<TEXT>
-  a study has been made of the time-dependent heat
+nonlinear heat transfer problem . a study has been made of the time-dependent heat
 conduction in a semi-infinite medium subject to a
 boundary condition which can involve the temperature
 in a nonlinear manner .  a formulation for the
@@ -26,5 +12,3 @@ receiving heat according to the stefan-boltzmann law
 is treated .  the analysis is also applicable to physical
 adsorption or chemisorption processes which occur at
 the boundary .
-</TEXT>
-</DOC>

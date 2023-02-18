@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-917
-</DOCNO>
-<TITLE>
 a method of calculating the short period longitudinal
 stability derivatives of a wing in linearised unsteady
-compressible flow .
-</TITLE>
-<AUTHOR>
-mangler,k.w.
-</AUTHOR>
-<BIBLIO>
-rae r. aero.2468.
-</BIBLIO>
-<TEXT>
-  a method is developed for the
+compressible flow . a method is developed for the
 calculation of the pressure distribution
 and the aerodynamic forces and
 moments on a wing performing harmonic
@@ -68,5 +54,3 @@ studying the effect of
 geometrical parameters on the stability of
 an aircraft at transonic
 speeds .
-</TEXT>
-</DOC>

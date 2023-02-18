@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-914
-</DOCNO>
-<TITLE>
-transtability flutter of supersonic aircraft panels .
-</TITLE>
-<AUTHOR>
-r. p. isaacs
-</AUTHOR>
-<BIBLIO>
-rand corp.
-</BIBLIO>
-<TEXT>
-for certain aero-elastic configurations it is possible to ascertain
+transtability flutter of supersonic aircraft panels . for certain aero-elastic configurations it is possible to ascertain
 critical flutter conditions from static considerations alone .  the
 idea is simply one of negation..  when the air speed exceeds a certain
 value statically stable equilibrium - and sometimes equilibrium itself
@@ -30,5 +16,3 @@ statically stable equilibrium of the system the transtability value .
 in some cases, excess of this value will ban all possibility of
 static equilibrium - stable or not., we will then call it a strong
 transtability value .
-</TEXT>
-</DOC>

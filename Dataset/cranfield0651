@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-651
-</DOCNO>
-<TITLE>
 heat transfer to separated and reattached subsonic
-turbulen flows obtained downstream of a surface step .
-</TITLE>
-<AUTHOR>
-seban,r.a., emery,a. and levy,a.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1959, 809.
-</BIBLIO>
-<TEXT>
-  local heat-transfer coefficients and recovery factors are presented
+turbulen flows obtained downstream of a surface step . local heat-transfer coefficients and recovery factors are presented
 for separated and reattached turbulent flows as obtained
 by a downward step in an otherwise flat surface in a two-dimensional,
 subsonic, air flow .  the region downstream of the step,
@@ -31,5 +17,3 @@ factors have the characteristically low values associated
 with separated flows, and do not attain values typical of turbulent
 boundary-layer flows within the downstream lengths available
 .
-</TEXT>
-</DOC>

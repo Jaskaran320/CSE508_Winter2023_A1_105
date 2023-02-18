@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-686
-</DOCNO>
-<TITLE>
 flutter tests of some simple models at a mach number
-of 7. 2 in helium flow .
-</TITLE>
-<AUTHOR>
-morgan,h.g. and miller,r.w.
-</AUTHOR>
-<BIBLIO>
-nasa memo 4-8-59l, 1959.
-</BIBLIO>
-<TEXT>
-  results of hypersonic flutter
+of 7. 2 in helium flow . results of hypersonic flutter
 tests on some simple models are presented
 .  the models had rectangular
 plan forms of panel aspect ratio 1.0,
@@ -50,5 +36,3 @@ would not satisfactorily predict
 the flutter of these models, probably
 because of their blunt leading
 edges .
-</TEXT>
-</DOC>

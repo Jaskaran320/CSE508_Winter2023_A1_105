@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-876
-</DOCNO>
-<TITLE>
-on flutter testing in high speed wind tunnels .
-</TITLE>
-<AUTHOR>
-lambourne,n.c. and scruton,c.
-</AUTHOR>
-<BIBLIO>
-arc r + m.3054, 1956.
-</BIBLIO>
-<TEXT>
-  the requirements for simulating in a wind tunnel flutter conditions
+on flutter testing in high speed wind tunnels . the requirements for simulating in a wind tunnel flutter conditions
 appropriate to high-speed flight are discussed, and an assessment is
 made of the desirable features of a wind tunnel suitable for flutter
 testing at transonic and supersonic speeds .
@@ -28,5 +14,3 @@ the design of the model .  to minimise uncertainties due to the
 variation of the model stiffness with temperature it is desirable that
 means for controlling the stagnation temperature should be incorporated
 in the tunnel .
-</TEXT>
-</DOC>

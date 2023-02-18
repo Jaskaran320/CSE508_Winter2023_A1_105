@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-148
-</DOCNO>
-<TITLE>
-on displacement thickness .
-</TITLE>
-<AUTHOR>
-lighthill,m.j.
-</AUTHOR>
-<BIBLIO>
-j.fluid mech. 4, 1958, 383.
-</BIBLIO>
-<TEXT>
-  four alternative theoretical treatments of 'displacement
+on displacement thickness . four alternative theoretical treatments of 'displacement
 thickness', and, generally, of the influence of boundary layers
 and wakes on the flow outside them, are set out, first for twodimensional,
 and then for three-dimensional, laminar or turbulent,
@@ -26,5 +12,3 @@ flow, and y as a coordinate, constant along the external-flow
 streamlines, such that h dy is the distance between (x,y) and
 z is the distance from the surface, u and v are the x and y components
 of velocity, and u takes the value u just outside the boundary layer .
-</TEXT>
-</DOC>

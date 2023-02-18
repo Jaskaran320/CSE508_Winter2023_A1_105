@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-263
-</DOCNO>
-<TITLE>
 cylindrical shock waves produced by instantaneous energy
-release .
-</TITLE>
-<AUTHOR>
-lin,s.c.
-</AUTHOR>
-<BIBLIO>
-j.app.phys. 25, 1954, 54.
-</BIBLIO>
-<TEXT>
-  taylor's analysis of the intense spherical explosion
+release . taylor's analysis of the intense spherical explosion
 has been extended to the cylindrical case .  it is found
 that the radius r of a strong cylindrical shock wave
 produced by a sudden release of energy e per unit length
@@ -30,5 +16,3 @@ missile is approximately a paraboloid given by
 where d and v denote the total
 drag and the velocity of the missile, respectively,
 and x is the distance behind the missile .
-</TEXT>
-</DOC>

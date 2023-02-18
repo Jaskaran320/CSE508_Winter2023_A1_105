@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1226
-</DOCNO>
-<TITLE>
 heat transfer in the laminar boundary layer with ablation
-of vapor of arbitrary molecular weight .
-</TITLE>
-<AUTHOR>
-faulders,c.r.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1962, 76.
-</BIBLIO>
-<TEXT>
-  the reduction of heat transfer in the laminar boundary layer
+of vapor of arbitrary molecular weight . the reduction of heat transfer in the laminar boundary layer
 under the condition of vaporizing ablation is analyzed for arbitrary
 molecular weight of the vapor .  primary assumptions are
 that the pressure gradient is zero, the individual components of
@@ -38,5 +24,3 @@ block ratio is the variation of across the boundary layer .
 little loss of accuracy is incurred, in the range of molecular weight
 ratios considered here, by assuming schmidt and prandtl numbers
 of unity as long as the variation is properly taken into account .
-</TEXT>
-</DOC>

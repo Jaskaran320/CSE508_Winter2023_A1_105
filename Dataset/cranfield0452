@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-452
-</DOCNO>
-<TITLE>
-symmetric joukowsky airfoils in shear flow .
-</TITLE>
-<AUTHOR>
-tsien,h.s.
-</AUTHOR>
-<BIBLIO>
-q. app. math. 1, 1943, 130.
-</BIBLIO>
-<TEXT>
-  the velocity components of the fluid far from the airfoil
+symmetric joukowsky airfoils in shear flow . the velocity components of the fluid far from the airfoil
 are given by where c is the chord of
 the airfoil, and k are constants, u and v are velocity
 components in the directions of the coordinates x and y .
@@ -49,5 +35,3 @@ thickness ratio between 0 and 1 .  the aerodynamic-center
 position and the coefficient of the moment about the aerodynamic
 center are also calculated and are presented
 graphically as functions of .
-</TEXT>
-</DOC>

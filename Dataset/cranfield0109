@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-109
-</DOCNO>
-<TITLE>
-the production of uniform shear flow in a wind tunnel .
-</TITLE>
-<AUTHOR>
-owen,p.r. and zienkiewicz,h.k.
-</AUTHOR>
-<BIBLIO>
-j.fluid mech. 2, 1957, 521.
-</BIBLIO>
-<TEXT>
-  a nearly uniform shear flow was obtained in the working
+the production of uniform shear flow in a wind tunnel . a nearly uniform shear flow was obtained in the working
 section of a wind tunnel by inserting a grid of parallel rods with
 varying spacing .
   the function of such a grid is to impose a resistance to the
@@ -28,5 +14,3 @@ the experiment of any large-scale secondary flow accompanying
 the shear--a danger inherent in an empirical attempt to grade the
 resistance of the grid--nor was any tendency observed for the
 shear to decay with increasing distance from the grid .
-</TEXT>
-</DOC>

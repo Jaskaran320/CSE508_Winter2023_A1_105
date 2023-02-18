@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-980
-</DOCNO>
-<TITLE>
 a method of computing the transient temperature of thick walls from
 arbitrary variation of adiabatic-wall temperature and heat-transfer coefficient
-.
-</TITLE>
-<AUTHOR>
-hills, p.r.
-</AUTHOR>
-<BIBLIO>
-naca report 1372, 1958 .
-</BIBLIO>
-<TEXT>
-a method of calculating the temperature of thick walls has been
+. a method of calculating the temperature of thick walls has been
 developed in which are used relatively new concepts, such as the time
 series and the response to a unit triangle variation of surface temperature,
 together with essentially standard formulas for transient
@@ -32,5 +18,3 @@ method to be accurate . the labor involved is very modest in consideration
 of the nature of the thick-wall temperature problem .
 limiting solutions for the /infinitely thick/ wall and for walls so
 thin that thermal lag can be neglected were also obtained .
-</TEXT>
-</DOC>

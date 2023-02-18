@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1394
-</DOCNO>
-<TITLE>
 stagnation point heat transfer measurements in hypersonic
-low density flow .
-</TITLE>
-<AUTHOR>
-neice,s.e., rutkowski,r.w. and chann,k.k.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs.27, 1960, 387.
-</BIBLIO>
-<TEXT>
-in hypersonic, low reynolds number flow around a blunt body,
+low density flow . in hypersonic, low reynolds number flow around a blunt body,
 the boundary-layer thickness approaches the shock-layer
 thickness (shock standoff distance) within the region of continuum
 flow .  in this instance, the customary boundary-layer
@@ -27,5 +13,3 @@ the actual heat-transfer rates would be correspondingly higher
 than the predictions of fay and riddell .  these findings are of
 particular importance in the atmospheric entry phase of recoverable
 satellites .
-</TEXT>
-</DOC>

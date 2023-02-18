@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-62
-</DOCNO>
-<TITLE>
 similar solutions for the compressible laminar boundary
-layer with heat transfer and pressure gradient .
-</TITLE>
-<AUTHOR>
-cohen,c.b. and reshotko,e.
-</AUTHOR>
-<BIBLIO>
-naca tn.3325, 1955.
-</BIBLIO>
-<TEXT>
-  stewartson's transformation is applied to the laminar compressible
+layer with heat transfer and pressure gradient . stewartson's transformation is applied to the laminar compressible
 boundary-layer equations and the
 requirement of similarity is introduced,
 resulting in a set of ordinary nonlinear differential equations previously
@@ -47,5 +33,3 @@ analogy parameter, which indicates the ratio of skin friction to heat
 transfer, is from zero to 7.4 for a surface of temperature twice the
 free-stream stagnation temperature, and from zero to 2.8 for a surface
 held at absolute zero where the value 2 applies to a flat plate .
-</TEXT>
-</DOC>

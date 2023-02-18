@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1055
-</DOCNO>
-<TITLE>
-non-linear bending and buckling of circular plates .
-</TITLE>
-<AUTHOR>
-keller,h.b. and reiss,e.l.
-</AUTHOR>
-<BIBLIO>
-proc. 3rd u.s. nat. cong. app. mech. 1958, 375.
-</BIBLIO>
-<TEXT>
-  iterative solutions of finite difference
+non-linear bending and buckling of circular plates . iterative solutions of finite difference
 approximations of the non-linear von karman
 plate equations are presented .  results
 are obtained for circular plates under a
@@ -29,5 +15,3 @@ computing purposes, this iterative method proves
 to be superior to the previously used
 power series method and may be applicable to
 other non-linear problems .
-</TEXT>
-</DOC>

@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-956
-</DOCNO>
-<TITLE>
 elastic stability of simply supported corrugated core
-sand- wich cylinders .
-</TITLE>
-<AUTHOR>
-harris,l.a. and baker,e.g.
-</AUTHOR>
-<BIBLIO>
-nasa tn.d1510, 1962, 331.
-</BIBLIO>
-<TEXT>
-  theoretical buckling coefficients
+sand- wich cylinders . theoretical buckling coefficients
 are obtained for the general instability
 of simply supported, corrugated
 core sandwich circular cylinders
@@ -34,5 +20,3 @@ by galerkin's equation .  remarks
 are made concerning the probable
 validity of the results of the
 small deflection theory for sandwich shells .
-</TEXT>
-</DOC>

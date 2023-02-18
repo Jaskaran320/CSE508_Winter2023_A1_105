@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-35
-</DOCNO>
-<TITLE>
-stagnation point of a blunt body in hypersonic flow .
-</TITLE>
-<AUTHOR>
-li,t.y. and geiger,r.e.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 24, 1957, 25.
-</BIBLIO>
-<TEXT>
-  the purpose of this paper is to present a method of calculation
+stagnation point of a blunt body in hypersonic flow . the purpose of this paper is to present a method of calculation
 devised to yield all the important information on the symmetric
 inviscid hypersonic flow in the stagnation point region of a blunt
 body .  the problem is the same as that considered by hayes
@@ -29,5 +15,3 @@ better approximation than the newtonian impact theory for
 hypersonic mach numbers .
   in conclusion, the possibility of refinements to this analysis is
 discussed .
-</TEXT>
-</DOC>

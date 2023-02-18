@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-94
-</DOCNO>
-<TITLE>
 the transverse curvature effect in compressible axially
-symmetric laminar boundary layer flow .
-</TITLE>
-<AUTHOR>
-probstein,r.f. and elliott,d.
-</AUTHOR>
-<BIBLIO>
-j. ae.scs. 28, 1956, 206.
-</BIBLIO>
-<TEXT>
-  the viscous transverse curvature effect in compressible axially
+symmetric laminar boundary layer flow . the viscous transverse curvature effect in compressible axially
 symmetric laminar boundary-layer flow has been investigated,
 and it is found that the effect is characterized by the parameter
 which is essentially the ratio of the boundary-layer thickness
@@ -62,5 +48,3 @@ behaves again like a favorable pressure gradient and tends to
 delay both separation and transition when compared with axially
 symmetric flows in which the transverse curvature effect is neglected
 .
-</TEXT>
-</DOC>

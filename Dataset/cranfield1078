@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1078
-</DOCNO>
-<TITLE>
 the steady flow of a viscous fluid past a circular cylinder at reynolds
-numbers 40 and 44 .
-</TITLE>
-<AUTHOR>
-apelt, c.j
-</AUTHOR>
-<BIBLIO>
-a.r.c. r + m 3175 .
-</BIBLIO>
-<TEXT>
-this paper describes the numerical solution of the complete navierstokes
+numbers 40 and 44 . this paper describes the numerical solution of the complete navierstokes
 equations for the steady flow of an incompressible viscous fluid
 of unlimited extent past a circular cylinder at reynolds number 40 . a
 new device developed for the numerical solution is described . the
@@ -26,5 +12,3 @@ portion of the cylinder continues to increase with reynolds number in
 such steady-state solutions up to a reynolds number 44 and no indication
  has been found that this process will not continue as the reynolds
 number is increased beyond 44 .
-</TEXT>
-</DOC>

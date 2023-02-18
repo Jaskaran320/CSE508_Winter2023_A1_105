@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1189
-</DOCNO>
-<TITLE>
-nonequilibrium flow past a wedge .
-</TITLE>
-<AUTHOR>
-capiaux,r. and washington,m.
-</AUTHOR>
-<BIBLIO>
-aiaa jnl. 1963, 1, 650.
-</BIBLIO>
-<TEXT>
-  an exact numerical solution is obtained for
+nonequilibrium flow past a wedge . an exact numerical solution is obtained for
 the chemically reacting flow past a wedge .  the
 freestream is either in equilibrium or out of
 equilibrium but nonreacting .  the attached
@@ -27,5 +13,3 @@ field is characterized by the presence of an entropy
 layer and a relaxation layer, both easily
 identifiable in the presentation of the numerical
 results .
-</TEXT>
-</DOC>

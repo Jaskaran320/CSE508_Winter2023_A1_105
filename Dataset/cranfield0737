@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-737
-</DOCNO>
-<TITLE>
-on the analysis of elastic plates of variable thickness .
-</TITLE>
-<AUTHOR>
-mansfield,e.h.
-</AUTHOR>
-<BIBLIO>
-q. j. mech. app. math. 15, 1962, 167.
-</BIBLIO>
-<TEXT>
-  the extensional and flexural equations
+on the analysis of elastic plates of variable thickness . the extensional and flexural equations
 governing the elastic behaviour of a plate
 of variable thickness are expressed in
 terms of the laplacian operator .  temperature
@@ -27,5 +13,3 @@ as a power of the radius .
   the large-deflexion equations, including
 effects of initial irregularities, are also
 discussed .
-</TEXT>
-</DOC>

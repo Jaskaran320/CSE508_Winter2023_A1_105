@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-924
-</DOCNO>
-<TITLE>
 a method for calculating the lift and centre of pressure
 of wing-body-tail combinations at subsonic, transonic
-speeds .
-</TITLE>
-<AUTHOR>
-nielsen,j.n., kaattari,g.e. and anastasio,r.f.
-</AUTHOR>
-<BIBLIO>
-naca til.3959.
-</BIBLIO>
-<TEXT>
-  a method is presented for
+speeds . a method is presented for
 calculating the lift and pitching-moment
 characteristics of circular cylindrical
 bodies in combination with triangular,
@@ -48,5 +34,3 @@ interference at supersonic speeds
 was not correctly predicted for triangular
 wings with supersonic leading
 edges .
-</TEXT>
-</DOC>

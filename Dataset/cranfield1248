@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1248
-</DOCNO>
-<TITLE>
-an analytic extension of the shock-expansion method .
-</TITLE>
-<AUTHOR>
-waldman,g.d. and probstein,r.f.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1961, 119.
-</BIBLIO>
-<TEXT>
-  the problem is considered of calculating approximately the
+an analytic extension of the shock-expansion method . the problem is considered of calculating approximately the
 inviscid rotational flow field and pressure distribution about a
 smooth two-dimensional airfoil with sharp leading and trailing
 edges in a uniform supersonic or hypersonic stream .  the assumption
@@ -52,5 +38,3 @@ are calculated for a family of parabolic arc airfoils at
 an infinite free-stream mach number .  these results are compared
 with rotational characteristic solutions where available,
 and the present method is found to be in excellent agreement .
-</TEXT>
-</DOC>

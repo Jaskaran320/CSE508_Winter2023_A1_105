@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-342
-</DOCNO>
-<TITLE>
 effect of diffusion fields on the laminar boundary
-layer .
-</TITLE>
-<AUTHOR>
-smith,j.w.
-</AUTHOR>
-<BIBLIO>
-j.ze.scs. 21, 1954.
-</BIBLIO>
-<TEXT>
-  a theory is developed which describes the effect of a general
+layer . a theory is developed which describes the effect of a general
 diffusion field on the dynamic and thermal characteristics of a
 laminar boundary layer on a flat plate in steady compressible
 flow .  fluid properties are considered as functions of temperature
@@ -36,5 +22,3 @@ good results have been achieved at mach numbers 8 and 12 .
 whereas at the higher mach number the influx of heat was practically
 eliminated, a reversal in the direction of heat flow has
 been effected at the lower mach number .
-</TEXT>
-</DOC>

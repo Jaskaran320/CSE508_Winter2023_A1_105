@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1056
-</DOCNO>
-<TITLE>
 axisymmetric large deflections of circular plates subjected
-to thermal and mechanical load .
-</TITLE>
-<AUTHOR>
-newman,m. and forray,m.
-</AUTHOR>
-<BIBLIO>
-proc. aerospace forum i session, s.m.f. paper ff-30, 1962, 56.
-</BIBLIO>
-<TEXT>
-  this paper is concerned with the nonlinear axisymmetric
+to thermal and mechanical load . this paper is concerned with the nonlinear axisymmetric
 analysis of circular plates with in-plane
 edge restraint .  both temperature and mechanical
 loads are accommodated as an extension of investigations
@@ -43,5 +29,3 @@ arbitrary temperature variation through the thickness
 tained for a large range of temperature and load parameters
 .  however, because of space limitations, only
 a limited amount of data are presented in this paper .
-</TEXT>
-</DOC>

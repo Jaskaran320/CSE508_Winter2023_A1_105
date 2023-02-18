@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-552
-</DOCNO>
-<TITLE>
-chemical kinetics of high temperature air .
-</TITLE>
-<AUTHOR>
-wray,k.l.
-</AUTHOR>
-<BIBLIO>
-hypersonic flow research, p 181, academic press, new york, 1962.
-</BIBLIO>
-<TEXT>
-  when a hypersonic object enters earth's atmosphere, a shock
+chemical kinetics of high temperature air . when a hypersonic object enters earth's atmosphere, a shock
 wave is formed in front of it, and the air passing through this
 shock wave is heated to high temperatures .  the shock heated
 molecules equilibrate their translational and rotational degrees
@@ -35,5 +21,3 @@ and density time histories are shown for three different shock
 speeds in air .  the time rate of change of concentration for
 each chemical reaction is also shown and regimes of importance
 for the various processes are discussed .
-</TEXT>
-</DOC>

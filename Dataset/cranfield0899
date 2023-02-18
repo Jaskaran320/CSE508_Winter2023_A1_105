@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-899
-</DOCNO>
-<TITLE>
-aerodynamic effects on boundary layer unsteadiness .
-</TITLE>
-<AUTHOR>
-moore,f.k.
-</AUTHOR>
-<BIBLIO>
-6th a.a.aero.conf. 1957.
-</BIBLIO>
-<TEXT>
-  with a view to the study of
+aerodynamic effects on boundary layer unsteadiness . with a view to the study of
 aerodynamic problems, a review is made
 of boundary layer theory for a flat
 plate moving with a time-dependent
@@ -42,5 +28,3 @@ is described, using unsteady
 laminar boundary layer considerations, which
 leads to a prediction of counterclockwise
 hysteresis at maximum lift .
-</TEXT>
-</DOC>

@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1137
-</DOCNO>
-<TITLE>
-on the theory of thin elastic toroidal shells .
-</TITLE>
-<AUTHOR>
-clark,r.a.
-</AUTHOR>
-<BIBLIO>
-j. math. phys. 29, 1950, 146.
-</BIBLIO>
-<TEXT>
-  the author obtains asymptotic solutions to the problem
+on the theory of thin elastic toroidal shells . the author obtains asymptotic solutions to the problem
 of rotationally symmetric small deflection of thin toroidal
 elastic shells .  he first reduces the problem to that of integrating
 a single linear nonhomogeneous ordinary differential
@@ -39,5 +25,3 @@ and parallel to its axis, a corrugated pipe subject to axial
 load, and a corrugated cylinder subject to axial pressure .
 many numerical calculations are involved and there are two
 tables of functions occuring in the solutions .
-</TEXT>
-</DOC>

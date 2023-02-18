@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-623
-</DOCNO>
-<TITLE>
-on the coupling between heat and mass transfer .
-</TITLE>
-<AUTHOR>
-tewfik,o.e.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 28, 1962, 1009.
-</BIBLIO>
-<TEXT>
-in mixtures of two different gases or liquids, one constituent
+on the coupling between heat and mass transfer . in mixtures of two different gases or liquids, one constituent
 will migrate spontaneously toward the warmer parts, and
 the other toward the colder parts .  this phenomenon, known
 as the soret effect, and its converse the dufour effect, were
@@ -33,5 +19,3 @@ model wall into one part depending on the temperature gradient
 and a second part caused by the coupling .  it is shown that
 the latter exceeds the former, and hence the coupling may not
 be neglected a priori without careful consideration .
-</TEXT>
-</DOC>

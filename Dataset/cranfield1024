@@ -1,16 +1,4 @@
-<DOC>
-<DOCNO>
-1024
-</DOCNO>
-<TITLE>
-note on creep buckling of columns .
-</TITLE>
-<AUTHOR>
-</AUTHOR>
-<BIBLIO>
-</BIBLIO>
-<TEXT>
-  the general dynamic equation of
+note on creep buckling of columns . the general dynamic equation of
 creep bending of a beam loaded laterally
 and axially was derived for a
 linearly viscoelastic material whose
@@ -45,5 +33,3 @@ deflection-time curves obtained from a
 numerical example are of the same
 type as those determined by experiment
 with aluminum columns .
-</TEXT>
-</DOC>

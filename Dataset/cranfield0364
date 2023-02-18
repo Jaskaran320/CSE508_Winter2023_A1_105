@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-364
-</DOCNO>
-<TITLE>
 a method for analysing the insulating properties of
-the laminar compressible boundary layer .
-</TITLE>
-<AUTHOR>
-libby,pa. and pallone,a.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 21, 1954.
-</BIBLIO>
-<TEXT>
-  in some cooling problems associated with high energy flows
+the laminar compressible boundary layer . in some cooling problems associated with high energy flows
 it may be convenient to localize strongly the cooling, as for example
 by injecting a coolant through an upstream porous strip,
 and to depend on the insulating properties of the boundary layer
@@ -51,5 +37,3 @@ for the case of zero axial pressure gradient are obtained .  for
 flows with significant pressure gradients, numerical solutions
 are required in general .  several numerical examples of practical
 interest are presented .
-</TEXT>
-</DOC>

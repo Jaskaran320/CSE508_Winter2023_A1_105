@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-998
-</DOCNO>
-<TITLE>
-equations, tables and charts for compressible flow .
-</TITLE>
-<AUTHOR>
-ames research staff.
-</AUTHOR>
-<BIBLIO>
-naca r.1135, 1953.
-</BIBLIO>
-<TEXT>
-  this report, which is a revision and extension of naca tn
+equations, tables and charts for compressible flow . this report, which is a revision and extension of naca tn
 useful in the analysis of high-speed flow of a compressible fluid .
 the equations provide relations for continuous one-dimensional
 flow, normal and oblique shock waves, and prandtl-meyer
@@ -25,5 +11,3 @@ gas) for oblique shock waves and for cones in a supersonic air
 stream .  a second series shows the effects of caloric imperfections
 on continuous one-dimensional flow and on the flow
 through normal and oblique shock waves .
-</TEXT>
-</DOC>

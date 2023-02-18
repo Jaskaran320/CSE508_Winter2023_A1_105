@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-689
-</DOCNO>
-<TITLE>
 investigation of the laminar aerodynamics heat transfer
 characteristics of a hemisphere cylinder in the langley
-11-inch hypersonic tunnel at a mach number of 6. 8.
-</TITLE>
-<AUTHOR>
-crawford,d.h. and mccauley,w.d.
-</AUTHOR>
-<BIBLIO>
-naca r.1323, 1957.
-</BIBLIO>
-<TEXT>
-  a program to investigate the aerodynamic heat transfer of a
+11-inch hypersonic tunnel at a mach number of 6. 8. a program to investigate the aerodynamic heat transfer of a
 nonisothermal hemisphere-cylinder has been conducted in the
 langley 11-inch hypersonic tunnel at a mach number of 6.8
 and a reynolds number from approximately 0.14x10 to
@@ -39,5 +25,3 @@ diameter and conditions behind the normal shock were used,
 was in good agreement with the experiment when the velocity
 gradient at the stagnation point appropriate to the free-stream
 mach number was used .
-</TEXT>
-</DOC>

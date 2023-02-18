@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-435
-</DOCNO>
-<TITLE>
 application of similar solutions to calculations of
 laminar heat transfer on bodies with yaw and large
-pressure gradients in high speed flow .
-</TITLE>
-<AUTHOR>
-beckwith,i.e. and cohen,n.b.
-</AUTHOR>
-<BIBLIO>
-nada tn.d625, 1961.
-</BIBLIO>
-<TEXT>
-  an integral method for the rapid calculation of heat-transfer
+pressure gradients in high speed flow . an integral method for the rapid calculation of heat-transfer
 distributions on yawed cylinders of arbitrary cross-sectional shape
 and on bodies of revolution in high-speed flows is developed for
 laminar boundary layers .  the method involves the quadrature of a
@@ -31,5 +17,3 @@ generally better agreement with the data than certain other local similarity
 methods .
   numerical examples are presented showing that the effect of sweep
 and gas properties on heat-transfer distribution is small .
-</TEXT>
-</DOC>

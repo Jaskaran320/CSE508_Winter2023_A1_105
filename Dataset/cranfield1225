@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1225
-</DOCNO>
-<TITLE>
 the effect of adverse pressure gradients on the characteristics of
-turbulent boundary layers in supersonic streams .
-</TITLE>
-<AUTHOR>
-george h. mclafferty and robert e. barber
-</AUTHOR>
-<BIBLIO>
-united aircraft corporation research laboratories
-</BIBLIO>
-<TEXT>
-tests were conducted at mach numbers from 2.0 to 3.5 to determine
+turbulent boundary layers in supersonic streams . tests were conducted at mach numbers from 2.0 to 3.5 to determine
 the thickness and profile shape characteristics of turbulent boundary
 layers on two-dimensional and axisymmetric curved-surface models
 having adverse pressure gradients .  the magnitude of the gradients
@@ -39,5 +25,3 @@ on the experimental observation that the station at which high-energy
 free-stream flow actually mixes into a turbulent boundary layer in
 an adverse pressure gradient is well downstream of the station at
 which flow would have to mix in order to maintain a flat-plate profile .
-</TEXT>
-</DOC>

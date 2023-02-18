@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-105
-</DOCNO>
-<TITLE>
 the asymptotic boundary layer on a circular cylinder
-in axial incompressible flow .
-</TITLE>
-<AUTHOR>
-stewartson,k.
-</AUTHOR>
-<BIBLIO>
-q.app.math. 13, 1955, 113.
-</BIBLIO>
-<TEXT>
-  in this paper the incompressible boundary layer over a
+in axial incompressible flow . in this paper the incompressible boundary layer over a
 circular cylinder in an axial flow is investigated far from the
 leading edge .  if u and v are the velocity components in the
 x and r direction respectively and a stream function is
@@ -31,5 +17,3 @@ method breaks down), is studied .  it is concluded that the
 effect of the curvature of the cylinder, when the boundary
 layer has a thickness comparable with its radius of curvature,
 is to delay separation .
-</TEXT>
-</DOC>

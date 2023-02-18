@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-814
-</DOCNO>
-<TITLE>
-stability derivatives of cones at supersonic speeds .
-</TITLE>
-<AUTHOR>
-tobak,m. and wehrend,w.r.
-</AUTHOR>
-<BIBLIO>
-naca tn.3788, 1956.
-</BIBLIO>
-<TEXT>
-  the aerodynamic stability derivatives due to pitching velocity and
+stability derivatives of cones at supersonic speeds . the aerodynamic stability derivatives due to pitching velocity and
 vertical acceleration are calculated by use of potential theory for circular
 cones traveling at supersonic speeds .  the analysis is based on
 two theoretical techniques used successfully previously in application
@@ -32,5 +18,3 @@ newtonian impact theory .  numerical results for cones compare well
 with those obtained from the combined first- and second-order potential
 theory at the highest mach number for which the latter theory is
 applicable .
-</TEXT>
-</DOC>

@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-1384
-</DOCNO>
-<TITLE>
 a theoretical calculation of the laminar boundary layer
 around an elliptic cylinder and its comparison with
-experiment .
-</TITLE>
-<AUTHOR>
-millikan,c.b.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 3, 1936, 91.
-</BIBLIO>
-<TEXT>
-the author, in conjunction with th. von karman,
+experiment . the author, in conjunction with th. von karman,
 has recently given a new method of approximate
 integration of the prandtl boundary layer equations,
 which was developed in order to treat cases in which
@@ -32,5 +18,3 @@ of certain classes of airfoils .  this theory gave satisfactory
 agreement with experiment but no direct experimental
 check on the boundary layer analysis itself has
 been given up to the present .
-</TEXT>
-</DOC>

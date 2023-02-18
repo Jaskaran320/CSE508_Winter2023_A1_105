@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1263
-</DOCNO>
-<TITLE>
 turbulent heat transfer through a highly cooled, partially
-dissociated boundary layer .
-</TITLE>
-<AUTHOR>
-rose,p.h., probstein,r.f. and adams,m.c.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1958, 751.
-</BIBLIO>
-<TEXT>
-  the problem of heat transfer from high-temperature air
+dissociated boundary layer . the problem of heat transfer from high-temperature air
 through a turbulent boundary layer to a cold surface is considered
 both analytically and experimentally .  heat-transfer
 data obtained in shock tubes are presented and correlated by a
@@ -43,5 +29,3 @@ number for blunted nonslender bodies in flight would have a
 maximum value between 2.5 and 4,. however, it is shown that
 these differences in mach number are not important for such
 bodies .
-</TEXT>
-</DOC>

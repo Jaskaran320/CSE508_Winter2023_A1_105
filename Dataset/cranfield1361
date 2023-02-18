@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1361
-</DOCNO>
-<TITLE>
 large deflections of structures subjected to heating
-and external loads .
-</TITLE>
-<AUTHOR>
-turner,j.m.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1960.
-</BIBLIO>
-<TEXT>
-  the method of direct formulation of the stiffness matrix is
+and external loads . the method of direct formulation of the stiffness matrix is
 extended to include the effects of nonuniform heating and large
 deflections .  the purpose is to develop an analytical tool for the
 treatment of actual structures .
@@ -29,5 +15,3 @@ procedure must be used .  the force-deformation relations
 necessary for this step-by-step or iterative approach are derived
 for an axially loaded member and for a plate element including
 the effects of thermal strains .
-</TEXT>
-</DOC>

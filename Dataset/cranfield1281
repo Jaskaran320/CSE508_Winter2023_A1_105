@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1281
-</DOCNO>
-<TITLE>
 turbulent heat transfer on blunt-nosed bodies in two-dimensional
-and general three-dimensional hypersonic flow .
-</TITLE>
-<AUTHOR>
-vaglio-laurin,r.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1960, 27.
-</BIBLIO>
-<TEXT>
-  recent results obtained for three-dimensional laminar boundary
+and general three-dimensional hypersonic flow . recent results obtained for three-dimensional laminar boundary
 layers are extended to the turbulent case .  it is shown that
 in the presence of highly cooled surfaces and of moderate mach
 numbers of the outer stream, the crossflow and the pertaining
@@ -35,5 +21,3 @@ in laminar flow, the argument being that, for either
 zero or favorable streamwise pressure gradients, smaller threedimensional
 effects are to be expected in a turbulent boundary
 layer, as compared to a laminar layer .
-</TEXT>
-</DOC>

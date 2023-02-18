@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1053
-</DOCNO>
-<TITLE>
-spherical cap snapping .
-</TITLE>
-<AUTHOR>
-keller,h.b. and reiss,e.l.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 26, 1959, 643.
-</BIBLIO>
-<TEXT>
-  a nonlinear boundary value problem for the determination of
+spherical cap snapping . a nonlinear boundary value problem for the determination of
 the rotationally symmetric deformations of a clamped spherical
 cap under external pressure is solved by finite differences .  the
 numerical solutions are obtained by employing a previously developed
@@ -30,5 +16,3 @@ examined and compared with an asymptotic solution valid in the
 interior of very thin shells .  boundary layers are found to develop
 in the buckled states both as the loading increases and as
 the thickness of the shell decreases .
-</TEXT>
-</DOC>

@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-116
-</DOCNO>
-<TITLE>
 the elliptic cylinder in a shear flow with hyperbolic
-velocity profile .
-</TITLE>
-<AUTHOR>
-jones,e.e.
-</AUTHOR>
-<BIBLIO>
-q.j.mech.app.math. 12, 1959, 191.
-</BIBLIO>
-<TEXT>
-  the stream function for the shear flow with hyperbolic
+velocity profile . the stream function for the shear flow with hyperbolic
 velocity profile past an elliptic cylinder has been determined
 as an infinite series of mathieu functions .  it is found that
 the stagnation streamline of the flow is displaced towards
@@ -29,5 +15,3 @@ but these distances are approximately independent of incidence .
   the pressure coefficients and the resultant force and moment
 coefficients associated with the cylinder have also been obtained,
 and investigated numerically for the flat plate type of cylinder .
-</TEXT>
-</DOC>

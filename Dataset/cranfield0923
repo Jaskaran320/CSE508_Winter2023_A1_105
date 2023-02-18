@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-923
-</DOCNO>
-<TITLE>
 methods for estimating lift interference of wing-body
-combinations at supersonic speeds .
-</TITLE>
-<AUTHOR>
-nielsen,j.n. and kaattari,g.e.
-</AUTHOR>
-<BIBLIO>
-naca til.2950.
-</BIBLIO>
-<TEXT>
-  the modified slender-body method
+combinations at supersonic speeds . the modified slender-body method
 used by nielsen, katzen, and tang
 in rm a50f06, 1950, to predict the
 lift and moment interference of triangular
@@ -38,5 +24,3 @@ account in a theory that is to
 give greater accuracy than the present
 one are discussed .  a numerical
 example illustrating the method is included .
-</TEXT>
-</DOC>

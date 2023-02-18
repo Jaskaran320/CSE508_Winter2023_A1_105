@@ -1,21 +1,7 @@
-<DOC>
-<DOCNO>
-1066
-</DOCNO>
-<TITLE>
 wind tunnel measurements of aerodynamic damping derivatives
 of a launch vehicle vibrating in free-free bending
 modes at mach numbers from 0. 70 to 2. 87 and comparisons
-with theory .
-</TITLE>
-<AUTHOR>
-hanson,p.w. and doggett,r.v.
-</AUTHOR>
-<BIBLIO>
-nasa tn.d1391, 1962.
-</BIBLIO>
-<TEXT>
-  the aerodynamic damping of a
+with theory . the aerodynamic damping of a
 flexibly mounted aeroelastic model
 with a blunted conical nose and a
 cylindrical afterbody was measured at
@@ -73,5 +59,3 @@ to be small and within the
 experimental scatter .  (wind-on frequency
 determination was accurate
 only to approximately 1 percent .)
-</TEXT>
-</DOC>

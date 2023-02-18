@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-989
-</DOCNO>
-<TITLE>
 incompressible nonviscous blade-to-blade flow through a pump rotor with
-splitter vanes .
-</TITLE>
-<AUTHOR>
-kramer, j.j. et al.
-</AUTHOR>
-<BIBLIO>
-nasa tn d-1186, 1962 .
-</BIBLIO>
-<TEXT>
-the nonviscous flow through a mixed-flow pump impeller having one
+splitter vanes . the nonviscous flow through a mixed-flow pump impeller having one
 splitter vane between adjacent main blades has been analyzed on a
 blade-to-blade surface of revolution using a previously reported
 analysis method . solutions were obtained for a variety of flow
@@ -32,5 +18,3 @@ factor .
 blade surface velocities were obtained from two approximate methods by
 specifying flow division and slip factor, and these results are compared
  with the more exact solutions of the analysis .
-</TEXT>
-</DOC>

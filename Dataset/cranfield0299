@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-299
-</DOCNO>
-<TITLE>
-magnetohydrodynamic flow past a semi-infinite plate .
-</TITLE>
-<AUTHOR>
-meksyn,d.
-</AUTHOR>
-<BIBLIO>
-j. ae.scs. 29, 1962.
-</BIBLIO>
-<TEXT>
-  the flow of viscous electrically conducting fluid
+magnetohydrodynamic flow past a semi-infinite plate . the flow of viscous electrically conducting fluid
 past a semi-infinite plate is considered .  the applied
 constant magnetic field and the constant oncoming
 velocity of the fluid are in the direction parallel
@@ -31,5 +17,3 @@ zero when k is small depends on .  for large k, including
 there is no solution for .  it is
 assumed that the fluid is incompressible with constant
 physical properties .
-</TEXT>
-</DOC>

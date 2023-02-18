@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-734
-</DOCNO>
-<TITLE>
 the bending of uniformly loaded clamped plate in the
-form of a circular sector .
-</TITLE>
-<AUTHOR>
-hasse,h.r.
-</AUTHOR>
-<BIBLIO>
-q. j. mech. app. math. 3, 1950, 271.
-</BIBLIO>
-<TEXT>
-  the deflexion of a uniformly loaded
+form of a circular sector . the deflexion of a uniformly loaded
 plate in the form of a semicircle clamped
 along its boundary is obtained by a
 method due to weinstein .  this problem
@@ -46,5 +32,3 @@ where and have given
 values on the boundary, is discussed as a preliminary
 to the further consideration
 of the latter problem by a method of the same type .
-</TEXT>
-</DOC>

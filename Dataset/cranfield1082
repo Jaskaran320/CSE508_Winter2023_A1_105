@@ -1,21 +1,7 @@
-<DOC>
-<DOCNO>
-1082
-</DOCNO>
-<TITLE>
 the flow past pitot tube at low reynolds numbers, part 1-dash the numerical
 solution of the navier-stokes equations for steady viscous
 axisymmetric flow, part 2-dash the effects of viscosity and orifice
-size on a pitot tube at low reynolds numbers .
-</TITLE>
-<AUTHOR>
-lester, w.g.s.
-</AUTHOR>
-<BIBLIO>
-o.u.e.l. no. 136, a.r.c. 22, 070, f.m. 2983 .
-</BIBLIO>
-<TEXT>
-in this report numerical methods used to solve the navier-stokes equations
+size on a pitot tube at low reynolds numbers . in this report numerical methods used to solve the navier-stokes equations
 for steady viscous two-dimensional flow are extended to include
 the case of axial symmetry . the equations and their finite difference
 approximations are derived working in cylindrical polar co-ordinates
@@ -37,5 +23,3 @@ at most five per cent of the value of c when there is no orifice .
 it is suggested that the decrease of c below unity found in some experimental
 investigations at a higher reynolds number could be due to the
 effects of orifice size .
-</TEXT>
-</DOC>

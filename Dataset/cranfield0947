@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-947
-</DOCNO>
-<TITLE>
 static aerodynamic characteristics of a short blunt
 10 semi-vertex angle cone at a mach number of 15 in
-helium .
-</TITLE>
-<AUTHOR>
-fohrman,m.j.
-</AUTHOR>
-<BIBLIO>
-nasa tn.d1648, 1963.
-</BIBLIO>
-<TEXT>
-  axial force, normal force, pitching
+helium . axial force, normal force, pitching
 moment, and shock-wave shape were
 determined for a body of revolution
 consisting of a short blunt 10 semivertex
@@ -59,5 +45,3 @@ position and shape of the shock envelope near
 the stagnation point also could be
 predicted accurately by an approximate method
 over an angle-of-attack range from
-</TEXT>
-</DOC>

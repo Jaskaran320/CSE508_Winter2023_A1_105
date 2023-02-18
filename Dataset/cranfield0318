@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-318
-</DOCNO>
-<TITLE>
-inviscid hypersonic flow past blunt bodies .
-</TITLE>
-<AUTHOR>
-maslen,s.h. and moeckel,w.e.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 24, 1957.
-</BIBLIO>
-<TEXT>
-  two methods are shown for the calculation of the flow field
+inviscid hypersonic flow past blunt bodies . two methods are shown for the calculation of the flow field
 between a blunt body and the shock associated with it for the
 case of hypersonic flow .  real gas effects are included .  the
 solutions consider only symmetric flows--that is, symmetric
@@ -27,5 +13,3 @@ and both cases are discussed .
 is calculated,. the two methods agree within a few per cent .
 comparison is also made with other known solutions in the
 stagnation region .
-</TEXT>
-</DOC>

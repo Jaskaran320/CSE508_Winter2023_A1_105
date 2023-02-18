@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-872
-</DOCNO>
-<TITLE>
 fundamentals of boundary layer heat transfer with streamwise
-temperature variations .
-</TITLE>
-<AUTHOR>
-biot,m.a.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1962, 558.
-</BIBLIO>
-<TEXT>
-  boundary-layer heat transfer is analyzed for the case of a sinusoidal
+temperature variations . boundary-layer heat transfer is analyzed for the case of a sinusoidal
 distribution of temperature in the direction of flow .  it is
 shown that for both laminar and turbulent flow the spatial distribution
 of heat transfer is generally out of phase with the wall
@@ -32,5 +18,3 @@ which is not a straight line .  the use of previously developed
 variational principles for the evaluation of convective heat
 transfer including cases of three-dimensional unsteady flow,
 turbulence, and nonparallel streamlines is also discussed .
-</TEXT>
-</DOC>

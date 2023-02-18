@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-257
-</DOCNO>
-<TITLE>
-on turbulen flow between parallel plates .
-</TITLE>
-<AUTHOR>
-pai,s.i.
-</AUTHOR>
-<BIBLIO>
-j.app.mech. 20, 1953, 109.
-</BIBLIO>
-<TEXT>
-  the reynolds equations of motion of turbulent flow of
+on turbulen flow between parallel plates . the reynolds equations of motion of turbulent flow of
 incompressible fluid have been studied for turbulent
 flow between parallel plates .  the number of these equations
 is finally reduced to two .  one of these consists of
@@ -37,5 +23,3 @@ poiseuille flow have been checked with experimental data
 of laufer fairly well .  it also shows that the logarithmic
 mean velocity distribution is not a rigorous solution of
 reynolds equations .
-</TEXT>
-</DOC>

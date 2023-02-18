@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-455
-</DOCNO>
-<TITLE>
 modified cross-lees mixing theory for supersonic separated
-and reattaching flows .
-</TITLE>
-<AUTHOR>
-glick,h.s.
-</AUTHOR>
-<BIBLIO>
-galcit hyp. res. proj. memo 53, 1960.
-</BIBLIO>
-<TEXT>
-  re-examination of the crocco-lees method has shown that the
+and reattaching flows . re-examination of the crocco-lees method has shown that the
 previous quantitative disagreement between theory and experiment
 in the region of flow up to separation was caused primarily
 by the improper c(k) relation assumed .  a new c(k) correlation,
@@ -34,5 +20,3 @@ results of this analysis have been applied to the problem of shockwave,
 laminar-boundary-layer interaction, and satisfactory
   a study of separated and reattaching regions of flow has led to
 quantitative agreement with experiment has been achieved .
-</TEXT>
-</DOC>

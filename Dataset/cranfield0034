@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-34
-</DOCNO>
-<TITLE>
-constant-temperature magneto-gasdynamic channel flow .
-</TITLE>
-<AUTHOR>
-kerrebrock,j.p. and marble,f.e.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 27, 1960, 78.
-</BIBLIO>
-<TEXT>
-in the course of investigating boundary-layer flow in continuous
+constant-temperature magneto-gasdynamic channel flow . in the course of investigating boundary-layer flow in continuous
 plasma accelerators with crossed electric and magnetic
 fields, it was found advantageous to have at hand simple
 closed-form solutions for the magneto-gasdynamic flow in the
@@ -31,5 +17,3 @@ required to provide sufficient gaseous conductivity,
 channel flow with constant temperature appears interesting .
 some simple algebraic solutions for the case of a constant temperature
 plasma are developed in the following paragraphs .
-</TEXT>
-</DOC>

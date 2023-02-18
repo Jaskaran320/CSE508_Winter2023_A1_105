@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1186
-</DOCNO>
-<TITLE>
 lift of slender delta wings according to newtonian
-theory .
-</TITLE>
-<AUTHOR>
-messiter,a.f.
-</AUTHOR>
-<BIBLIO>
-aiaa jnl. 1963,795
-</BIBLIO>
-<TEXT>
-  an approximate system of equations is derived to
+theory . an approximate system of equations is derived to
 describe the inviscid flow past a flat slender
 wing at angle of attack, in the limit and .
 the aspect ratio is required to
@@ -28,5 +14,3 @@ similarity law is shown, and the first terms
 of the solution are derived under the assumption
 that the similarity parameter is small (vertex
 angle much smaller than mach angle) .
-</TEXT>
-</DOC>

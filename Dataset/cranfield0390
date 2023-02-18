@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-390
-</DOCNO>
-<TITLE>
-some panel-flutter studies using piston theory .
-</TITLE>
-<AUTHOR>
-johns,d.j.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 25, 1958.
-</BIBLIO>
-<TEXT>
-  the use of piston theory was recently advocated for supersonic
+some panel-flutter studies using piston theory . the use of piston theory was recently advocated for supersonic
 aeroelastic analyses, including the problem of panel flutter,
 and this has stimulated the investigation reported here .
   linear piston theory is mainly considered, but some effects of
@@ -25,5 +11,3 @@ that ackeret loading gives more exact results than piston theory .
   solution of the flutter equations is made by applying galerkin's
 method to a rayleigh-type analysis using assumed modes of
 deformation .
-</TEXT>
-</DOC>

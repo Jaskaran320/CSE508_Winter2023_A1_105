@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1144
-</DOCNO>
-<TITLE>
 slipstream flow around several tilt-wing vtol aircraft models
-operating near the ground .
-</TITLE>
-<AUTHOR>
-william a. newsom, jr., and louis p. tosti
-</AUTHOR>
-<BIBLIO>
-technical note d-1382
-</BIBLIO>
-<TEXT>
-a collection of data from a number of brief investigations made with
+operating near the ground . a collection of data from a number of brief investigations made with
 three different models to determine the character of the slipstream flow
 along the ground is presented for multiple-propeller tilt-wing vtol aircraft
 configurations operating near the ground .  in general, the tests
@@ -41,5 +27,3 @@ indicated that there are large, erratic variations of rolling, yawing,
 and pitching moments and that the propellers, reacting to an erratic
 inflow from the recirculating slipstream, are the primary source of
 these moments .
-</TEXT>
-</DOC>

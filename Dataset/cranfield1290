@@ -1,21 +1,7 @@
-<DOC>
-<DOCNO>
-1290
-</DOCNO>
-<TITLE>
 measured and calculated subsonic and transonic flutter
 characteristics of a 45 sweptback wing planform in
 air and in freon-12 in the langley transonic dynamics
-tunnel .
-</TITLE>
-<AUTHOR>
-yates,e.c., land,n.s. and foughner,j.t.
-</AUTHOR>
-<BIBLIO>
-nasa tn.d1616, 1963.
-</BIBLIO>
-<TEXT>
-  in order to investigate the
+tunnel . in order to investigate the
 reliability of flutter data measured
 in the langley transonic dynamics
 tunnel, an experimental and theoretical
@@ -45,5 +31,3 @@ indicate that flutter characteristics
 obtained in freon-12 may be interpreted
 directly as equivalent flutter
 data in air at the same mass ratio and mach number .
-</TEXT>
-</DOC>

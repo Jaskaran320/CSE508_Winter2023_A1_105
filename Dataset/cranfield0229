@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-229
-</DOCNO>
-<TITLE>
 interference between the wings and tail surfaces of
 a combination of slender body, cruciform wings and
-cruciform tail set at both incidence and yaw .
-</TITLE>
-<AUTHOR>
-owen,p.r. and anderson,r.g.
-</AUTHOR>
-<BIBLIO>
-rae r.aero.2471, 1952.
-</BIBLIO>
-<TEXT>
-  the interference between the wings and the tail surfaces of a
+cruciform tail set at both incidence and yaw . the interference between the wings and the tail surfaces of a
 combination of circular body, low aspect ratio cruciform wings and
 cruciform tail in an inviscid flow is analysed using the slender body
 theory .  the system may be subjected to both incidence and yaw and,
@@ -33,5 +19,3 @@ changes in lift and sideforce on the tail caused by the wing vortex
 field can be estimated approximately from the mean upwash and sidewash
 angles evaluated over the respective tail spans .  formulae for these
 means angles are presented .
-</TEXT>
-</DOC>

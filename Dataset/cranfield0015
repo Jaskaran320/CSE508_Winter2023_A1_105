@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-15
-</DOCNO>
-<TITLE>
-on two-dimensional panel flutter .
-</TITLE>
-<AUTHOR>
-fung,y.c.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 25, 1958, 145.
-</BIBLIO>
-<TEXT>
-  theory and experiments of the flutter of a buckled plate are
+on two-dimensional panel flutter . theory and experiments of the flutter of a buckled plate are
 discussed .  it is shown that an increase in the initial deviation
 from flatness or a static pressure differential across the plate
 raises the critical value of the /reduced velocity ./
@@ -26,5 +12,3 @@ plate (with finite bending rigidity) the results confirm those
 given by the galerkin method .
   an approximate analysis of the limiting form and amplitude of
 the flutter motion for a buckled plate is presented .
-</TEXT>
-</DOC>

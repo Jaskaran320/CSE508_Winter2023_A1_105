@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-267
-</DOCNO>
-<TITLE>
 steady and transient free convection of an electrically
 conducting fluid from a vertical plate in the presence
-of a magnetic field .
-</TITLE>
-<AUTHOR>
-gupta,s.
-</AUTHOR>
-<BIBLIO>
-app. sc. res. 9, 1959.
-</BIBLIO>
-<TEXT>
-  an analysis is made for the laminar
+of a magnetic field . an analysis is made for the laminar
 free convection and heat transfer of
 a viscous electrically conducting fluid
 from a hot vertical plate in the case
@@ -41,5 +27,3 @@ momentum and energy put into integral
 form .  the results yield the time required
 for the steady flow to be established,
 and the effect of the magnetic field on this time is studied .
-</TEXT>
-</DOC>

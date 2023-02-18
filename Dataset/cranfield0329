@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-329
-</DOCNO>
-<TITLE>
 various aerodynamic characteristics in hypersonic rarefied
-gas flow .
-</TITLE>
-<AUTHOR>
-probstein,r.f. and kemp,n.h.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 27, 1960.
-</BIBLIO>
-<TEXT>
-  this paper considers the problem of calculating viscous aerodynamic
+gas flow . this paper considers the problem of calculating viscous aerodynamic
 characteristics of blunt bodies at hypersonic speeds and
 at sufficiently high altitudes where the appropriate mean free
 path becomes too large for the use of familiar boundary-layer
@@ -80,5 +66,3 @@ theory .
 data for viscous flow quantities in the intermediate regime and
 the behavior predicted by the results of the present calculations .
 qualitative agreement is indicated .
-</TEXT>
-</DOC>

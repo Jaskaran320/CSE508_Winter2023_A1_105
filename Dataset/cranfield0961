@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-961
-</DOCNO>
-<TITLE>
 compressible two dimensional jet mixing at constant
-pressure .
-</TITLE>
-<AUTHOR>
-korst,h.h. and page,r.h.
-</AUTHOR>
-<BIBLIO>
-univ. of illinois dept. mech. eng. me-tn-392-1, 1954.
-</BIBLIO>
-<TEXT>
-  an analysis is made of turbulent constant pressure mixing for a
+pressure . an analysis is made of turbulent constant pressure mixing for a
 compressible jet boundary, taking into consideration effects of the
 initial boundary layer .  velocity profiles in the mixing region are
 represented in a transformed plans by one-parameter families of curves,
@@ -29,5 +15,3 @@ is obtained with a simple form of kernal function .
 profile in the jet boundary, allows the calculation of the mechanical
 energy level along the separating streamline in the jet boundary without
 the use of empirical information .
-</TEXT>
-</DOC>

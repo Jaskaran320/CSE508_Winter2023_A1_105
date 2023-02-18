@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-599
-</DOCNO>
-<TITLE>
 aerodynamic forces, moments and stability derivatives
-for slender bodies of general cross section .
-</TITLE>
-<AUTHOR>
-sacks,a.h.
-</AUTHOR>
-<BIBLIO>
-naca tn.3283, 1954.
-</BIBLIO>
-<TEXT>
-  the problem of determining the total
+for slender bodies of general cross section . the problem of determining the total
 forces, moments, and stability
 derivatives for a slender body performing
 slow maneuvers in a compressible
@@ -57,5 +43,3 @@ the stability derivatives can
 be calculated by apparent mass although the
 general expressions for the
 total forces and moments involve additional terms .
-</TEXT>
-</DOC>

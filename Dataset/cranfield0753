@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-753
-</DOCNO>
-<TITLE>
 development of a quasi-steady approach to flutter and
-correlation with kernel-function results .
-</TITLE>
-<AUTHOR>
-gravitz,s.i., laidlaw,w.r., bryce,w.w. and cooper,r.e.
-</AUTHOR>
-<BIBLIO>
-j.ae.scs. 29, 1962, 445.
-</BIBLIO>
-<TEXT>
-  the quasi-steady approach to flutter utilizes experimental or
+correlation with kernel-function results . the quasi-steady approach to flutter utilizes experimental or
 theoretical steady-state aerodynamic data to arrive at increased
 understanding of the flutter mechanism, and also, in many cases,
 acceptably accurate quantitative flutter predictions .  circulation
@@ -39,5 +25,3 @@ with available steady-state data, and flutter evaluation
 of complex configurations which can be rationally analyzed by
 steady-state aerodynamic theories, but for which no complete
 unsteady aerodynamic theories are presently available .
-</TEXT>
-</DOC>

@@ -1,16 +1,4 @@
-<DOC>
-<DOCNO>
-1005
-</DOCNO>
-<TITLE>
-free-flight measurements of the static and dynamic
-</TITLE>
-<AUTHOR>
-</AUTHOR>
-<BIBLIO>
-</BIBLIO>
-<TEXT>
-  equations based on newtonian impact theory have been derived and a
+free-flight measurements of the static and dynamic equations based on newtonian impact theory have been derived and a
 computational procedure developed with the aid of several design-type
 charts which enable the determination of the aerodynamic forces and
 moments acting on arbitrary bodies of revolution undergoing either separate
@@ -21,5 +9,3 @@ analysis considers variations in angle of attack from -90 to 90 and
 allows for both positive and negative pitching rates of arbitrary
 magnitude .  the results are also directly applicable to bodies in
 either separate or combined sideslip and yawing maneuvers .
-</TEXT>
-</DOC>

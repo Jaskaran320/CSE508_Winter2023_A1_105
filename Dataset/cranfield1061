@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1061
-</DOCNO>
-<TITLE>
 turbulent mixing of a rocket exhaust jet with a supersonic stream including
-chemical reactions .
-</TITLE>
-<AUTHOR>
-vasilu, j.
-</AUTHOR>
-<BIBLIO>
-j. aero. sc. v. 29, january 1962, pp 19-28 .
-</BIBLIO>
-<TEXT>
-the equations for the turbulent mixing of a two-dimensional supersonic
+chemical reactions . the equations for the turbulent mixing of a two-dimensional supersonic
 jet issuing into an ambient supersonic stream are formulated . both
 streams consist of a mixture of chemically active and possibly reacting
 gases, therefore any heat release by chemical reaction is included,. the
@@ -38,5 +24,3 @@ boundary conditions from available inviscid jet flow solutions is discussed
 . finally, one typical case is considered, and plots of velocity,
 temperature, and concentration profiles are given for the initial stages
  of development of the mixing layer .
-</TEXT>
-</DOC>

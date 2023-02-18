@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-710
-</DOCNO>
-<TITLE>
 the smallest height of roughness capable of affecting boundary-layer
-transition .
-</TITLE>
-<AUTHOR>
-smith, a.m.o. and clutter, d.w.
-</AUTHOR>
-<BIBLIO>
-j. aero. sc. april, 1959. p.229-245, 256 .
-</BIBLIO>
-<TEXT>
-an investigation was made to determine the smallest size of isolated
+transition . an investigation was made to determine the smallest size of isolated
 roughness that will affect transition in a laminar-boundary layer .
 critical heights for three types of roughness were found in a low-speed
 wind tunnel . the types were /1/ two-dimensional spanwise wires, /2/
@@ -37,5 +23,3 @@ this reynolds number depends primarily on the mach number at the top of
 the roughness . when this mach number is greater than 1.0, the roughness
  reynolds number based on conditions behind a shock is probably the
 characteristic parameter .
-</TEXT>
-</DOC>

@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-663
-</DOCNO>
-<TITLE>
-viscous flow along a flat plate moving at high speeds .
-</TITLE>
-<AUTHOR>
-kuo,y.h.
-</AUTHOR>
-<BIBLIO>
-j.ae.scs. 23, 1956, 125.
-</BIBLIO>
-<TEXT>
-  by the distortion of coordinates, it is shown that, in the case
+viscous flow along a flat plate moving at high speeds . by the distortion of coordinates, it is shown that, in the case
 of supersonic viscous flow past a flat plate, the boundary-layer
 and simple wave theories can be combined to give a complete
 representation of the velocity and pressure fields .  consistent
@@ -24,5 +10,3 @@ reynolds numbers and for different gases, the theoretical curve
 correlates closely the experimental data .  asymptotic shock
 curve and skin-friction coefficient are also deduced, but the experimental
 verifications are yet to be made .
-</TEXT>
-</DOC>

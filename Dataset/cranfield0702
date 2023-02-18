@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-702
-</DOCNO>
-<TITLE>
 numerical determination of indical lift and moment functions for a two
-dimensional sinking and pitching airfoil at mach numbers 0.5 and 0.6 .
-</TITLE>
-<AUTHOR>
-mazelsky, b. and drischler, j.a.
-</AUTHOR>
-<BIBLIO>
-naca tn 2739, 1952 .
-</BIBLIO>
-<TEXT>
-the indicial lift and moment functions are determined approximately for
+dimensional sinking and pitching airfoil at mach numbers 0.5 and 0.6 . the indicial lift and moment functions are determined approximately for
 sinking and pitching motion at mach numbers m of 0.5 and 0.6 . these
 functions are determined from a knowledge of the existing oscillatory
 coefficients at the low reduced frequencies and from approximate expressions
@@ -27,5 +13,3 @@ all the indicial lift and moment functions are approximated by an exponential
 series,. the coefficients which appear in the exponential
 approximations for each indicial function are tabulated for m 0.5,
 m 0.6, and m 0.7 .
-</TEXT>
-</DOC>

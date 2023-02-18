@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-588
-</DOCNO>
-<TITLE>
-compressor operation with one or more blade rows stalled .
-</TITLE>
-<AUTHOR>
-benser, w.a.
-</AUTHOR>
-<BIBLIO>
-naca rm e56b03b, 1956 . chapter xiii
-</BIBLIO>
-<TEXT>
-an analysis of the part-speed operating problems of high-pressure-ratio
+compressor operation with one or more blade rows stalled . an analysis of the part-speed operating problems of high-pressure-ratio
 ratio multistage axial-flow compressors was made by means of a
 simplified stage-stacking study .  the principal problems considered
 were poor low-speed efficiency, multiple-valued performance characteristics
@@ -42,5 +28,3 @@ the results are valuable in developing an understanding of the off-design
 problem . in addition to these stage-matching studies, a general
 discussion of variable-geometry features such as air bleed and adjustable
 blades is included .
-</TEXT>
-</DOC>

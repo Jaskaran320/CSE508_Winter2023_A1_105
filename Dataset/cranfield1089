@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1089
-</DOCNO>
-<TITLE>
 aerodynamic characteristics of propeller-driven vtol
-aircraft .
-</TITLE>
-<AUTHOR>
-kirby,r.h.
-</AUTHOR>
-<BIBLIO>
-nasa tn.d730, 1961.
-</BIBLIO>
-<TEXT>
-  this paper discusses the two major configurations that are usually
+aircraft . this paper discusses the two major configurations that are usually
 considered for achieving vtol while keeping the fuselage essentially
 horizontal - that is, the tilt-wing and the deflected-slipstream
 configurations .
@@ -26,5 +12,3 @@ slotted flap together with a leading-edge high-lift device in order to
 avoid the performance and handling qualities problems associated with
 wing stalling during the transition while keeping the wing area as low
 as possible for efficiency in cruising flight .
-</TEXT>
-</DOC>

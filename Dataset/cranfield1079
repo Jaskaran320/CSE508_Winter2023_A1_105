@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1079
-</DOCNO>
-<TITLE>
-finite difference formulae for the square lattices .
-</TITLE>
-<AUTHOR>
-nicley,w.g.
-</AUTHOR>
-<BIBLIO>
-q.j.mech. app. math, 1, p35.
-</BIBLIO>
-<TEXT>
-  the paper gives approximate formulae
+finite difference formulae for the square lattices . the paper gives approximate formulae
 for derivatives (including combinations
 like and ), and integrals, of a function
 of two independent variables, in terms
@@ -25,5 +11,3 @@ error, and what is believed to be for
 most purposes optimum combinations are
 thus selected for the simpler compact
 sets of nodes .
-</TEXT>
-</DOC>

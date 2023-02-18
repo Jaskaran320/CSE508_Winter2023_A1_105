@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1294
-</DOCNO>
-<TITLE>
 non-linear shallow shell analysis by the matrix force
-method .
-</TITLE>
-<AUTHOR>
-lansing,w., jones,i.w. and ratner,p.
-</AUTHOR>
-<BIBLIO>
-nasa tn.d1510, 1962, 753.
-</BIBLIO>
-<TEXT>
-  the matrix force method of redundant
+method . the matrix force method of redundant
 structure analysis is currently
 being extended by various users to cover
 a number of non-linear problems .
@@ -43,5 +29,3 @@ to other, more general shell
 instability problems, and that useful
 solutions to the latter are probably
 within the capability of present day digital computers .
-</TEXT>
-</DOC>

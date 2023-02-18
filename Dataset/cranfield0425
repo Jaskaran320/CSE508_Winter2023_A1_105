@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-425
-</DOCNO>
-<TITLE>
-the solution of elastic plate problems by electrical analogies .
-</TITLE>
-<AUTHOR>
-r. h. macneal,
-</AUTHOR>
-<BIBLIO>
-pasadena, calif.
-</BIBLIO>
-<TEXT>
-a dynamic-analogy method for the solution of elastic plate problems is
+the solution of elastic plate problems by electrical analogies . a dynamic-analogy method for the solution of elastic plate problems is
 described in this paper .  the electrical circuits developed here can be
 set-up and studied on an electric-analog computer .  problems involving
 deflections under constant load, transient vibrations, or normal
@@ -23,5 +9,3 @@ for a rectangular variable-thickness plate .  solutions that have been
 obtained on the cal tech electric-analog computer are presented for
 the static deflections and normal modes of a rectangular cantilever
 plate .
-</TEXT>
-</DOC>

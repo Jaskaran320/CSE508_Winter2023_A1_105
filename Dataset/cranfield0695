@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-695
-</DOCNO>
-<TITLE>
 some experiments relating to the problem of simulation of hot jet
 engines in studies of jet effects on adjacent surfaces at a free-stream
-mach number of 1.80 .
-</TITLE>
-<AUTHOR>
-bressette, w.e.
-</AUTHOR>
-<BIBLIO>
-naca rm l56e07. 1956 .
-</BIBLIO>
-<TEXT>
-an investigation at a free-stream mach number of 1.80 in a blowdown type
+mach number of 1.80 . an investigation at a free-stream mach number of 1.80 in a blowdown type
  tunnel was made to study the effect on the pressure distribution of a
 zero angle of attack wing surface when certain exhaust parameters of a
 hot turbojet engine are varied . static-pressure surveys were made on a
@@ -43,5 +29,3 @@ way while the ratio of specific heats had only a minor effect . the
 addition of temperature in the propulsive jet exhaust at a jet-exit
 staticpressure ratio of 4 had little or no effect on the pressure distribution
 associated with jet interference on the wing .
-</TEXT>
-</DOC>

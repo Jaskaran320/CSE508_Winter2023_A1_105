@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-308
-</DOCNO>
-<TITLE>
 on the hypersonic viscous flow past a flat plate with
-suction or injection .
-</TITLE>
-<AUTHOR>
-yasuhara,m.
-</AUTHOR>
-<BIBLIO>
-j. phys. soc. japan, 12, 1957, 177.
-</BIBLIO>
-<TEXT>
-  the hypersonic viscous flow past a flat
+suction or injection . the hypersonic viscous flow past a flat
 plate with suction or injection
 is dealt with by karman-pohlhausen's
 method in special cases when
@@ -39,5 +25,3 @@ the pressure on the plate can
 be seen and only the velocity profile in
 the boundary layer is affected
 by the suction .
-</TEXT>
-</DOC>

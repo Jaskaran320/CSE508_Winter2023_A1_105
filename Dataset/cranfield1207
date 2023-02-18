@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1207
-</DOCNO>
-<TITLE>
-supersonic airfoil performance with small heat addition .
-</TITLE>
-<AUTHOR>
-mager,a.
-</AUTHOR>
-<BIBLIO>
-j.ae.scs. 1959, 99.
-</BIBLIO>
-<TEXT>
-  an analytical method is presented which permits a very rapid
+supersonic airfoil performance with small heat addition . an analytical method is presented which permits a very rapid
 evaluation of the acrodynamic effects arising from the addition
 of small amounts of heat near supersonic two-dimensional airfoils
 .  this method applies to shockless inviscid flow without heat
@@ -31,5 +17,3 @@ savings in the rate of the fuel consumption .  in general, however,
 one should not expect any substantial reduction in energy requirements
 resulting from the application of the wing heat addition
 .
-</TEXT>
-</DOC>

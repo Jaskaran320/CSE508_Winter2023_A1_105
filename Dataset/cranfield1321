@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1321
-</DOCNO>
-<TITLE>
-effects of a flexible boundary on hydrodynamic stability .
-</TITLE>
-<AUTHOR>
-benjamin, t.b.
-</AUTHOR>
-<BIBLIO>
-j. fluid mech. vol. 9, 4, 1960. p513 .
-</BIBLIO>
-<TEXT>
-purpose of paper is to examine theoretically the use of coatings of
+effects of a flexible boundary on hydrodynamic stability . purpose of paper is to examine theoretically the use of coatings of
 elastic materials to prevent transition from laminar to turbulent flow .
  theory is extension to flexible boundary of the small-disturbance
 tollmien-schlichting stability theory and makes use of /tietjens
@@ -36,5 +22,3 @@ one whose elastic constants are of same order as the dynamic pressure of
 and a large enough wave speed without flow to avoid surface wave instability
 . although paper is somewhat sketchy in places, it gives comprehensive
 coverage of stability of laminar flow over a flexible wall .
-</TEXT>
-</DOC>

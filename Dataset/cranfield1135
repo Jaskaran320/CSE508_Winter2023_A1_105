@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1135
-</DOCNO>
-<TITLE>
 limit analysis of symmetrically loaded thin shells
-of revolution .
-</TITLE>
-<AUTHOR>
-drucker,d.c. and shield,r.t.
-</AUTHOR>
-<BIBLIO>
-j. app. mech. 26, 1959, 61.
-</BIBLIO>
-<TEXT>
-the yield surface for a thin cylindrical shell
+of revolution . the yield surface for a thin cylindrical shell
 is shown to be a very good approximation to
 the yield surface for any symmetrically
 loaded thin shell of revolution .  hexagonal
@@ -28,5 +14,3 @@ to a portion of a toroidal zone or knuckle held
 rigidly at the two bounding planes .  the
 combined end force and moment which can be
 carried by an unflanged cylinder also is discussed .
-</TEXT>
-</DOC>

@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-146
-</DOCNO>
-<TITLE>
 supersonic flow past slender bodies with discontinuous
-profile slope .
-</TITLE>
-<AUTHOR>
-fraenkel and portnoy.
-</AUTHOR>
-<BIBLIO>
-aero.quart. 6, 1955, 114.
-</BIBLIO>
-<TEXT>
-  ward's slender-body theory is extended to derive first approximations
+profile slope . ward's slender-body theory is extended to derive first approximations
 to the external forces on slender
 bodies of general cross section
 with discontinuous profile slope .  two
@@ -49,5 +35,3 @@ bear a marked resemblance to those
 obtained by ward .  the results for wings
 alone are seen to be applicable,
 with one modification, to subsonic as well as to supersonic speeds .
-</TEXT>
-</DOC>

@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-519
-</DOCNO>
-<TITLE>
 base pressure at supersonic speeds in the presence
-of a supersonic jet .
-</TITLE>
-<AUTHOR>
-craven,a.h.
-</AUTHOR>
-<BIBLIO>
-coa r.144, 1960.
-</BIBLIO>
-<TEXT>
-  the effects on base pressure of jet mach number, free stream
+of a supersonic jet . the effects on base pressure of jet mach number, free stream
 reynolds number and jet to base diameter ratio have been investigated
 experimentally .
   it was found that, for jet stagnation pressures greater than that
@@ -28,5 +14,3 @@ foot .
   unsteady wave patterns were found when the jet mach number did
 not differ markedly from the free stream mach number and the jet had
 just reached its design conditions .
-</TEXT>
-</DOC>

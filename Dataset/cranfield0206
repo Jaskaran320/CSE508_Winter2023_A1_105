@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-206
-</DOCNO>
-<TITLE>
 the applications of the polygon method to the calculation
 of the compressible subsonic flow round two-dimensional
-profiles .
-</TITLE>
-<AUTHOR>
-woods,l.c.
-</AUTHOR>
-<BIBLIO>
-arc cp115, 1953.
-</BIBLIO>
-<TEXT>
-  this paper sets out the method now used by the author of
+profiles . this paper sets out the method now used by the author of
 applying the polygon method to the calculation of the compressible
 subsonic flow round two-dimensional aerofoils .  tables have been
 constructed which can be used for all aerofoil shapes, putting the
@@ -44,5 +30,3 @@ same incidence, but for the same lift coefficient .  it is found, for
 example, that at m = 0.7 the theory for a = 0.8 agrees best
 with experiment for a = 1.0, when the lift coefficients are
 approximately the same .
-</TEXT>
-</DOC>

@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-707
-</DOCNO>
-<TITLE>
 thermal analysis of stagnation regions with emphasis on heat-sustaining
-nose shapes at hypersonic speeds .
-</TITLE>
-<AUTHOR>
-hanawalt, a.j., blessing, a.h. and schmidt, c.m.
-</AUTHOR>
-<BIBLIO>
-j.aero. sc. may 1959. p. 257-263 .
-</BIBLIO>
-<TEXT>
-the leading edges and noses of hypersonic vehicles are subjected to
+nose shapes at hypersonic speeds . the leading edges and noses of hypersonic vehicles are subjected to
 severe aerodynamic heating and must be cooled in some manner-dash e.g.,
 internal convection, transpiration, or radiation . it is this latter
 mode of handling the problem that is discussed in this paper . neglecting
@@ -32,5 +18,3 @@ and the radiation of heat from the surface . the feasibility of
 shapes and materials . the philosophy behind the choice of leading-edge
 shapes is discussed and the effects of varying parameters, such as
 shape, diameter, emissivity, conductivity, thickness, etc., are shown .
-</TEXT>
-</DOC>

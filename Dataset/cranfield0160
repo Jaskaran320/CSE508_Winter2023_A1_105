@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-160
-</DOCNO>
-<TITLE>
 approximate analytical solutions for hypersonic flow
-past slender power-law bodies .
-</TITLE>
-<AUTHOR>
-mirels,h.
-</AUTHOR>
-<BIBLIO>
-nasa r-15, 1959.
-</BIBLIO>
-<TEXT>
-approximate analytical solutions are presented
+past slender power-law bodies . approximate analytical solutions are presented
 for two-dimensional and axisymmetric
 hypersonic flow over blunt-nosed slender bodies whose
 shapes follow a power law variation .  in particular,
@@ -62,5 +48,3 @@ shock is relatively close to the body for the latter
 cases .  sufficient results are presented to evaluate
 the accuracy of the approximate method for various
 values of m and .
-</TEXT>
-</DOC>

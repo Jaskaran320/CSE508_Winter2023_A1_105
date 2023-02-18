@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-296
-</DOCNO>
-<TITLE>
 notes on waves through gases at pressures small compared
 with the magnetic pressure, with applications to upper
-atmosphere aerodynamics .
-</TITLE>
-<AUTHOR>
-lighthill,m.j.
-</AUTHOR>
-<BIBLIO>
-j. fluid mech. 9, 1960, 465.
-</BIBLIO>
-<TEXT>
-most treatments of magnetohydrodynamic
+atmosphere aerodynamics . most treatments of magnetohydrodynamic
 waves have confined physical interpretation
 to cases when the alfven velocity a
 is small compared with the sound
@@ -50,5 +36,3 @@ electron density (figure 2),
 which might be in part responsible for some
 anomalous radar echoes that have
 been reported .
-</TEXT>
-</DOC>

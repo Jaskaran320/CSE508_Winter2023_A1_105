@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-325
-</DOCNO>
-<TITLE>
 heat transfer to constant property laminar boundary
 layer flows with power function free stream velocity
-and wall temperature variation .
-</TITLE>
-<AUTHOR>
-levy,s.
-</AUTHOR>
-<BIBLIO>
-j.ae.scs. 19, 1952.
-</BIBLIO>
-<TEXT>
-  numerical computations have been performed for the boundary-layer
+and wall temperature variation . numerical computations have been performed for the boundary-layer
 form of the energy equation for incompressible flows
 with power-function variation of free-stream velocity (u =
 cx) and of wall temperature (t = ax), the pertinent solutions
@@ -38,5 +24,3 @@ per cent as
 where the exponent of the prandtl number varies from 0.254
 to 0.367 for -0.0904 and where the function
 can be approximated by the equation
-</TEXT>
-</DOC>

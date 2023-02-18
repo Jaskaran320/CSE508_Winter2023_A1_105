@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-99
-</DOCNO>
-<TITLE>
-the fundamentals of the statistical theory of turbulence .
-</TITLE>
-<AUTHOR>
-th. von karman
-</AUTHOR>
-<BIBLIO>
-california institute of technology
-</BIBLIO>
-<TEXT>
-statistical theory in general considers mean values of certain quantities
+the fundamentals of the statistical theory of turbulence . statistical theory in general considers mean values of certain quantities
 .  in the case of the turbulent motion one is interested in mean
 values of velocities and of their derivatives, and in mean values of
 squares and products of velocities and their derivatives .  it was o.
@@ -40,5 +26,3 @@ uniform isotropic turbulence and with the turbulent friction in a parallel
 stream .  first, the general theory of isotropic turbulence is developed
 .  this general theory includes taylor's consideration as a special
 case .  however, it
-</TEXT>
-</DOC>

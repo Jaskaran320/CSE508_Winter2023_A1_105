@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-675
-</DOCNO>
-<TITLE>
 pressure distribution and surface flow on 5( and 9( thick wings with
-curved tip and 60degree sweepback .
-</TITLE>
-<AUTHOR>
-garner, h.c. and walshe, d.e.
-</AUTHOR>
-<BIBLIO>
-a.r.c. 20,982, r + m 3244. may 1959 .
-</BIBLIO>
-<TEXT>
-extensive tables are given of pressure coefficients measured at reynolds
+curved tip and 60degree sweepback . extensive tables are given of pressure coefficients measured at reynolds
  numbers from 1.3x10 to 3.9x10 on two half-models of identical planform
 with 5( rae 101 and 9( rae 101 streamwise sections . the planform of
 aspect ratio 3.899 has a straight trailing edge with 60degree of sweepback,
@@ -37,5 +23,3 @@ after a detailed discussion of the effect of reynolds number and the
 distinct types of separated flow, a few results with leading-edge
 roughness are considered in relation to scale effect on separation and
 the extensive influence of part-span roughness .
-</TEXT>
-</DOC>

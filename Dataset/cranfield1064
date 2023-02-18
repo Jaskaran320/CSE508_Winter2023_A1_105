@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-1064
-</DOCNO>
-<TITLE>
 propeller slipstream effects as determined from wing
 pressure distribution on a large-scale six-propeller
-vtol model at static thrust .
-</TITLE>
-<AUTHOR>
-winston,m.m.
-</AUTHOR>
-<BIBLIO>
-nasa tn.d1509, 1962.
-</BIBLIO>
-<TEXT>
-  during static-thrust tests of a largescale
+vtol model at static thrust . during static-thrust tests of a largescale
 general research model having a
 tilting wing and double-slotted flaps,
 static-pressure measurements were made on
@@ -41,5 +27,3 @@ were found, including a 40-percent spanwise
 variation in effective thrust
 recovery and a 20 spanwise variation in effective
 thrust turning .
-</TEXT>
-</DOC>

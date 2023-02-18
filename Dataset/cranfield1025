@@ -1,16 +1,4 @@
-<DOC>
-<DOCNO>
-1025
-</DOCNO>
-<TITLE>
-note on creep buckling of columns .
-</TITLE>
-<AUTHOR>
-</AUTHOR>
-<BIBLIO>
-</BIBLIO>
-<TEXT>
-  the creep of a slightly crooked section column carrying a
+note on creep buckling of columns . the creep of a slightly crooked section column carrying a
 constant load is studied theoretically .  the material of the column
 is characterized by a strain-time relationship, under constant
 uniaxial stress, of the form, where is
@@ -29,5 +17,3 @@ approaches infinity--that is, the column collapses--in finite time .
 results are given showing the maximum length of time the column
 can support a given load before it collapses and the growth
 of stresses, strains, and deflections prior to collapse .
-</TEXT>
-</DOC>

@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-921
-</DOCNO>
-<TITLE>
-slender-body theory-review and extension .
-</TITLE>
-<AUTHOR>
-adams, m.c. and sears, w.r.
-</AUTHOR>
-<BIBLIO>
-j. aero. sc. v. 20, february 1953 .
-</BIBLIO>
-<TEXT>
-the approximate theory of flow about slender bodies and wings originated
+slender-body theory-review and extension . the approximate theory of flow about slender bodies and wings originated
  by munk and jones is reviewed . it is presented here in a form that
 emphasizes the relation to the source-sink methods of von karman and
 others . the extension to noncircular bodies is made for subsonic flow,
@@ -29,5 +15,3 @@ direct problems of flow past given wings and problems of wing
 design for minimum drag . the accuracy of the new results is assessed by
  comparison with linearized supersonic-airfoil theory for the special
 case of a flat delta wing .
-</TEXT>
-</DOC>

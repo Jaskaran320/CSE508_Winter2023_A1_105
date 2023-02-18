@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-999
-</DOCNO>
-<TITLE>
 static aerodynamic characteristics of short blunt cones
 with various nose and base cone angles at mach numbers
-of 0. 6 to 5. 5 and angles of attack to 180 .
-</TITLE>
-<AUTHOR>
-treon,s.l.
-</AUTHOR>
-<BIBLIO>
-nasa tn.d1327, 1962.
-</BIBLIO>
-<TEXT>
-  wind-tunnel tests have been performed
+of 0. 6 to 5. 5 and angles of attack to 180 . wind-tunnel tests have been performed
 at mach numbers from 0.6 to 5.5
 to determine coefficients of normal force,
 axial force, and pitching
@@ -46,5 +32,3 @@ agreement with the experimental results .
 the theory, however, failed to
 predict the trim point at a = 180 for
 the flat-based model .
-</TEXT>
-</DOC>

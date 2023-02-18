@@ -1,18 +1,5 @@
-<DOC>
-<DOCNO>
-763
-</DOCNO>
-<TITLE>
 effects of internal pressure on the buckling of circular-cylindrical
-shells under bending.
-</TITLE>
-<AUTHOR>
-weingarten,v.i.
-</AUTHOR>
-<BIBLIO>
-</BIBLIO>
-<TEXT>
-  the effect of internal pressure on the small-deflection buckling
+shells under bending. the effect of internal pressure on the small-deflection buckling
 of thin-walled cylinders under bending is investigated by means
 of a modified donnell equation .  the results indicate that the
 maximum critical stress due to bending increases with internal
@@ -21,5 +8,3 @@ pressure, unlike the case of pressurized cylinders under compression
 deformations appear in the cylinder, rather than the maximum
 moment able to be carried, but may be a good approximation
 to the latter for metal cylinders .
-</TEXT>
-</DOC>

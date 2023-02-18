@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-1343
-</DOCNO>
-<TITLE>
 formulas for the supersonic loading, lift and drag
 of flat swept back wings with leading edges behind
-the mach lines .
-</TITLE>
-<AUTHOR>
-cohen,d.
-</AUTHOR>
-<BIBLIO>
-naca r.1050, 1951.
-</BIBLIO>
-<TEXT>
-  the method of superposition of linearized conical flows has
+the mach lines . the method of superposition of linearized conical flows has
 been applied to the calculation of the aerodynamic properties, in
 supersonic flight, of thin flat, swept-back wings at an angle of
 attack .  the wings are assumed to have rectilinear plan forms,
@@ -37,5 +23,3 @@ most of the wing, but the trailing-edge-tip region is treated only
 approximately .
   charts of some of the functions derived are included to facilitate
 computing, and several examples are worked out in outline .
-</TEXT>
-</DOC>

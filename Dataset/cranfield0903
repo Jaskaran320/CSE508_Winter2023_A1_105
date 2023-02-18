@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-903
-</DOCNO>
-<TITLE>
 two dimensional transonic unsteady flow with shock
-waves .
-</TITLE>
-<AUTHOR>
-eckhaus,w.
-</AUTHOR>
-<BIBLIO>
-m.i.t. fluid dynamics res. group r.59-3, 1959.
-</BIBLIO>
-<TEXT>
-  a study is made of the unsteady flow around an
+waves . a study is made of the unsteady flow around an
 airfoil at transonic mach numbers, the situation being
 such that local supersonic regions terminated by shockwaves
 are present in the vicinity of the airfoil .  for
@@ -40,5 +26,3 @@ treated .  the role of the unsteady shock-boundary layer
 interaction is discussed and it is shown that this
 mechanism can be included in the results of the present
 theory .
-</TEXT>
-</DOC>

@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-523
-</DOCNO>
-<TITLE>
 approximate determination of position of the sonic
-line for a blunt body in hypersonic flow .
-</TITLE>
-<AUTHOR>
-rahman,m.a.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 29, 1962.
-</BIBLIO>
-<TEXT>
-the detached shock in front of a blunt body in hypersonic
+line for a blunt body in hypersonic flow . the detached shock in front of a blunt body in hypersonic
 flow tends to acquire the shape of the frontal curvature of the
 body .  thus the curvature of the shock can be assumed to be the
 same as that of the body, at least up to the sonic point (point a,
@@ -28,5 +14,3 @@ corresponding to that of the body .  for simplicity the detached
 shock is assumed to be circular in this paper and the procedure is
 outlined below with the assumption that the sonic line ao'b is
 parabolic .
-</TEXT>
-</DOC>

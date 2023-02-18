@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-165
-</DOCNO>
-<TITLE>
-skin-friction measurements in incompressible flow.
-</TITLE>
-<AUTHOR>
-smith, d.w. and  walker, j. h.
-</AUTHOR>
-<BIBLIO>
-naca report r-26
-</BIBLIO>
-<TEXT>
-experiments have been conducted to measure in
+skin-friction measurements in incompressible flow. experiments have been conducted to measure in
 incompressible flow the local surface-shear stress
 and the average skin-friction coefficient for a turbulent
 boundary-layer on a smooth flat plate having zero pressure gradient .
@@ -60,5 +46,3 @@ and inexpensive . the calibration as given by
 preston must be modified slighlty, however, to yield the
 results obtained from the floating-element skin-friction
 balance .
-</TEXT>
-</DOC>

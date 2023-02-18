@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-155
-</DOCNO>
-<TITLE>
-on the solution of the laminar boundary layer equations .
-</TITLE>
-<AUTHOR>
-howarth,l.
-</AUTHOR>
-<BIBLIO>
-proc.roy.s.a, 164, 1938, 547.
-</BIBLIO>
-<TEXT>
-the problem of the flow along a flat plate
+on the solution of the laminar boundary layer equations . the problem of the flow along a flat plate
 placed edgewise to a steady stream,
 when a retarding pressure gradient
 varying linearly as the distance x
@@ -55,5 +41,3 @@ momentum integral continuous at each
 vortex .  the problem is thereby
 reduced to the solution of a first order
 differential equation .
-</TEXT>
-</DOC>

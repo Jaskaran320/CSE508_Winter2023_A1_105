@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-966
-</DOCNO>
-<TITLE>
 on fully developed channel flows,. some solutions and limitations, and
-effects of compressibility, variable properties, and body forces .
-</TITLE>
-<AUTHOR>
-maslen, s.h.
-</AUTHOR>
-<BIBLIO>
-nasa tr r-34, 1959
-</BIBLIO>
-<TEXT>
-an examination of the effects of compressibility, variable properties,
+effects of compressibility, variable properties, and body forces . an examination of the effects of compressibility, variable properties,
 and body forces on fully developed laminar flows has indicated several
 limitations on such streams .
 in the absence of a pressure gradient, but presence of a body force
@@ -36,5 +22,3 @@ of all quantities are allowed but only in such form that the independent
 variables are separable . for the case where the streamwise
 velocity varies inversely as the square root of distance along the
 channel, a solution is given .
-</TEXT>
-</DOC>

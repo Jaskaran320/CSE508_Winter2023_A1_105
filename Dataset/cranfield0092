@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-92
-</DOCNO>
-<TITLE>
 the analysis of redundant structures by the use of
-high-speed digital computers .
-</TITLE>
-<AUTHOR>
-chrichlow,w.j. and haggenmacher,g.w.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 27, 1960, 595.
-</BIBLIO>
-<TEXT>
-  large-scale redundant structure analyses are currently
+high-speed digital computers . large-scale redundant structure analyses are currently
 feasible by the use of modern high-speed digital computers .
 this capability opportunely meets the urgent need to solve
 complex problems which otherwise would be hopelessly beyond
@@ -35,5 +21,3 @@ and problem size capacity is gained for a given computer .
 examples are discussed ranging from simple plane-load diffusion
 problems to pressurized fuselage cutouts and complex
 wing-fuselage-shell intersection-type problems .
-</TEXT>
-</DOC>

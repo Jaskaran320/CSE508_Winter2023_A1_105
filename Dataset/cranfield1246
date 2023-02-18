@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1246
-</DOCNO>
-<TITLE>
 solution of subsonic nonplanar lifting surface problems
-by means of high-speed digital computers .
-</TITLE>
-<AUTHOR>
-kilakowski,l.j. and haskell,r.n.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1961.
-</BIBLIO>
-<TEXT>
-  the method proposed in this paper is based on an approximate
+by means of high-speed digital computers . the method proposed in this paper is based on an approximate
 solution of the integral equation which represents the potential
 flow about a finite wing, with no restrictions beyond those necessary
 for linearization .  after assuming the usual series representation
@@ -40,5 +26,3 @@ in the latter comparison has the same order of overall accuracy as
 similar comparisons on plane wing planforms .  in either case,
 the results given by the proposed method are within the accuracy
 requirements for most aircraft design studies .
-</TEXT>
-</DOC>

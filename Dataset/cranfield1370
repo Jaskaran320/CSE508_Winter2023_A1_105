@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1370
-</DOCNO>
-<TITLE>
-some remarks on the flat plate boundary layer .
-</TITLE>
-<AUTHOR>
-lewis,j.a. and carrier,g.f.
-</AUTHOR>
-<BIBLIO>
-q. app. math. 7, 1949, 228.
-</BIBLIO>
-<TEXT>
-  the authors discuss the solutions for the flow of a viscous
+some remarks on the flat plate boundary layer . the authors discuss the solutions for the flow of a viscous
 incompressible fluid near the leading edge of a semi-infinite
 flat plate without pressure gradient .  the oseen linearization
 is employed which approximates the equations of motion
@@ -42,5 +28,3 @@ free stream .  on the basis of these considerations, the authors
 suggest an iteration procedure for obtaining the exact solution
 for the above problem as well as a solution for the plate
 of finite length .
-</TEXT>
-</DOC>

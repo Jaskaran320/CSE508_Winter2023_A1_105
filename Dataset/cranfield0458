@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-458
-</DOCNO>
-<TITLE>
 a new series for calculation of steady laminar boundary
-layer flows .
-</TITLE>
-<AUTHOR>
-gortler,h.
-</AUTHOR>
-<BIBLIO>
-j. math. mech. 6, 1957, 1.
-</BIBLIO>
-<TEXT>
-  a new and general method for solving
+layer flows . a new and general method for solving
 problems of plane and steady laminar
 boundary layer flows in incompressible
 fluids with arbitrary outer pressure
@@ -49,5 +35,3 @@ of the boundary layer problem .
       taking also no. 1 into account, the zero
       order term by itself gives a good
       approximation for the boundary layer flow .
-</TEXT>
-</DOC>

@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1193
-</DOCNO>
-<TITLE>
-some exact solutions for cavitating curvilinear bodies .
-</TITLE>
-<AUTHOR>
-ehrich,f.f.
-</AUTHOR>
-<BIBLIO>
-aiaa jnl. 1, 1963, 675.
-</BIBLIO>
-<TEXT>
-  a special case of cavitating flow solutions is
+some exact solutions for cavitating curvilinear bodies . a special case of cavitating flow solutions is
 postulated and transformed to a semi-infinite
 plane .  the complete, exact solution then is
 synthesized by superposition of singularities .
@@ -30,5 +16,3 @@ calculated .  the generated solutions constitute
 a technique involving simple computation
 for exact solutions of a special family of cavitating
 curvilinear bodies at finite angles of attack .
-</TEXT>
-</DOC>

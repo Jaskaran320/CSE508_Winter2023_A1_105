@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-314
-</DOCNO>
-<TITLE>
 simplified method for determination of the critical
 height of distributed roughness particles for boundary
-layer transition at mach numbers from 0 to 5.
-</TITLE>
-<AUTHOR>
-braslow,a.l. and knox,e.c.
-</AUTHOR>
-<BIBLIO>
-naca tn.4363, 1958.
-</BIBLIO>
-<TEXT>
-  a simplified method has been devised for determination of the
+layer transition at mach numbers from 0 to 5. a simplified method has been devised for determination of the
 critical height of three-dimensional roughness particles required to
 promote premature transition of a laminar boundary layer on models of
 airplanes or airplane components in a wind tunnel with zero heat transfer
@@ -29,5 +15,3 @@ several wind-tunnel investigations conducted by the national advisory
 committee for aeronautics at mach numbers up to 4, and in all cases
 the calculated roughness height caused premature boundary-layer transition
 for the range of test conditions .
-</TEXT>
-</DOC>

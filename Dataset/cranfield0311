@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-311
-</DOCNO>
-<TITLE>
 a method for predicting the onset of buffeting and other separation
-effects from wind tunnel tests on rigid models .
-</TITLE>
-<AUTHOR>
-pearcey, h. h.
-</AUTHOR>
-<BIBLIO>
-n.p.l. aero. 358, fm 2763. dec. 1958 .
-</BIBLIO>
-<TEXT>
-the method is based on the observation of the divergence that occurs in
+effects from wind tunnel tests on rigid models . the method is based on the observation of the divergence that occurs in
 the variation of mean static pressure at the trailing edge of an aircraft
 wing at the critical stage in the development of boundary-layer
 separation when its influence first spreads to the trailing edge and
@@ -30,5 +16,3 @@ of separation .
 certain special considerations apply for swept wings .
 the various flow changes that are considered are illustrated by
 schlieren photographs and described in an appendix .
-</TEXT>
-</DOC>

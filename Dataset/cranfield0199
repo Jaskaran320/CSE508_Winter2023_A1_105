@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-199
-</DOCNO>
-<TITLE>
 measurement of two dimensional derivatives on a wing-aileron-tab
-system .
-</TITLE>
-<AUTHOR>
-wight,k.c.
-</AUTHOR>
-<BIBLIO>
-part i, arc r + m 2934, 1955.  part ii arc r + m 3029, 1958.
-</BIBLIO>
-<TEXT>
-  measurements have been made of the direct
+system . measurements have been made of the direct
 two-dimensional damping and stiffness derivatives for a
 in incompressible flow .
   corrections arising from the apparatus are discussed and
@@ -56,5 +42,3 @@ the theoretical value when .
 with the values given by flat-plate theory gives the
 following approximate factors, where suffix denotes the
 theoretical values ..
-</TEXT>
-</DOC>

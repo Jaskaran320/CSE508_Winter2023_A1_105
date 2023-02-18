@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-135
-</DOCNO>
-<TITLE>
 the calculation of wall shearing stress from heat-transfer measurements
-in compressible flows .
-</TITLE>
-<AUTHOR>
-nick s. diaconis
-</AUTHOR>
-<BIBLIO>
-lewis flight propulsion laboratory, naca, cleveland, ohio
-</BIBLIO>
-<TEXT>
-it has been shown by ludwieg that the wall shearing stress of a laminar
+in compressible flows . it has been shown by ludwieg that the wall shearing stress of a laminar
 or turbulent boundary layer in an incompressible flow can be determined
 from a heat-transfer measurement at the surface .  the instrument
 used in that investigation was essentially a small, locally insulated,
@@ -29,5 +15,3 @@ of the wall or the laminar sublayer will be affected in the region
 of the heated element .  this assumption then permits the use of the
 laminar boundary-layer equations as the governing equations for this
 analysis for both laminar and turbulent boundary layers .
-</TEXT>
-</DOC>

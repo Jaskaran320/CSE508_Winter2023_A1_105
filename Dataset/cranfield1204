@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-1204
-</DOCNO>
-<TITLE>
 experimental effect of bluntness and gas rarefaction
 on drag coefficients and stagnation heat transfer on
-axisymmetric shapes in hypersonic flow .
-</TITLE>
-<AUTHOR>
-bloxson,d.e. and rhodes,b.v.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs.1962.
-</BIBLIO>
-<TEXT>
-  inverted hemispheres, circular discs (normal to stream),
+axisymmetric shapes in hypersonic flow . inverted hemispheres, circular discs (normal to stream),
 spheres, 26 total angle 0.368 blunt hemisphere cones, 18 totalangle
 sharp cones, and other axisymmetric shapes were run in a
 hypervelocity wind tunnel .  hypersonic drag coefficients at zero
@@ -45,5 +31,3 @@ application .  heat transfer rates, so obtained, have been performed
 in the hypersonic gasdynamic and slip flow regions and
 are presented for spheres .  these data, in the vorticity interaction
 region, agree with the data of ferri and zakkay .
-</TEXT>
-</DOC>

@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-192
-</DOCNO>
-<TITLE>
 on the hypersonic viscous flow past slender bodies
-of revolution .
-</TITLE>
-<AUTHOR>
-yashura,m.
-</AUTHOR>
-<BIBLIO>
-j.phys.soc. japan, 11, 1956, 878.
-</BIBLIO>
-<TEXT>
-  a similar solution of the hypersonic viscous flow past slender bodies
+of revolution . a similar solution of the hypersonic viscous flow past slender bodies
 of revolution is deduced for a special case when the radial coordinate
 of the body surface at section x is proportional to x, where the radial
 coordinate have the comparable order value with the thickness of the
@@ -30,5 +16,3 @@ wave, the pressure on the wall, and the shear stress at the wall are
 also increased while the boundary layer thickness is decreased .  the
 nose region is excluded by the reason that the ordinary boundary layer
 theory will be invalid there .
-</TEXT>
-</DOC>

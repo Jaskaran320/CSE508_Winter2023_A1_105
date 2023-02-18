@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1261
-</DOCNO>
-<TITLE>
 a method of calculating velocity distribution for turbulent
-boundary layers in adverse pressure distributions .
-</TITLE>
-<AUTHOR>
-uram,e.m.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1960, 659.
-</BIBLIO>
-<TEXT>
-  a new method of calculating the behavior of turbulent boundary
+boundary layers in adverse pressure distributions . a new method of calculating the behavior of turbulent boundary
 layers in adverse pressure distributions is developed which
 permits direct determination of the velocity profile rather than
 the gross integral parameters normally used to infer the general
@@ -41,5 +27,3 @@ those calculated by the method presented here is generally very
 good .  the analysis and calculation procedures which are presented
 are applicable to two-dimensional, pseudo-two-dimensional,
 and axisymmetric conical flows .
-</TEXT>
-</DOC>

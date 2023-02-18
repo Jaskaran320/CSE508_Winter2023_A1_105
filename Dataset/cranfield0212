@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-212
-</DOCNO>
-<TITLE>
 theory and tunnel tests of rotor blade for supersonic
-turbines .
-</TITLE>
-<AUTHOR>
-stratford,b.s. and sansome,g.e.
-</AUTHOR>
-<BIBLIO>
-arc r + m 3275, 1960.
-</BIBLIO>
-<TEXT>
-  in special circumstances where a large work
+turbines . in special circumstances where a large work
 output is required from a turbine in a single stage
 it is necessary to use high pressure ratios across the
 nozzle blades, thus producing supersonic velocities at
@@ -54,5 +40,3 @@ difficulties could arise in the practical design and
 manufacture .
   several uncertainties remain and the present design must be regarded
 as still experimental .
-</TEXT>
-</DOC>

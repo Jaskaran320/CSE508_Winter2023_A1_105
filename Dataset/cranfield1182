@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1182
-</DOCNO>
-<TITLE>
-an approximate solution for laminar boundary layer flow .
-</TITLE>
-<AUTHOR>
-robert l. kosson
-</AUTHOR>
-<BIBLIO>
-grumman aircraft engineering corporation, bethpage, n.y.
-</BIBLIO>
-<TEXT>
-this paper presents an approximate solution for two-dimensional,
+an approximate solution for laminar boundary layer flow . this paper presents an approximate solution for two-dimensional,
 incompressible, laminar boundary layer flow with arbitrary pressure
 gradient . von mises' form of the boundary layer equation is linearized
 by making a change in the coefficient of one of the terms .  the linearized
@@ -31,5 +17,3 @@ velocity, flow past a circular cylinder (heimenz' velocity
 distribution), and flow past an ellipse (schubauer's data) . agreement
 with theoretically exact solutions is good, and better than
 results obtained using the pohlhausen method .
-</TEXT>
-</DOC>

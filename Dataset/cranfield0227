@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-227
-</DOCNO>
-<TITLE>
 a technique for improving the predictions of linearised
-theory on the drag of straight edge wings .
-</TITLE>
-<AUTHOR>
-randall,d.g.
-</AUTHOR>
-<BIBLIO>
-arc cp394, 1957.
-</BIBLIO>
-<TEXT>
-  the curve of drag against mach number for straight-edged wings,
+theory on the drag of straight edge wings . the curve of drag against mach number for straight-edged wings,
 calculated by using the linearised theory of supersonic flow, displays
 discontinuities in slope at the various mach numbers for which the edges
 are sonic .  these features, which are not observed in practice, are due
@@ -26,5 +12,3 @@ for improving the linearised predictions of the drag of straight-edged
 wings which exhibits satisfactory agreement with experimental results .
   while the technique is not directly applicable to ridge lines, an
 artifice renders them amenable to similar treatment .
-</TEXT>
-</DOC>

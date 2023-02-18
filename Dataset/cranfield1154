@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1154
-</DOCNO>
-<TITLE>
 on the influence of wall boundary layers in closed transonic test sections
-.
-</TITLE>
-<AUTHOR>
-berndt s.b.
-</AUTHOR>
-<BIBLIO>
-ffa rep. 71, stockholm, 1957 .
-</BIBLIO>
-<TEXT>
-the boundary layers at the test section walls of a transonic wind tunnel
+. the boundary layers at the test section walls of a transonic wind tunnel
  are known to reduce the wall interference . in the present paper this
 effect is studied by means of small perturbation theory, assuming viscosity
 to be negligible when perturbing a turbulent boundary layer . an
@@ -35,5 +21,3 @@ mach number one in free flight . finally, the technique of using artificial
 thickening of the wall boundary layers for a reduction of wall
 interference is considered, though without reaching a definite conclusion
 as to its value as compared to other techniques .
-</TEXT>
-</DOC>

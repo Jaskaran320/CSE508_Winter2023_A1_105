@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1268
-</DOCNO>
-<TITLE>
 stable combustion of a high-velocity gas in a heated
-boundary layer .
-</TITLE>
-<AUTHOR>
-turcotte,d.l.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs.1960.
-</BIBLIO>
-<TEXT>
-  it is generally recognized that stable combustion processes in
+boundary layer . it is generally recognized that stable combustion processes in
 heated boundary layers may be achieved by either of two conceptual
 mechanisms .  in one mechanism it is pictured that the heat
 transfer to the wall quenches the propagating flame at a certain
@@ -49,5 +35,3 @@ added at the lower stability limit was found to be a linear function
 of the reciprocal of the limiting wall temperature .  the activation
 energy derived from this arrhenius type of relation agreed reasonably
 well with the estimated value for the fuel used .
-</TEXT>
-</DOC>

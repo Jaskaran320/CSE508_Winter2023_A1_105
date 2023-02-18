@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-244
-</DOCNO>
-<TITLE>
 an improved smoke generator for use in the visualisation
 of airflow, particularly boundary layer flow at high
-reynolds numbers .
-</TITLE>
-<AUTHOR>
-preston,j.h. and sweeting,n.e.
-</AUTHOR>
-<BIBLIO>
-arc r + m 2023, 1943.
-</BIBLIO>
-<TEXT>
-and rapid method by which boundary
+reynolds numbers . and rapid method by which boundary
 layer flow was rendered visible has been
 previously described in the journal of the royal
 aeronautical society .  it gave promise of
@@ -76,5 +62,3 @@ boundary layer flow visualisation .  the apparatus
 described in this report would seem to be
 particularly suited for educational work in small
 demonstration tunnels .
-</TEXT>
-</DOC>

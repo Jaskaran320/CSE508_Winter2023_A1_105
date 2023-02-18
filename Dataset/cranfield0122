@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-122
-</DOCNO>
-<TITLE>
 a simplified approximate method for the calculation of the pressure
 around conical bodies of arbitrary shape in supersonic and hypersonic
-flow .
-</TITLE>
-<AUTHOR>
-willi f. jacobs
-</AUTHOR>
-<BIBLIO>
-lockheed aircraft corporation, georgia division
-</BIBLIO>
-<TEXT>
-exact conical-flow solutions are available only for circular cones at
+flow . exact conical-flow solutions are available only for circular cones at
 zero angle of attack .  for nonaxisymmetric cones or cones at angle of
 attack, only approximate methods exist .  these methods are generally
 quite complicated and further limited to certain body shapes or certain
@@ -33,5 +19,3 @@ circular cones .  the equivalent-cone method does not give satisfactory
 results, mainly due to the fact that it considers only the local surface
 element on the body independent of the other body elements in the
 newtonian-theory manner .
-</TEXT>
-</DOC>

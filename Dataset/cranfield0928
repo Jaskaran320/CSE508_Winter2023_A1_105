@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-928
-</DOCNO>
-<TITLE>
 a new theory for the buckling of thin cylinders under
-axial compression and bending .
-</TITLE>
-<AUTHOR>
-donnell,l.h.
-</AUTHOR>
-<BIBLIO>
-asme trans. 56, 1934, 795.
-</BIBLIO>
-<TEXT>
-  the results of experiments on axial loading of cylindrical
+axial compression and bending . the results of experiments on axial loading of cylindrical
 shells (thin enough to buckle below the elastic limit and
 too short to buckle as euler columns) are not in good agreement
 with previous theories, which have been based on the
@@ -60,5 +46,3 @@ applications as well .
 tests of thin cylinders in axial compression and bending,
 which, together with numerous tests by lundquist, form
 the experimental evidence for the conclusions arrived at .
-</TEXT>
-</DOC>

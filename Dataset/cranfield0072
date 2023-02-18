@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-72
-</DOCNO>
-<TITLE>
 boundary layer behind shock or thin expansion wave
-moving into stationary fluid .
-</TITLE>
-<AUTHOR>
-mirels,h.
-</AUTHOR>
-<BIBLIO>
-naca tn.3712, 1956.
-</BIBLIO>
-<TEXT>
-  the boundary layer behind a shock or thin expansion wave advancing
+moving into stationary fluid . the boundary layer behind a shock or thin expansion wave advancing
 into a stationary fluid has been determined .  laminar and turbulent
 boundary layers were considered .  the wall surface temperature behind
 the wave was also investigated .  the assumption of a thin expansion
@@ -50,5 +36,3 @@ temperature was uniform (as a
 function of distance behind the wave)
 for the laminar-boundary-layer case
 but varied with distance for the turbulent-boundary-layer case .
-</TEXT>
-</DOC>

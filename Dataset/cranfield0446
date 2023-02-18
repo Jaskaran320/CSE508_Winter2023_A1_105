@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-446
-</DOCNO>
-<TITLE>
-wake of a satellite traversing the ionosphere .
-</TITLE>
-<AUTHOR>
-rand,s.
-</AUTHOR>
-<BIBLIO>
-phys. fluids, 3, 1960.
-</BIBLIO>
-<TEXT>
-  the particle treatment is applied to a study of the
+wake of a satellite traversing the ionosphere . the particle treatment is applied to a study of the
 structure of the wake behind a charged body
 moving supersonically through a low-density plasma .
 for the case of a body whose dimensions are considerably
@@ -27,5 +13,3 @@ the order of a debye length, the ion and electron
 densities are increased over their ambient values .
 formulae for the electrohydrodynamic drag on a
 wire, and on a large disk are obtained .
-</TEXT>
-</DOC>

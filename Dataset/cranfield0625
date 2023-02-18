@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-625
-</DOCNO>
-<TITLE>
-viscous and inviscid nonequilibrium gas flows .
-</TITLE>
-<AUTHOR>
-whalen,r.j.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 29, 1962, 1222.
-</BIBLIO>
-<TEXT>
-  the condition of immediate freezing of the mass fraction of
+viscous and inviscid nonequilibrium gas flows . the condition of immediate freezing of the mass fraction of
 dissociated species of air at the equilibrium value behind the
 shock envelope prevails over a major portion of the flight spectrum
 associated with lifting re-entry vehicles .  this is observed
@@ -47,5 +33,3 @@ in wind tunnel nozzles where dissociation nonequilibrium effects
 are present, the possibility of employing expansions with a
 controlled degree of dissociation as a technique for aerodynamic
 simulation is presented .
-</TEXT>
-</DOC>

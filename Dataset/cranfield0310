@@ -1,19 +1,4 @@
-<DOC>
-<DOCNO>
-310
-</DOCNO>
-<TITLE>
-hypersonic viscous flow over a flat plate
-</TITLE>
-<AUTHOR>
-lees, l. and probstein, r. f.
-</AUTHOR>
-<BIBLIO>
-princeton univ. aero eng. r195, 1952
-(abstract by e.m.keen)
-</BIBLIO>
-<TEXT>
-     in dealing with the steady laminar viscous flow over a
+hypersonic viscous flow over a flat plate in dealing with the steady laminar viscous flow over a
 semi-infinite flat plate some of the following topics are discussed .
 the streamline in the boundary layer over a leading edge of given thickness
 . the rate of growth of the boundary layer in the main stream, and
@@ -28,5 +13,3 @@ fluid injection of a cool gas . prandtl heat transfer . the joining
 interaction between the external inviscid flow and the internal viscous
 flow layer . steady laminar hpyersonic viscous flow over a flat wedge
 and a cone .
-</TEXT>
-</DOC>

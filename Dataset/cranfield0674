@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-674
-</DOCNO>
-<TITLE>
 the shapes and lift-dependent drags on some sweptback
-wings designed for m= 1. 2.
-</TITLE>
-<AUTHOR>
-bagley,j.a. and beasley,j.a.
-</AUTHOR>
-<BIBLIO>
-rae r. aero.2620, 1959.
-</BIBLIO>
-<TEXT>
-  the camber and twist distributions
+wings designed for m= 1. 2. the camber and twist distributions
 needed to produce a constant spanwise
 -distribution and certain linear
 chordwise load distributions have
@@ -31,5 +17,3 @@ drags associated with these loadings
 have also been calculated, and appear not
 to be excessive in almost all the
 cases considered .
-</TEXT>
-</DOC>

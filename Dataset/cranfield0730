@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-730
-</DOCNO>
-<TITLE>
-on the bending of a clamped plate .
-</TITLE>
-<AUTHOR>
-weinstein,a., rock,d.h.
-</AUTHOR>
-<BIBLIO>
-q. app. math. 2, 1944, 262.
-</BIBLIO>
-<TEXT>
-  the present paper contains an application
+on the bending of a clamped plate . the present paper contains an application
 of a recently developed variational
 method to the boundary value problem of the
 bending of a clamped plate of arbitrary
@@ -49,5 +35,3 @@ numerical methods might be rendered
 rigorous .  the convergence of higher derivatives
 is of great practical interest for
 the approximate computation of the stresses .
-</TEXT>
-</DOC>

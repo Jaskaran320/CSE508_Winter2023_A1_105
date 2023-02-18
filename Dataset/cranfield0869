@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-869
-</DOCNO>
-<TITLE>
 the calculation of transient temperature in turbine
-blades and tapered discs using biot's variational method .
-</TITLE>
-<AUTHOR>
-howe,p.w.h.
-</AUTHOR>
-<BIBLIO>
-arc cp.617, 1961.
-</BIBLIO>
-<TEXT>
-  transient temperatures in aerofoil
+blades and tapered discs using biot's variational method . transient temperatures in aerofoil
 sections and tapered discs are
 calculated taking advantage of simplifications
 in heat flow analysis
@@ -68,5 +54,3 @@ cooled blades, whose cross-sections
 are multiply-connected regions .
 transient stresses due to creep, and
 viscoelasticity might be included .
-</TEXT>
-</DOC>

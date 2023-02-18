@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-454
-</DOCNO>
-<TITLE>
 several approximate analyses of the bending of a rectangular
-cantilever plate by uniform normal pressure .
-</TITLE>
-<AUTHOR>
-nash,w.a.
-</AUTHOR>
-<BIBLIO>
-j.app.mech. 1952, 33.
-</BIBLIO>
-<TEXT>
-  three methods of approximating the deflections and
+cantilever plate by uniform normal pressure . three methods of approximating the deflections and
 moments occurring in a rectangular cantilever plate subjected
 to uniform normal pressure over its entire surface
 are presented in this paper .  the first is the application of
@@ -34,5 +20,3 @@ results that the collocation method using the assumed
 functions will give satisfactory results with fewer points
 than the finite-difference method for cantilever plates with
 loading different from the one investigated .
-</TEXT>
-</DOC>

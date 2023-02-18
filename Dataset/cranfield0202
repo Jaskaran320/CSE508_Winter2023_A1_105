@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-202
-</DOCNO>
-<TITLE>
-aircraft flutter .
-</TITLE>
-<AUTHOR>
-williams,j.
-</AUTHOR>
-<BIBLIO>
-arc r + m 2492, 1951.
-</BIBLIO>
-<TEXT>
-  the term flutter is used here to denote maintained or
+aircraft flutter . the term flutter is used here to denote maintained or
 violent oscillations of a structure due to aerodynamic forces
 acting in conjunction with both elastic and inertial forces .
 attention is restricted to this particular branch of the more
@@ -46,5 +32,3 @@ appendix all relevant foreign references known to the author have
 been included .
   matrix notation has been used for the theoretical treatment in
 part 1, but otherwise its use has been avoided .
-</TEXT>
-</DOC>

@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-25
-</DOCNO>
-<TITLE>
-inviscid hypersonic flow over blunt-nosed slender bodies .
-</TITLE>
-<AUTHOR>
-lees,l. and kubota,t.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 24, 1957, 195.
-</BIBLIO>
-<TEXT>
-  at hypersonic speeds the drag area of a blunt nose is much
+inviscid hypersonic flow over blunt-nosed slender bodies . at hypersonic speeds the drag area of a blunt nose is much
 larger than the drag area of a slender afterbody, and the energy
 contained in the flow field in a plane at right angles to the flight
 direction is nearly constant over a downstream distance many
@@ -51,5 +37,3 @@ slender body only for relatively low values of .  however,
 /far downstream/ of the nose the inviscid over-pressure is
 small and viscous interaction phenomena will have to be taken
 into account .
-</TEXT>
-</DOC>

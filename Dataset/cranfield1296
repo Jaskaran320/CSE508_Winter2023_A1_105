@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1296
-</DOCNO>
-<TITLE>
 non-equilibrium expansions of air with coupled chemical
-reactions .
-</TITLE>
-<AUTHOR>
-eschenroeder,a.q., boyer,d. and hall,j.g.
-</AUTHOR>
-<BIBLIO>
-phys. fluids, 1962.
-</BIBLIO>
-<TEXT>
-  analysis and solutions of the streamtube gas
+reactions . analysis and solutions of the streamtube gas
 dynamics involving coupled chemical rate equations
 are carried out .  results are presented for airflows
 along the surface of blunt bodies and through
@@ -38,5 +24,3 @@ undershoot the equilibrium values if the ratio of
 nitric oxide to oxygen molecule concentrations
 exceeds unity in the freezing region .  this depletion
 of nitric oxide leads to nitrogen-atom freezing .
-</TEXT>
-</DOC>

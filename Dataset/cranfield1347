@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1347
-</DOCNO>
-<TITLE>
 approximate analysis of atmospheric entry corridors
-and angles .
-</TITLE>
-<AUTHOR>
-luidens,r.w.
-</AUTHOR>
-<BIBLIO>
-nasa tn.d590, 1961.
-</BIBLIO>
-<TEXT>
-  a simple closed-form solution
+and angles . a simple closed-form solution
 for the achievable corridor depths
 and entry angles as a function of
 g-load limit, entry velocity, and
@@ -56,5 +42,3 @@ thermodynamic considerations reduce
 the acceptable corridor depth below
 the value calculated from aerodynamic
 considerations alone .
-</TEXT>
-</DOC>

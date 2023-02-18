@@ -1,21 +1,7 @@
-<DOC>
-<DOCNO>
-715
-</DOCNO>
-<TITLE>
 motion of a ballistic missile angularly misaligned
 with the flight path upon entering the atmosphere and
 its effect upon aerodynamic heating, aerodynamic loads
-and miss distance .
-</TITLE>
-<AUTHOR>
-allen,h.j.
-</AUTHOR>
-<BIBLIO>
-naca tn.4048, 1957.
-</BIBLIO>
-<TEXT>
-  an analysis is given of the
+and miss distance . an analysis is given of the
 oscillating motion of a ballistic missile
 which upon entering the atmosphere
 is angularly misaligned with respect
@@ -30,5 +16,3 @@ trim angles is treated .  the stability
 problem is also discussed for
 the case where the missile is
 tumbling prior to atmospheric entry .
-</TEXT>
-</DOC>

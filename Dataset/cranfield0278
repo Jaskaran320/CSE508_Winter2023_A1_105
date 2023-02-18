@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-278
-</DOCNO>
-<TITLE>
 on source and vortex distributions in the linearised
-theory of steady supersonic flow .
-</TITLE>
-<AUTHOR>
-robinson,a.
-</AUTHOR>
-<BIBLIO>
-q.j.mech.app.math. 1948.
-</BIBLIO>
-<TEXT>
-  the hyperbolic character of the differential
+theory of steady supersonic flow . the hyperbolic character of the differential
 equation satisfied by the velocity
 potential in linearized supersonic flow entails
 the presence of fractional infinities
@@ -32,5 +18,3 @@ sources and vortices .
   applications to aerofoil theory, including the
 calculation of the downwash in the
 wake of an aerofoil, are given in a separate report (ref. 9) .
-</TEXT>
-</DOC>

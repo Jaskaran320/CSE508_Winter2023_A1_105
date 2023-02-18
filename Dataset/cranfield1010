@@ -1,16 +1,4 @@
-<DOC>
-<DOCNO>
-1010
-</DOCNO>
-<TITLE>
-free-flight measurements of the static and dynamic
-</TITLE>
-<AUTHOR>
-</AUTHOR>
-<BIBLIO>
-</BIBLIO>
-<TEXT>
-  air-flow properties in nozzles were calculated and charted for
+free-flight measurements of the static and dynamic air-flow properties in nozzles were calculated and charted for
 equilibrium flow and two types of frozen flows .  in one type of frozen
 flow, air was assumed to be in equilibrium from the nozzle reservoir to
 arbitrary points where chemical reactions and molecular vibrations
@@ -23,5 +11,3 @@ the flow properties charted were temperature, pressure, density,
 velocity, dynamic pressure, mach number, reynolds number, molecular
 weight fraction, and mass flow .  equilibrium flow properties through
 normal shock waves were also included .
-</TEXT>
-</DOC>

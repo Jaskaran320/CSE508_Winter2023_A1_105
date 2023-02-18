@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-124
-</DOCNO>
-<TITLE>
 a summary of the supersonic pressure drag of bodies
-of revolution .
-</TITLE>
-<AUTHOR>
-morris,d.n.
-</AUTHOR>
-<BIBLIO>
-j.aero.scs. 28, 1961, 563.
-</BIBLIO>
-<TEXT>
-  a number of approximate theories for supersonic and hypersonic
+of revolution . a number of approximate theories for supersonic and hypersonic
 flow over bodies of revolution at zero angle of attack are
 appraised by a critical comparison with characteristics and
 second-order results, with the use of hypersonic similarity as a
@@ -34,5 +20,3 @@ so that the effects of boundary-layer growth, shock-boundarylayer
 interaction, and flow separation are not included .  the present
 correlations provide a sound basis of inviscid-flow results
 from which these additional viscous effects can be evaluated .
-</TEXT>
-</DOC>

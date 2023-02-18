@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-555
-</DOCNO>
-<TITLE>
 closing reply to comments on generalized heat transfer
 formulas and graphs for nose cone re-entry into the
-atmosphere .
-</TITLE>
-<AUTHOR>
-hidalgo,h.
-</AUTHOR>
-<BIBLIO>
-ars j. 1962.
-</BIBLIO>
-<TEXT>
-in a recent paper (1), detra and hidalgo have shown
+atmosphere . in a recent paper (1), detra and hidalgo have shown
 that, when the boundary layer is turbulent, the heat
 flux per unit area at the sonic point of a nose cone may exceed
 the corresponding laminar heat flux per unit area at the
@@ -28,5 +14,3 @@ exceeds the area in the vicinity of the stagnation point, the
 ratio of turbulent to laminar heat fluxes to the entire body
 will be much greater than the above quoted ratios of heat
 fluxes per unit area .
-</TEXT>
-</DOC>

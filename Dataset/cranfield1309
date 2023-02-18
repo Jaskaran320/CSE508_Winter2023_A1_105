@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1309
-</DOCNO>
-<TITLE>
 hypersonic flows past a yawed circular cone and other
-pointed bodies .
-</TITLE>
-<AUTHOR>
-cheng,h.k.
-</AUTHOR>
-<BIBLIO>
-j. fluid mech. 12, 1962, 169.
-</BIBLIO>
-<TEXT>
-a detailed treatment of inviscid hypersonic
+pointed bodies . a detailed treatment of inviscid hypersonic
 flow past a circular cone is given, for
 small and moderate yaw angles, within
 the framework of shock-layer theory .
@@ -48,5 +34,3 @@ which exists generally at small as well as at
 large angle of attack .  at the base of
 the sublayer, enthalpy and flow speed remain
 essentially uniform .
-</TEXT>
-</DOC>

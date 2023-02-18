@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-110
-</DOCNO>
-<TITLE>
-dynamics of a dissociating gas .
-</TITLE>
-<AUTHOR>
-lighthill,m.j.
-</AUTHOR>
-<BIBLIO>
-j.fluid mech. 2, 1957, 1.
-</BIBLIO>
-<TEXT>
-  this is a lucid introduction to the effects of dissociation
+dynamics of a dissociating gas . this is a lucid introduction to the effects of dissociation
 in gas dynamics .  the problem in view is that of air flow
 past a bluff body at speeds somewhat above 2 km sec .
 thermodynamic equilibrium is assumed,. theories of near
@@ -50,5 +36,3 @@ spherical shock corresponds to a concentric spherical body .
 the resulting surface pressure is within 1 per cent of that
 predicted by freeman's second approximation based on
 the newtonian-plus-centrifugal solution (same j. 1 (1956),
-</TEXT>
-</DOC>

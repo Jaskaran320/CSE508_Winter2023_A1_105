@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-573
-</DOCNO>
-<TITLE>
-viscous hypersonic similitude .
-</TITLE>
-<AUTHOR>
-hayer,w.d. and probstein,r.f.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 26, 1959, 815.
-</BIBLIO>
-<TEXT>
-  an extension of classical hypersonic similitude is developed
+viscous hypersonic similitude . an extension of classical hypersonic similitude is developed
 which takes into account the interaction effect of the displacement
 thickness of the boundary layer .  a basic result of this
 viscous similitude is that the total drag including frictional drag
@@ -30,5 +16,3 @@ outside the boundary layer .
 boundary-layer interaction effects on flat bodies, provided
 the concepts of strip theory may be applied, and provided the
 aspect ratio is an invariant .
-</TEXT>
-</DOC>

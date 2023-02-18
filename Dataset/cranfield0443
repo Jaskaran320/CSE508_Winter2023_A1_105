@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-443
-</DOCNO>
-<TITLE>
 calculated and measured pressure distributions over the midspan section
-of the naca 4412 airfoil .
-</TITLE>
-<AUTHOR>
-pinkerton, r. m.
-</AUTHOR>
-<BIBLIO>
-naca r. 563, 1936 .
-</BIBLIO>
-<TEXT>
-pressures were simultaneously measured in the variable-density tunnel
+of the naca 4412 airfoil . pressures were simultaneously measured in the variable-density tunnel
 at 54 orifices distributed over the midspan section of a 5 by 30 inch
 rectangular model of the n.a.c.a. 4412 airfoil at 17 angles of attack
 ranging from -dash 20degree to 30degree at a reynolds number of approximately
@@ -32,5 +18,3 @@ angle of attack,. i.e., the angle that the chord of the model makes
 consideration . in the course of the computations the shape parameter
 is modified, thus leading to a modified or an effective profile shape
 that differs slightly from the specified shape .
-</TEXT>
-</DOC>

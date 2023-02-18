@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-656
-</DOCNO>
-<TITLE>
-departure from dissociation equilibrium in a hypersonic nozzle .
-</TITLE>
-<AUTHOR>
-bray, k.n.c.
-</AUTHOR>
-<BIBLIO>
-a.r.c. 19, 983, march 1958 .
-</BIBLIO>
-<TEXT>
-the equations of motion for the flow of an ideal dissociating gas
+departure from dissociation equilibrium in a hypersonic nozzle . the equations of motion for the flow of an ideal dissociating gas
 through a nearly conical nozzle have been solved numerically, assuming
 a simple equation for the rate of dissociation, and a number of
 different values of the rate constant . the results of these
@@ -33,5 +19,3 @@ it is shown, however, that the flow behind a normal shock wave in such a
 place in the nozzle upstream of the shock wave . even so, the stand-off
 distance of a shock wave in front of a blunt model may be quite
 sensitive to deviations from equilibrium .
-</TEXT>
-</DOC>

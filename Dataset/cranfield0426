@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-426
-</DOCNO>
-<TITLE>
 preliminary analysis of axial flow compressors having
-supersonic velocity at the entrance of the stator .
-</TITLE>
-<AUTHOR>
-ferri,a.
-</AUTHOR>
-<BIBLIO>
-naca rm l9g06, 1949.
-</BIBLIO>
-<TEXT>
-  a supersonic compressor design having supersonic velocity at the
+supersonic velocity at the entrance of the stator . a supersonic compressor design having supersonic velocity at the
 entrance of the stator is analyzed on the assumption of two-dimensional
 flow .  the rotor and stator losses assumed in the analysis are based on
 the results of preliminary supersonic cascade tests .  the results of
@@ -26,5 +12,3 @@ and adjustable inlet guide vanes is indicated .  although either
 supersonic or subsonic axial component of velocity at the stator
 entrance can be used, the cascade test results suggest that higher
 pressure recovery can be obtained if the axial component is supersonic .
-</TEXT>
-</DOC>

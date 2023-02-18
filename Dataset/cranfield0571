@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-571
-</DOCNO>
-<TITLE>
 heat transfer to flat plate in high temperature rarefied
-ultra-high mach number flow .
-</TITLE>
-<AUTHOR>
-nagamatsu,h.t., weil,h.a. and sheet,r.e.
-</AUTHOR>
-<BIBLIO>
-ars j. 32, 1962, 533.
-</BIBLIO>
-<TEXT>
-  an investigation was conducted in a hypersonic
+ultra-high mach number flow . an investigation was conducted in a hypersonic
 shock tunnel to determine the local heat transfer
 rates for a sharp leading edge flat plate .  the free
 stream mach number range was 7.95 to 25.1 with
@@ -40,5 +26,3 @@ less than the analytical value .  both the knudsen
 number and the free stream mach number are
 important physical parameters that determine the
 extent of the slip-flow region .
-</TEXT>
-</DOC>

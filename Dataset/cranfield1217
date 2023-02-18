@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1217
-</DOCNO>
-<TITLE>
 application of inequality constraints to variational
-problems of lifting re-entry .
-</TITLE>
-<AUTHOR>
-levinsky,e.s.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1962, 400.
-</BIBLIO>
-<TEXT>
-  inequality constraints are introduced into the variational
+problems of lifting re-entry . inequality constraints are introduced into the variational
 formulation of the optimum re-entry problem for a lifting vehicle
 to prevent human and or structural tolerances from being
 exceeded .  these constraints consist of minimum and maximum
@@ -26,5 +12,3 @@ of the vehicle is minimized .  these trajectories indicate the
 dominant effect of the constraints on the optimum flight path,
 which is shown to consist of both unconstrained and constrained
 arcs .
-</TEXT>
-</DOC>

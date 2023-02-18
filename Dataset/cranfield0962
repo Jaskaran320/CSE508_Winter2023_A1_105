@@ -1,20 +1,5 @@
-<DOC>
-<DOCNO>
-962
-</DOCNO>
-<TITLE>
 contributions to the theory of heat transfer through
-a laminar boundary layer .
-</TITLE>
-<AUTHOR>
-m. j. lighthill
-</AUTHOR>
-<BIBLIO>
-department of mathematics, university of manchester
-communicated by s. goldstein, f.r.s.
-</BIBLIO>
-<TEXT>
-an approximation to the heat transfer rate across a laminar
+a laminar boundary layer . an approximation to the heat transfer rate across a laminar
 incompressible boundary layer, for arbitrary distribution of
 main stream velocity and of wall temperature, is obtained by
 using the energy equation in von mises's form, and approximating the
@@ -53,5 +38,3 @@ an appendix shows how the method for approximating and solving
 von mises's equation could be used to determine the skin friction
 as well as heat transfer rate, but this line seems to have no advantage
 over established approximate methods .
-</TEXT>
-</DOC>

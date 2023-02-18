@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-770
-</DOCNO>
-<TITLE>
-the flow of a compressible fluid past a sphere .
-</TITLE>
-<AUTHOR>
-caplan,c.
-</AUTHOR>
-<BIBLIO>
-naca tn.762, 1940.
-</BIBLIO>
-<TEXT>
-  the flow of a compressible fluid past a sphere fixed
+the flow of a compressible fluid past a sphere . the flow of a compressible fluid past a sphere fixed
 in a uniform stream is calculated to the third order of
 approximation by means of the janzen-rayleigh method .
 the velocity and the pressure distributions over the surface
@@ -25,5 +11,3 @@ number at which the maximum velocity of the fluid past the
 sphere is just equal to the local velocity of sound, is
 calculated for both the second and the third approximations
 and is found to be, respectively, and .
-</TEXT>
-</DOC>

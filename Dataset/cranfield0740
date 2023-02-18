@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-740
-</DOCNO>
-<TITLE>
 the behaviour of a cylindrical shell under axial compression
-when the buckling load has been exceeded .
-</TITLE>
-<AUTHOR>
-leggett,d.m.a. and jones,r.p.n.
-</AUTHOR>
-<BIBLIO>
-arc r + m.2190, 1942.
-</BIBLIO>
-<TEXT>
-  the value of the compressive stress at which
+when the buckling load has been exceeded . the value of the compressive stress at which
 a thin circular cylindrical shell becomes unstable has been
 worked out theoretically by southwell (1914) .  subsequent
 experimental results, however, have indicated that this
@@ -34,5 +20,3 @@ agreement with experiment, and that once the cylinder has buckled,
 and so long as the stresses remain within the elastic
 range of the material, the cylinder has only about one-quarter of its
 original stiffness .
-</TEXT>
-</DOC>

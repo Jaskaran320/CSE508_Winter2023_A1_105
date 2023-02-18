@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-818
-</DOCNO>
-<TITLE>
 a quantitative comparison of flow and deformation theories
-of plasticity .
-</TITLE>
-<AUTHOR>
-hodge,p.g. and white,g.n.
-</AUTHOR>
-<BIBLIO>
-j. app. mech. 17, 1950.
-</BIBLIO>
-<TEXT>
-  the stresses and displacements in a partly plastic, infinitely
+of plasticity . the stresses and displacements in a partly plastic, infinitely
 long, hollow cylinder are obtained according to the
 flow type of stress-strain law of prandtl-reuss and to the
 deformation law of hencky .  in both cases the mises yield
@@ -26,5 +12,3 @@ certain cases .  the results are compared with those of
 other investigations in which different combinations of
 stress-strain law, yield condition, compressibility, and end
 loading were assumed .
-</TEXT>
-</DOC>

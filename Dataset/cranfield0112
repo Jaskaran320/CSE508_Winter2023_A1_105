@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-112
-</DOCNO>
-<TITLE>
 steady motion of conducting fluids in pipes under transverse
-magnetic fields .
-</TITLE>
-<AUTHOR>
-shercliff,j.a.
-</AUTHOR>
-<BIBLIO>
-proc. cam. phil.s. 49, 1953, 136.
-</BIBLIO>
-<TEXT>
-  this paper studies the steady
+magnetic fields . this paper studies the steady
 motion of an electrically conducting, viscous fluid
 along channels in the presence of an imposed
 transverse magnetic field when the walls do not
@@ -31,5 +17,3 @@ shape is developed .  the predicted pressure
 gradients for given volumes of flow at various field
 strengths are finally compared with experimental results for square and
 circular pipes .
-</TEXT>
-</DOC>

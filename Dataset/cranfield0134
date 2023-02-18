@@ -1,20 +1,5 @@
-<DOC>
-<DOCNO>
-134
-</DOCNO>
-<TITLE>
 note on an interaction between the boundary layer and the inviscid
-flow .
-</TITLE>
-<AUTHOR>
-antonio ferri and paul a. libby
-</AUTHOR>
-<BIBLIO>
-department of aeronautical engineering and applied mechanics,
-polytechnic institute of brooklyn, brooklyn, n.y.
-</BIBLIO>
-<TEXT>
-according to the classical boundary-layer theory the flow about bodies
+flow . according to the classical boundary-layer theory the flow about bodies
 at reynolds numbers of aeronautical interest can be considered as composed
 of two regimes..  an outside inviscid flow and a thin boundarylayer
 region adjacent to the body .  this point of view leads to the
@@ -32,5 +17,3 @@ another type of interaction which may be of practical importance and of
 fundamental interest even at mach numbers below those considered in the
 hypersonic boundary-layer theory and which may have to be considered in
 that theory .
-</TEXT>
-</DOC>

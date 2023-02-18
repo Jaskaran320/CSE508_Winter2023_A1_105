@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1153
-</DOCNO>
-<TITLE>
 a study of the simulation of flow with free stream mach number 1 in a
-choked wind tunnel .
-</TITLE>
-<AUTHOR>
-spreiter, j.r., smith, d.w. and hyett, b.j.
-</AUTHOR>
-<BIBLIO>
-nasa tr r-73, 1960 .
-</BIBLIO>
-<TEXT>
-the degree to which experimental results obtained under choking conditions
+choked wind tunnel . the degree to which experimental results obtained under choking conditions
 in a wind tunnel with solid walls simulate those associated with
 an unbounded flow with free-stream mach number 1 is investigated for the
  cases of two-dimensional and axisymmetric flows . it is found that a
@@ -26,5 +12,3 @@ be encountered under certain conditions, both in choked wind tunnels and
  in transonic wind tunnels, and that the reduction of these interference
  effects to acceptable limits may require the use of models of unusually
  small size .
-</TEXT>
-</DOC>

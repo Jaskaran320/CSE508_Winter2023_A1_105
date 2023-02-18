@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-391
-</DOCNO>
-<TITLE>
 flutter of rectangular simply supported panels at high
-supersonic speeds .
-</TITLE>
-<AUTHOR>
-hedgepeth,j.m.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 24, 1957.
-</BIBLIO>
-<TEXT>
-  the problem of panel flutter of rectangular simply supported
+supersonic speeds . the problem of panel flutter of rectangular simply supported
 plates subjected to supersonic flow over one surface is treated
 theoretically .  the assumption is made, and subsequently verified,
 that the /static/ approximation to the aerodynamic flutter
@@ -25,5 +11,3 @@ other aerodynamic surface theory .  the influence of mach
 number, dynamic pressure, panel aspect ratio, and midplane
 stress on the panel thickness required to prevent flutter is determined
 for extensive ranges of these parameters .
-</TEXT>
-</DOC>

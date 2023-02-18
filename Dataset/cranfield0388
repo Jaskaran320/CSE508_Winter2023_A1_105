@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-388
-</DOCNO>
-<TITLE>
 the pressure gradient induced by shear flow past a
-flat plate .
-</TITLE>
-<AUTHOR>
-glauert,m.b.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1962, 540.
-</BIBLIO>
-<TEXT>
-  article is a continuation of an earlier note on papers by li
+flat plate . article is a continuation of an earlier note on papers by li
 on a semiinfinite plate in a uniform shear flow .  li had deduced
 from the form of his equations that stream vorticity caused an induced
 pressure gradient in the flow .  later papers by li and murray
@@ -27,5 +13,3 @@ the boundary layer on a flat plate in a limited region of shear flow .
 he notes that the original question in the case of unbounded shear
 remains obscure--and anyway an unlimited shear layer is not of
 great practical importance .
-</TEXT>
-</DOC>

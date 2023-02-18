@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-366
-</DOCNO>
-<TITLE>
 helium injection into the boundary layer at an axisymmetric
-stagnation point .
-</TITLE>
-<AUTHOR>
-fox,h. and libby,p.a.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1962, 921.
-</BIBLIO>
-<TEXT>
-  this report presents a theoretical analysis of the boundary
+stagnation point . this report presents a theoretical analysis of the boundary
 layer at an axisymmetric stagnation point with large rates of
 helium injection .  the exact stagnation-point boundary-layer
 equations are integrated numerically with approximate representations
@@ -31,5 +17,3 @@ influence of stagnation-point mass transfer .  the heat transfer
 to the stagnation point is also considered .  tabulations of the
 eigenvalues for a variety of wall conditions and injection rates
 are given .
-</TEXT>
-</DOC>

@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-1392
-</DOCNO>
-<TITLE>
 the solution of small displacement, stability or vibration
 problems concerning a flat rectangular panel when the
-edges are either clamped or simply supported .
-</TITLE>
-<AUTHOR>
-hopkins,h.g.
-</AUTHOR>
-<BIBLIO>
-arc r + m.2234, 1945.
-</BIBLIO>
-<TEXT>
-  this report describes an energy method for
+edges are either clamped or simply supported . this report describes an energy method for
 the exact solution of problems concerning the small
 displacements, stability or vibration of a flat rectangular panel
 when the edges are either clamped or simply supported .
@@ -44,5 +30,3 @@ terms considered .
 vibration of a square panel when all the edges are clamped,
 and second to the buckling of a square panel under shear when
 three edges are clamped and one edge is simply supported .
-</TEXT>
-</DOC>

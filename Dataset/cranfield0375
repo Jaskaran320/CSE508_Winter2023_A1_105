@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-375
-</DOCNO>
-<TITLE>
-steady flow in the laminar boundary layer of a gas .
-</TITLE>
-<AUTHOR>
-illingworth,c.r.
-</AUTHOR>
-<BIBLIO>
-proc. roy. soc. a, 199, 1949.
-</BIBLIO>
-<TEXT>
-if the boundary-layer equations for a gas are
+steady flow in the laminar boundary layer of a gas . if the boundary-layer equations for a gas are
 transformed by mises's transformation, as
 was done by karman   tsion for the flow
 along a flat plate of a gas with unit prandtl
@@ -44,5 +30,3 @@ fluid neglected) and to laminar flow in
 plane wakes, but for plane jets the conditions,
 previously imposed by howarth,
 are also imposed here in order to obtain simple solutions .
-</TEXT>
-</DOC>

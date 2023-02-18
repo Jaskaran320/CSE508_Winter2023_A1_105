@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-976
-</DOCNO>
-<TITLE>
 turbulent diffusion in the wake of a blunt nosed body
-at hypersonic speeds .
-</TITLE>
-<AUTHOR>
-lees,l. and hromas,l.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 29, 1962, 976.
-</BIBLIO>
-<TEXT>
-  at reynolds numbers greater than about 5 x 10 corresponding
+at hypersonic speeds . at reynolds numbers greater than about 5 x 10 corresponding
 to altitudes below about 180,000 ft, the hot outer inviscid
 wake behind the bow shock wave produced by a blunt-nosed
 body at hypersonic speeds is cooled mainly by turbulent diffusion
@@ -51,5 +37,3 @@ these results are sufficiently encouraging that one can consider
 including the effects of finite chemical and electron-ion recombination
 rates in the analysis in order to give a more complete
 picture of the wake at hypersonic speeds .
-</TEXT>
-</DOC>

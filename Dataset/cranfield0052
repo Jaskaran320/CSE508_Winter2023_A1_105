@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-52
-</DOCNO>
-<TITLE>
 procedure for calculating flutter at high supersonic
 speed including camber deflections, and comparison
-with experimental results .
-</TITLE>
-<AUTHOR>
-morgan,h.g.
-</AUTHOR>
-<BIBLIO>
-naca tn.4335, 1958.
-</BIBLIO>
-<TEXT>
-  a method which may be used at high supersonic mach numbers is
+with experimental results . a method which may be used at high supersonic mach numbers is
 described for calculating the flutter speed of wings having camber in
 their deflection modes .  the normal coupled vibration modes of the wing
 are used to derive the equations of motion .  chord deflections of the
@@ -29,5 +15,3 @@ analysis .
 which had been previously tested at mach numbers of 1.3 to 3.0 .  comparison
 of the calculations and experiment is made for flat-plate 60
 and 45 delta wings and also for an untapered 45 sweptback wing .
-</TEXT>
-</DOC>

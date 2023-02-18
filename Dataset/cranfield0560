@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-560
-</DOCNO>
-<TITLE>
 a theoretical study of the effect of upstream transpiration-cooling
 on the heat transfer and skin friction characteristics
-of a compressible laminar boundary layer .
-</TITLE>
-<AUTHOR>
-rubesin,m.w. and inouye,m.
-</AUTHOR>
-<BIBLIO>
-naca tn.3969, 1957.
-</BIBLIO>
-<TEXT>
-  an analysis is presented which predicts
+of a compressible laminar boundary layer . an analysis is presented which predicts
 the skin-friction and heattransfer
 characteristics of a compressible,
 laminar boundary layer on a
@@ -49,5 +35,3 @@ could be maintained at about the
 same temperature as a fully porous plate
 by doubling the total rate of
 coolant flow .
-</TEXT>
-</DOC>

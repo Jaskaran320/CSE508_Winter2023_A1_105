@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1259
-</DOCNO>
-<TITLE>
 second-order theory for unsteady supersonic flow past
-slender pointed bodies of revolution .
-</TITLE>
-<AUTHOR>
-revell,j.d.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs.1960, 730.
-</BIBLIO>
-<TEXT>
-  an analysis is made of the second-order effects of thickness on
+slender pointed bodies of revolution . an analysis is made of the second-order effects of thickness on
 the unsteady aerodynamic forces on a slender pointed body of
 revolution in supersonic flow .  the theory is restricted to harmonic
 oscillations for small angles of attack .  the solution is obtained
@@ -29,5 +15,3 @@ theory of lighthill to the case of unsteady flow .
 and damping moment coefficients when applied to slender cones .
 the present theory is estimated to be reliable provided that
 is less than 0.7 .
-</TEXT>
-</DOC>

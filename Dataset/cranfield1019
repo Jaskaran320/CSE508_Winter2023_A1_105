@@ -1,16 +1,4 @@
-<DOC>
-<DOCNO>
-1019
-</DOCNO>
-<TITLE>
-note on creep buckling of columns .
-</TITLE>
-<AUTHOR>
-</AUTHOR>
-<BIBLIO>
-</BIBLIO>
-<TEXT>
-  a method for estimating allowable
+note on creep buckling of columns . a method for estimating allowable
 load capacities of columns subject
 to creep is presented .  the method,
 which utilizes approximate stress distributions
@@ -54,5 +42,3 @@ can be acceptable for very
 short times at the higher temperatures .  the
 efficiency at these higher temperatures
 falls rapidly, however, with increasing time .
-</TEXT>
-</DOC>

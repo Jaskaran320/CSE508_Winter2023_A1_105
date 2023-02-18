@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-162
-</DOCNO>
-<TITLE>
 nearly circular transfer trajectories for descending
-satellites .
-</TITLE>
-<AUTHOR>
-low,g.m.
-</AUTHOR>
-<BIBLIO>
-nasa r-3, 1959.
-</BIBLIO>
-<TEXT>
-  simplified expressions describing the transfer
+satellites . simplified expressions describing the transfer
 from a satellite orbit to the point of atmospheric
 entry are derived .  the expressions are limited to
 altitude changes that are small compared with the
@@ -38,5 +24,3 @@ by applying the velocity increment at an angle between
 a circular orbit, in addition to the corrections
 applied to transform elliptic orbits into circular
 ones, are also discussed .
-</TEXT>
-</DOC>

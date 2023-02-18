@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-717
-</DOCNO>
-<TITLE>
 motions of a short 10degree blunted cone entering a martian atmosphere
-at arbitrary angles of attack and arbitrary pitching rates .
-</TITLE>
-<AUTHOR>
-peterson, v.l.
-</AUTHOR>
-<BIBLIO>
-nasa tn-d 1326 .
-</BIBLIO>
-<TEXT>
-the dynamic behavior of two probe vehicles entering a martian atmosphere
+at arbitrary angles of attack and arbitrary pitching rates . the dynamic behavior of two probe vehicles entering a martian atmosphere
  in a passive manner with arbitrary initial angles of attack and pitching
 rates to 12degree per second has been determined . results for an
 entry velocity of 21,700 feet per second and an entry angle of -40degree
@@ -43,5 +29,3 @@ was given a 10-rpm spin rate . the relationship between maximum amplitudes
 of oscillation and heating rates through high heating portions of
 the trajectories was preserved when model atmospheres believed to encompass
 the extreme possibilities for mars were used in the calculations
-</TEXT>
-</DOC>

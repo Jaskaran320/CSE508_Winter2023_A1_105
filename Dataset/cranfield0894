@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-894
-</DOCNO>
-<TITLE>
 flutter of a two dimensional simply supported buckled
-panel with elastic restraint against edge displacement .
-</TITLE>
-<AUTHOR>
-smith,g.e.
-</AUTHOR>
-<BIBLIO>
-rae r. struct.269, 1961.
-</BIBLIO>
-<TEXT>
-  the critical flutter speed is evaluated for a two-dimensional thin
+panel with elastic restraint against edge displacement . the critical flutter speed is evaluated for a two-dimensional thin
 buckled panel with one surface exposed to a supersonic airstream and the
 other to still air at the same static pressure .  the panel is simply
 supported along the leading and trailing edges by rigid edge members
@@ -32,5 +18,3 @@ a panel with a non-zero bending rigidity .
 itself, the initial buckle amplitude and the elastic restraint against
 edge displacements is investigated, and curves are presented giving the
 critical dynamic pressure ratio as a function of these variables .
-</TEXT>
-</DOC>

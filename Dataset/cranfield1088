@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1088
-</DOCNO>
-<TITLE>
 iterative methods for solving partial difference equations of elliptic
-type .
-</TITLE>
-<AUTHOR>
-young, d.
-</AUTHOR>
-<BIBLIO>
-trans. amer. math. soc. vol. 76, p. 92, 1954 .
-</BIBLIO>
-<TEXT>
-this paper considers linear systems /1/ where a includes matrices of a
+type . this paper considers linear systems /1/ where a includes matrices of a
 sort frequently occurring in the solution of elliptic partial differential
 equations by difference methods /in particular, a o/ . rewriting
  superscript is number of iteration cycle/ are used to compute u
@@ -30,5 +16,3 @@ estimating wb,. the sensitivity of the rate of convergence to the choice
 gauss-seidel and the method proposed, /successive over-relaxation/, for
 solving dirichlet's difference problem over a square using a high-speed
 computing machine .
-</TEXT>
-</DOC>

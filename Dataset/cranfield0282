@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-282
-</DOCNO>
-<TITLE>
 jet effects on base pressure of conical afterbodies
-at mach 1. 91 and 3. 12 .
-</TITLE>
-<AUTHOR>
-baughman,l.e. and kochendorfer,f.d.
-</AUTHOR>
-<BIBLIO>
-naca rm e57e06.
-</BIBLIO>
-<TEXT>
-  data are presented which show the effect of a jet on base pressure
+at mach 1. 91 and 3. 12 . data are presented which show the effect of a jet on base pressure
 for a series of conical afterbody-jet-nozzle combinations having boattail
 angles that varied from 0 to 11 and base-to-jet diameter ratios
 that varied from 1.11 to 2.67 .  the jet nozzles had exit angles from 0
@@ -33,5 +19,3 @@ state of the boundary layer on the boattail and on the nozzle .
   values of wake pressure ratio computed using the theory of korst,
 page, and childs were in good agreement with experimental values for
 convergent nozzles .
-</TEXT>
-</DOC>

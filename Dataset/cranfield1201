@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1201
-</DOCNO>
-<TITLE>
 a study of slender shapes of minimum drag using the
-newton-busemann pressure coefficient law .
-</TITLE>
-<AUTHOR>
-miele,a.a.
-</AUTHOR>
-<BIBLIO>
-aiaa jnl. 1, 1963, 168.
-</BIBLIO>
-<TEXT>
-  the problem of minimizing the drag of a slender, two-dimensional
+newton-busemann pressure coefficient law . the problem of minimizing the drag of a slender, two-dimensional
 or axisymmetric body in hypersonic flow at zero angle of
 attack is considered under the assumption that the pressure coefficient
 law is newton's impact law as modified by busemann in
@@ -65,5 +51,3 @@ percent if the wetted area and the volume are given .
   for all of the cases considered, analytical expressions are obtained
 for the optimum shapes, the thickness ratios, and the drag
 coefficients .
-</TEXT>
-</DOC>

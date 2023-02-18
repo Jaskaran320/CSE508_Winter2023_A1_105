@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1333
-</DOCNO>
-<TITLE>
-aerodynamic forces on wings in non-uniform motion .
-</TITLE>
-<AUTHOR>
-jones,w.p.
-</AUTHOR>
-<BIBLIO>
-arc r + m.2117, 1945.
-</BIBLIO>
-<TEXT>
-  the problem of determining the aerodynamic forces
+aerodynamic forces on wings in non-uniform motion . the problem of determining the aerodynamic forces
 acting on wings of finite span in non-uniform motion
 in an incompressible, inviscid fluid is investigated .  the underlying
 theory is outlined in 2, and some known results
@@ -38,5 +24,3 @@ of finite span for any type of motion can best be derived
 from a knowledge of the forces corresponding to purely
 divergent motion, which can be calculated by the methods
 outlined in this report .
-</TEXT>
-</DOC>

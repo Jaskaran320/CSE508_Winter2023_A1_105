@@ -1,16 +1,4 @@
-<DOC>
-<DOCNO>
-1004
-</DOCNO>
-<TITLE>
-free-flight measurements of the static and dynamic
-</TITLE>
-<AUTHOR>
-</AUTHOR>
-<BIBLIO>
-</BIBLIO>
-<TEXT>
-  the effects of contamination of helium by air upon static-pressure,
+free-flight measurements of the static and dynamic the effects of contamination of helium by air upon static-pressure,
 total-pressure, heat-transfer, and temperature measurements have been
 investigated in the 2-inch helium tunnel at the langley research
 center .  within the scope of the tests, even a small amount of air is
@@ -22,5 +10,3 @@ than about 0.2 percent by volume, the error in indicated mach number is
 less than 1 percent as calculated from the rayleigh pitot equation .
 the corresponding errors in wall static and center-line pitot pressures
 are about 1.7 and 0.4 percent, respectively .
-</TEXT>
-</DOC>

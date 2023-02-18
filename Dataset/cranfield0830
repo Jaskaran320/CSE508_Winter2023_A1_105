@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-830
-</DOCNO>
-<TITLE>
-nonlinear deflections of shallow spherical shells .
-</TITLE>
-<AUTHOR>
-reiss,e.l., greenberg,h.j. and keller,h.b.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 24, 1957, 533.
-</BIBLIO>
-<TEXT>
-  the equations obtained by chien for the nonlinear deflection
+nonlinear deflections of shallow spherical shells . the equations obtained by chien for the nonlinear deflection
 of shallow spherical shells under uniform external pressure are
 solved by means of power series expansions, following procedures
 introduced by friedrichs and stoker in their treatment of buckling
@@ -31,5 +17,3 @@ deflection curve .  for some cases, the postbuckling behavior
 is investigated .  the results agree well with existing experimental
 and theoretical studies and cover a wide range of cases
 not previously treated .
-</TEXT>
-</DOC>

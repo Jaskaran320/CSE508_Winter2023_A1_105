@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-348
-</DOCNO>
-<TITLE>
-turbulent boundary layer in compressible fluids .
-</TITLE>
-<AUTHOR>
-van driest,e.r.
-</AUTHOR>
-<BIBLIO>
-j.ae.scs. 18, 1951, 145.
-</BIBLIO>
-<TEXT>
-  the continuity, momentum, and energy differential equations
+turbulent boundary layer in compressible fluids . the continuity, momentum, and energy differential equations
 for turbulent flow of a compressible fluid are derived, and the
 apparent turbulent stresses and dissipation function are identified
 .  a general formula for skin friction, including heat transfer
@@ -28,5 +14,3 @@ but lower than those given by the von karman incompressible-fluid
 formula .  heat transfer from the boundary layer
 to the plate generally increases the friction and heat-transfer
 coefficients .
-</TEXT>
-</DOC>

@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-704
-</DOCNO>
-<TITLE>
 a systematic kernel function procedure for determining aerodynamic
-forces on oscillating or steady finite wings at subsonic speeds .
-</TITLE>
-<AUTHOR>
-watkins, c.e., woolston, d.s. and cunningham, h.j.a.
-</AUTHOR>
-<BIBLIO>
-nasa tr r-48, 1959 .
-</BIBLIO>
-<TEXT>
-a detailed description is given of a method of approximating solutions
+forces on oscillating or steady finite wings at subsonic speeds . a detailed description is given of a method of approximating solutions
 to the integral equation that relates oscillatory or steady lift and
 downwash distributions on finite wings in subsonic flow . the method of
 solution is applicable to general plan forms with either curved or
@@ -42,5 +28,3 @@ and flapping oscillations . also included in the illustrations are
 results of flutter calculations compared with experimental results for
 an allmovable control surface of aspect ratio 3.50 and for a cantilevered
 rectangular plan form of aspect ratio 5.04 .
-</TEXT>
-</DOC>

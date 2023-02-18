@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-197
-</DOCNO>
-<TITLE>
 pressure distributions on three bodies of revolution
 to determine the effect of reynolds number up to and
-including the transonic speed range .
-</TITLE>
-<AUTHOR>
-swihart,j.m. and whitcomb,c.f.
-</AUTHOR>
-<BIBLIO>
-naca rm l53h04, 1953.
-</BIBLIO>
-<TEXT>
-  this paper presents the results of an investigation conducted in
+including the transonic speed range . this paper presents the results of an investigation conducted in
 the langley 16-foot transonic tunnel to determine the effects of varying
 reynolds number on the pressure distribution on a transonic body of
 revolution at angles of attack through the transonic speed range .  the
@@ -38,5 +24,3 @@ body .
 pressure distribution of the 120-inch model was negligible up to a
 mach number of 1.05 .  at this mach number the effect was to cause a
 small increase in the velocity over the rear of the body .
-</TEXT>
-</DOC>

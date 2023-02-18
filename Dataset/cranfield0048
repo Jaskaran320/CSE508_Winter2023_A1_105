@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-48
-</DOCNO>
-<TITLE>
 supersonic flow at the surface of a circular cone at
-angle of attack .
-</TITLE>
-<AUTHOR>
-willett,j.e.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 27, 1960, 907.
-</BIBLIO>
-<TEXT>
-  formulas for the inviscid flow properties on the surface of a
+angle of attack . formulas for the inviscid flow properties on the surface of a
 cone at angle of attack are derived for use in conjunction with
 the m.i.t. cone tables .  these formulas are based upon an
 entropy distribution on the cone surface which is uniform and
@@ -24,5 +10,3 @@ directly from the cone tables .  the differences in the magnitudes
 of the flow variables computed by the two methods tend to
 increase with increasing free-stream mach number, cone angle
 and angle of attack .
-</TEXT>
-</DOC>

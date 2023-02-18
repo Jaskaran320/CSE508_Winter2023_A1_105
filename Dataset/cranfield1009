@@ -1,16 +1,4 @@
-<DOC>
-<DOCNO>
-1009
-</DOCNO>
-<TITLE>
-free-flight measurements of the static and dynamic
-</TITLE>
-<AUTHOR>
-</AUTHOR>
-<BIBLIO>
-</BIBLIO>
-<TEXT>
-  charts of thermodynamic properties for equilibrium air are presented
+free-flight measurements of the static and dynamic charts of thermodynamic properties for equilibrium air are presented
 with sufficient accuracy to permit the calculation of flow parameters in
 hypersonic nozzles operating at stagnation temperatures up to 4,950 r
 and pressures up to 1,000 atm .  flow parameters calculated from these
@@ -25,5 +13,3 @@ this contour was compared with one calculated by ideal-gas
 considerations .  also presented are the approximate limiting mach
 numbers at which equilibrium air will just condense for various
 combinations of stagnation temperatures and pressures .
-</TEXT>
-</DOC>

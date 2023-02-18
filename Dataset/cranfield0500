@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-500
-</DOCNO>
-<TITLE>
 joule heating in magnetohydrodynamic free-convection
-flows .
-</TITLE>
-<AUTHOR>
-cramer,k.r.
-</AUTHOR>
-<BIBLIO>
-j.ae.scs., 29, 1962, 746.
-</BIBLIO>
-<TEXT>
-  the steady, fully developed, laminar, free-convection flow of an
+flows . the steady, fully developed, laminar, free-convection flow of an
 electrically conducting fluid between two fully submerged openended,
 constant-temperature vertical plates located in a constant,
 uniformly distributed, transverse magnetic field has been analyzed
@@ -24,5 +10,3 @@ well as a qualitative description of the manner in which it alters
 the temperature and flow fields .  the present result confirms the
 usual practice that the influence of joule heating is negligibly
 small .
-</TEXT>
-</DOC>

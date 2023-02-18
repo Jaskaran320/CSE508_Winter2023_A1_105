@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1213
-</DOCNO>
-<TITLE>
 heat transfer to slender cones in hypersonic flow,
-including effects of yaw and nose bluntness .
-</TITLE>
-<AUTHOR>
-wittcliff,c.e. and wilson,m.r.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1962, 761.
-</BIBLIO>
-<TEXT>
-  as part of a general study of the aerothermodynamic characteristics
+including effects of yaw and nose bluntness . as part of a general study of the aerothermodynamic characteristics
 of flight of hypersonic vehicles, an investigation of laminar
 heat transfer to slender yawed cones has been conducted .
 experiments have been made in the cal 11- by 15-in. shock
@@ -36,5 +22,3 @@ with laminar-boundary-layer calculations based on an
 assumption of local similarity .  the zero-yaw tests of the blunted
 cones showed qualitative agreement with cheng's shock-layer
 theory for slender blunt-nose bodies .
-</TEXT>
-</DOC>

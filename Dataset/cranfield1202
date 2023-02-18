@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1202
-</DOCNO>
-<TITLE>
 uniformly valid second-order solution for supersonic
-flow over cruciform surfaces .
-</TITLE>
-<AUTHOR>
-wallace,j. and clarke,j.h.
-</AUTHOR>
-<BIBLIO>
-aiaa jnl. 1, 1963, 179.
-</BIBLIO>
-<TEXT>
-  considered is the second-order supersonic flow over a cruciform
+flow over cruciform surfaces . considered is the second-order supersonic flow over a cruciform
 configuration consisting of two intersecting rectangular
 wings of high aspect ratio .  the practical interest is in application
 to supersonic inlets, wing-body junctions and vehicle fins .
@@ -43,5 +29,3 @@ weak shocks coincident with the vertex-centered undisturbed
 mach cone .  as an example of the above, detailed results are
 presented for the case of two intersecting wedges .  application
 of the techniques to other quasi-cylindrical problems is discussed .
-</TEXT>
-</DOC>

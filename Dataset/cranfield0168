@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-168
-</DOCNO>
-<TITLE>
 heat conduction through a gas with one inert internal
-model .
-</TITLE>
-<AUTHOR>
-clarke,j.f.
-</AUTHOR>
-<BIBLIO>
-coa n102, 1960.
-</BIBLIO>
-<TEXT>
-  the rate of energy transfer between
+model . the rate of energy transfer between
 parallel flat plates is evaluated
 when the (stagnant) gas between them is
 polyatomic with one inert internal
@@ -55,5 +41,3 @@ coefficients .  it is quite possible
 that the relaxation effect here is
 comparable with the temperature jump
 effects, even for rotation in diatomic molecules .
-</TEXT>
-</DOC>

@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1356
-</DOCNO>
-<TITLE>
 secondary flow fields embedded in hypersonic shock
-layers .
-</TITLE>
-<AUTHOR>
-seiff,a.
-</AUTHOR>
-<BIBLIO>
-nasa tn.d1304, 1962.
-</BIBLIO>
-<TEXT>
-  when a ramp or other compression
+layers . when a ramp or other compression
 surface is located in a locally
 supersonic region behind a hypersonic
 bow shock wave, it generates a
@@ -63,5 +49,3 @@ theory by the ratio of local
 dynamic pressure to free-stream dynamic
 pressure .  this ratio takes values
 as low as 0.1 in some of the examples considered .
-</TEXT>
-</DOC>

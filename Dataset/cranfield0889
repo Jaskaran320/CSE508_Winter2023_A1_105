@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-889
-</DOCNO>
-<TITLE>
 a simplified method of elastic stability analysis for
-thin cylindrical shells .
-</TITLE>
-<AUTHOR>
-batdorf,s.b.
-</AUTHOR>
-<BIBLIO>
-naca r.874, 1947.
-</BIBLIO>
-<TEXT>
-  this paper develops a new method for determining the buckling
+thin cylindrical shells . this paper develops a new method for determining the buckling
 stresses of cylindrical shells under various loading conditions .
 for convenience of exposition, it is divided into two parts .
   in part 1, the equation for the equilibrium of cylindrical
@@ -41,5 +27,3 @@ equation by means of trigonometric series and its application to
 a number of problems concerned with the shear buckling stresses
 of cylindrical shells are discussed .  the question of implicit
 boundary conditions also is considered .
-</TEXT>
-</DOC>

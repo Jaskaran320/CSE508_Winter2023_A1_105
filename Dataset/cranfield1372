@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1372
-</DOCNO>
-<TITLE>
 on axially symmetric, turbulent, compressible mixing in the presence
-of initial boundary layer .
-</TITLE>
-<AUTHOR>
-gdalia kleinstein
-</AUTHOR>
-<BIBLIO>
-polytechnic institute of brooklyn, farmingdale, n.y.
-</BIBLIO>
-<TEXT>
-recent experimental results have shown that the
+of initial boundary layer . recent experimental results have shown that the
 mixing of heterogeneous gases having an initial velocity
 ratio close to unity occurs faster than is predicted by classical
 eddy-viscosity theory .  the theoretical analysis of two uniform
@@ -31,5 +17,3 @@ physically .  instead, it is shown that rapid mixing can be
 explained on the basis of a different eddy-viscosity law, as
 was suggested in ref. 1 .  these conclusions are obtained
 through application of the analysis presented briefly below .
-</TEXT>
-</DOC>

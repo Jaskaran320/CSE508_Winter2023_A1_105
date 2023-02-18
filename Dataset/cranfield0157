@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-157
-</DOCNO>
-<TITLE>
-the hodographic transformation in transonic flow .
-</TITLE>
-<AUTHOR>
-lighthill,m.j.
-</AUTHOR>
-<BIBLIO>
-proc. roy.s. a, 191, 1947, 323.
-</BIBLIO>
-<TEXT>
-  the author studies the problem of finding the shape of a
+the hodographic transformation in transonic flow . the author studies the problem of finding the shape of a
 symmetrical nozzle with the velocity along the axis (x-axis)
 specified .  the velocity along each streamline is assumed to
 increase steadily .  the singularity at the sonic velocity and
@@ -37,5 +23,3 @@ inverts the solution to obtain a power series in for 0 .  this
 is shown to be convergent for the region of interest .  the
 type of solution considered by the author gives a nozzle
 having an infinitely long supersonic part .
-</TEXT>
-</DOC>

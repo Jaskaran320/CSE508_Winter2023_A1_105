@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1329
-</DOCNO>
-<TITLE>
 some aspects of non-stationary airfoil theory and its
-practical application .
-</TITLE>
-<AUTHOR>
-sears,w.r.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 8, 1951, 104.
-</BIBLIO>
-<TEXT>
-  this paper consists of three notes on the theory of two-dimensional
+practical application . this paper consists of three notes on the theory of two-dimensional
 thin airfoils in non-uniform motion ..
 oscillating airfoil are collected from an earlier paper and are presented
 in convenient forms for practical application .
@@ -29,5 +15,3 @@ operating in the wake of a set of pre-rotation vanes .  in a
 numerical example the amplitude is found to be small even when
 the vanes are spaced so that the exciting frequency coincides
 with the natural frequency of the fan blade .
-</TEXT>
-</DOC>

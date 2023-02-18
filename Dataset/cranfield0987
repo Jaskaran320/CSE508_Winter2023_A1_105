@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-987
-</DOCNO>
-<TITLE>
 a general theory of three dimensional flow in subsonic and supersonic
-turbo-machines of axial-radial-and mixed-flow types .
-</TITLE>
-<AUTHOR>
-wu, c.
-</AUTHOR>
-<BIBLIO>
-naca tn 2604, 1952 .
-</BIBLIO>
-<TEXT>
-a general theory of steady three-dimensional flow of a nonviscous fluid
+turbo-machines of axial-radial-and mixed-flow types . a general theory of steady three-dimensional flow of a nonviscous fluid
 in subsonic and supersonic turbomachines having arbitrary hub and casing
  shapes and a finite number of blades is presented . the solution of the
  three-dimensional direct and inverse problem is obtained by investigating
@@ -35,5 +21,3 @@ digital machine computations when the equation is elliptic or hyperbolic
  is described . the theory is applicable to both irrotational and rotational
 absolute flow at the inlet of the blade row and at both design
 and off-design operations .
-</TEXT>
-</DOC>

@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1108
-</DOCNO>
-<TITLE>
-a study of second-order supersonic flow theory .
-</TITLE>
-<AUTHOR>
-vandyke,m.d.
-</AUTHOR>
-<BIBLIO>
-naca r.1071, 1952.
-</BIBLIO>
-<TEXT>
-  an attempt is made to develop a second approximation to the
+a study of second-order supersonic flow theory . an attempt is made to develop a second approximation to the
 solution of problems of supersonic flow which can be solved by
 existing first-order theory .  the method of attack adopted is an
 iteration process using the linearized solution as the first step .
@@ -39,5 +25,3 @@ integral has been found .  as an example of a more general
 problem, the solution is derived for an inclined cone .  the
 possibility of treating other inclined bodies of revolution and
 three-dimensional wings is discussed briefly .
-</TEXT>
-</DOC>

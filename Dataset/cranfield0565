@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-565
-</DOCNO>
-<TITLE>
 similar solutions for the compressible boundary layer
-on a yawed cylinder with transpiration cooling .
-</TITLE>
-<AUTHOR>
-beckwith,i.e.
-</AUTHOR>
-<BIBLIO>
-naca tn.4345, 1958.
-</BIBLIO>
-<TEXT>
-  heat-transfer and skin-friction
+on a yawed cylinder with transpiration cooling . heat-transfer and skin-friction
 parameters obtained from exact
 numerical solutions to the laminar
 compressible-boundary-layer equations
@@ -51,5 +37,3 @@ and yaw angle than would be predicted
 from solutions of the corresponding
 incompressible-boundary-layer
 equations .
-</TEXT>
-</DOC>

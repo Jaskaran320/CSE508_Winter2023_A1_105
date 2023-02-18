@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-373
-</DOCNO>
-<TITLE>
 the generalized expansion method and its application
-to bodies travelling at high supersonic airspeeds .
-</TITLE>
-<AUTHOR>
-eggers,a.j., savin,r.c. and syvertson,c.a.
-</AUTHOR>
-<BIBLIO>
-j.ae.scs. 22, 1955, 231.
-</BIBLIO>
-<TEXT>
-  it is demonstrated that the shock-expansion method can be
+to bodies travelling at high supersonic airspeeds . it is demonstrated that the shock-expansion method can be
 generalized to treat a large class of hypersonic flows, only one of
 which is flow about airfoils .  this generalized method predicts
 the whole flow field, including shock-wave curvatures and resulting
@@ -45,5 +31,3 @@ inviscid hypersonic flows has any counterpart in hypersonic
 boundary-layer flows .  the question is answered in the affirmative,
 and results of experiment are employed to provide a partial
 check of this conclusion .
-</TEXT>
-</DOC>

@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-525
-</DOCNO>
-<TITLE>
 on hypersonic viscous flow over an insulated flat plate
-with surface mass transfer .
-</TITLE>
-<AUTHOR>
-tien,c.l.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 29, 1962, 1024.
-</BIBLIO>
-<TEXT>
-  hypersonic viscous flow over an insulated flat plate with surface
+with surface mass transfer . hypersonic viscous flow over an insulated flat plate with surface
 mass transfer is studied .  the tangent-wedge approximation
 is used in the inviscid-flow region, and the integral method is applied
 to the treatment of the laminar boundary layer .  the law
@@ -24,5 +10,3 @@ formulas for the induced surface pressure and the skin-friction
 coefficient are obtained for both the strong and weak pressureinteraction
 regions .  results are compared with those calculated
 from other analyses .
-</TEXT>
-</DOC>

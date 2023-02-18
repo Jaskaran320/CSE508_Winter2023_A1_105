@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-64
-</DOCNO>
-<TITLE>
 unsteady oblique interaction of a shock wave with plane
-disturbances .
-</TITLE>
-<AUTHOR>
-moore,f.k.
-</AUTHOR>
-<BIBLIO>
-naca tn.2879, 1953.
-</BIBLIO>
-<TEXT>
-  analysis is made of the flow field produced by oblique impingement
+disturbances . analysis is made of the flow field produced by oblique impingement
 of weak plane disturbances of arbitrary
 profile on a plane normal shock .
 three types of disturbance are considered ..
@@ -29,5 +15,3 @@ and either a sound wave or attenuating pressure wave is also produced .
   computations are presented for the first two types of incident wave,
 over the range of incidence angles, for shock mach numbers of 1, 1.5,
 and .
-</TEXT>
-</DOC>

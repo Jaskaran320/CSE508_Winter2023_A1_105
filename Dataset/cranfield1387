@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-1387
-</DOCNO>
-<TITLE>
 the buckling of a square panel under shear, when one
 pair of opposite edges is clamped and the other pair
-is simply supported .
-</TITLE>
-<AUTHOR>
-leggett,d.m.a.
-</AUTHOR>
-<BIBLIO>
-arc r + m.1991, 1941.
-</BIBLIO>
-<TEXT>
-  reasons for investigation.--for an efficient design
+is simply supported . reasons for investigation.--for an efficient design
 of spar with thin sheet web it is important to know
 the load which will just cause the web to buckle .  as stiffeners
 divide the web into panels, it is required to find the
@@ -36,5 +22,3 @@ or all simply supported .  by an easy extension the
 method of solution can also be used to find the periods of transverse
 vibration of rectangular panels for the same types
 of loading and edge fixing .
-</TEXT>
-</DOC>

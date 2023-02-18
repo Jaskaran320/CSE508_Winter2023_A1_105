@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-511
-</DOCNO>
-<TITLE>
 tunnel tests on a double cascade to determine the interaction
-between the rotor and the nozzles of a supersonic turbine .
-</TITLE>
-<AUTHOR>
-stratford,b.s.
-</AUTHOR>
-<BIBLIO>
-ngte m359.
-</BIBLIO>
-<TEXT>
-  experimental confirmation has been required that in a supersonic
+between the rotor and the nozzles of a supersonic turbine . experimental confirmation has been required that in a supersonic
 turbine the leading edges of the rotor governs the rotor incidence and,
 hence, the gas exit angle from the nozzles .  evidence has also been
 required that, once the rotor incidence has been allowed for, there is
@@ -26,5 +12,3 @@ turning angle of 140 .  in the tests, fully supersonic flow could be
 established through the system, but the losses were fairly high and an
 increase in loss of about 25 per cent would have caused choking in the
 rotor .
-</TEXT>
-</DOC>

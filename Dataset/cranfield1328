@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1328
-</DOCNO>
-<TITLE>
 the production of aerodynamic forces by heat addition
-on external surfaces of aircraft .
-</TITLE>
-<AUTHOR>
-willmarth,w.w.
-</AUTHOR>
-<BIBLIO>
-rand corp. rm.2078, 1957.
-</BIBLIO>
-<TEXT>
-  within the framework of linearized
+on external surfaces of aircraft . within the framework of linearized
 flow theory an equivalence between
 a fluid mass source, a heat source,
 and streamwise body forces is
@@ -51,5 +37,3 @@ increases linearly with mach number
 when heat is added on the rear surface
 of an axially symmetric afterbody
 of parabolic shape .
-</TEXT>
-</DOC>

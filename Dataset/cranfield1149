@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1149
-</DOCNO>
-<TITLE>
-similar temperature boundary layers .
-</TITLE>
-<AUTHOR>
-dragutin stojanovic
-</AUTHOR>
-<BIBLIO>
-university of beograd, jugoslavia
-</BIBLIO>
-<TEXT>
-conditions for the existence of similar solutions are known for (a) twodimensional,
+similar temperature boundary layers . conditions for the existence of similar solutions are known for (a) twodimensional,
 incompressible, steady and nonsteady laminar boundary
 layers and (b) three-dimensional, incompressible, steady, laminar
 boundary layers for a body of revolution rotating in a fluid at rest or
@@ -31,5 +17,3 @@ or surface velocity .  numberical solutions are given for the nondimensional
 temprature distributions function and the nondimensional temperature
 gradient at the wall for several prandtl numbers in the case
 of a rotating flow over an infinite plate at rest .
-</TEXT>
-</DOC>

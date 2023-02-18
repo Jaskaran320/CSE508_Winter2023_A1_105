@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-401
-</DOCNO>
-<TITLE>
 inviscid hypersonic airflows with coupled non-equilibrium
-processes .
-</TITLE>
-<AUTHOR>
-hall,j.g., eschenroeder,a.w. and marrone,p.v.
-</AUTHOR>
-<BIBLIO>
-ias paper 62-67, 1962.
-</BIBLIO>
-<TEXT>
-  analyses have been made of the effects of coupled chemical rate
+processes . analyses have been made of the effects of coupled chemical rate
 processes in external inviscid hypersonic airflows at high enthalpy
 levels .  exact (numerical) solutions have been obtained by the
 inverse method for inviscid airflow over a near-spherical nose
@@ -47,5 +33,3 @@ shock layer, provides a useful flexibility for hypersonic testing
 where it is applicable .
   the afterbody inviscid-flow problem is briefly discussed in the
 light of the results for the nose flow .
-</TEXT>
-</DOC>

@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1398
-</DOCNO>
-<TITLE>
 stability of rectangular plates under shear and bending
-forces .
-</TITLE>
-<AUTHOR>
-way,s.
-</AUTHOR>
-<BIBLIO>
-j. app. mech. 3, 1936, a131.
-</BIBLIO>
-<TEXT>
-  the author first discusses the problem of a plane, simply
+forces . the author first discusses the problem of a plane, simply
 supported rectangular plate loaded by shearing forces in
 the plane of the plate on all four edges .  there are two
 stiffeners attached one third and two thirds of the way
@@ -34,5 +20,3 @@ of the edge shearing forces is found to diminish the
 critical bending stress in this case .  calculations are made
 for various magnitudes of bending and shearing forces for
 plates of various proportions .
-</TEXT>
-</DOC>

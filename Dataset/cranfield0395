@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-395
-</DOCNO>
-<TITLE>
 new methods in heat flow analysis with application
-to flight structures .
-</TITLE>
-<AUTHOR>
-biot,m.a.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 24, 1957.
-</BIBLIO>
-<TEXT>
-  new methods are presented for the analysis of transient heat
+to flight structures . new methods are presented for the analysis of transient heat
 flow in complex structures, leading to drastic simplifications in
 the calculation and the possibility of including nonlinear and surface
 effects .  these methods are in part a direct application of
@@ -38,5 +24,3 @@ structure by the present method is also given and requires only
 extremely simple calculations .  the results are found to be in
 good agreement with those obtained by the classical and much
 more elaborate procedures .
-</TEXT>
-</DOC>

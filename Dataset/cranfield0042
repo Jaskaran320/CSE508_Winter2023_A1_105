@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-42
-</DOCNO>
-<TITLE>
 the gyroscopic effect of a rigid rotating propeller
-on engine and wing vibration modes .
-</TITLE>
-<AUTHOR>
-scanlan,r.h. and truman,j.c.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 17, 1950, 653.
-</BIBLIO>
-<TEXT>
-  in many wing vibration analyses it is found necessary to take
+on engine and wing vibration modes . in many wing vibration analyses it is found necessary to take
 into account the effect of flexibly mounted engines .  hence,
 it is reasonable to ask what vibratory gyroscopic effect this flexibility
 may give rise to when propellers are whirling .  an engine
@@ -39,5 +25,3 @@ of an example of the theory of part (3), in which, by taking
 what are thought to be reasonable parameters, results are obtained
 showing how the whirling of a rigid propeller may materially
 affect wing normal mode shapes and frequencies .
-</TEXT>
-</DOC>

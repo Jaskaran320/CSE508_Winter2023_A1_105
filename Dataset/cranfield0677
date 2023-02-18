@@ -1,18 +1,5 @@
-<DOC>
-<DOCNO>
-677
-</DOCNO>
-<TITLE>
 methods for calculating the lift distribution of wings /subsonic lifting
-surface theory/ .
-</TITLE>
-<AUTHOR>
-</AUTHOR>
-<BIBLIO>
-r + m 2884, r.a.e. rep. aero. 2353. a.r.c. 13,439. january 1950 .
-</BIBLIO>
-<TEXT>
-this report contains some fairly simple and economic methods for
+surface theory/ . this report contains some fairly simple and economic methods for
 calculating the load distribution on wings of any plan form based on
 the conceptions of lifting surface theory . the computer work required
 is only a small fraction of that of existing methods with comparable
@@ -37,5 +24,3 @@ other methods,. one solution is given in full detail in tables 8-30 as a
  guide for computers . appendices i-vi discuss more carefully some
 salient points of the mathematical theory, and appendix vii is intended
 to instruct the computer how to carry out the steps of the calculation .
-</TEXT>
-</DOC>

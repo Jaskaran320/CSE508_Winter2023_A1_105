@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1373
-</DOCNO>
-<TITLE>
-nose drag in free-molecule flow and its minimization .
-</TITLE>
-<AUTHOR>
-tan,h.s.
-</AUTHOR>
-<BIBLIO>
-j.ae.scs. 1959, 360.
-</BIBLIO>
-<TEXT>
-  the superaerodynamic nose drag of a body in a free-molecule
+nose drag in free-molecule flow and its minimization . the superaerodynamic nose drag of a body in a free-molecule
 flow involves two parameters ..  the speed ratio s between
 ordered and random molecular motions (modified mach number),
 and the temperature ratio between the solid surface
@@ -42,5 +28,3 @@ the hypersonic solution--i.e., a slender conventional warhead
 with a flat tip,. whereas with, the cold-body solution
 asymptotically approaches the minimal-surface solution--i.e.,
 tip radius, a flat disc .
-</TEXT>
-</DOC>

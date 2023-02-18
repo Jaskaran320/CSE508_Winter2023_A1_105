@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-576
-</DOCNO>
-<TITLE>
 viscous and inviscid stagnation flow in a dissociated hypervelocity free
- stream .
-</TITLE>
-<AUTHOR>
-inger, g.r.
-</AUTHOR>
-<BIBLIO>
-proc. 1962. heat transfer and fluid mech. inst .
-</BIBLIO>
-<TEXT>
-high reynolds number hypersonic stagnation flow over a blunt-nosed body
+ stream . high reynolds number hypersonic stagnation flow over a blunt-nosed body
 in a nonequilibrium dissociated free stream is analyzed and compared to
 a similar flow in an initially undissociated ambient gas . free stream
 dissociation effects on various equilibrium stagnation flow properties
@@ -55,5 +41,3 @@ could be attributed to discontinuities in the performance characteristics
 of the front stages . such discontinuities can be due to the type
  of stage stall or to a deterioration of stage performance resulting
 blades is included .
-</TEXT>
-</DOC>

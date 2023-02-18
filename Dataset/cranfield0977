@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-977
-</DOCNO>
-<TITLE>
 concerning some solutions of the boundary layer equations
-in hydrodynamics .
-</TITLE>
-<AUTHOR>
-goldstein,s.
-</AUTHOR>
-<BIBLIO>
-proc. cam. phil. soc. 26, 1930, 18.
-</BIBLIO>
-<TEXT>
-  the boundary-layer equations for
+in hydrodynamics . the boundary-layer equations for
 a steady two-dimensional motion
 are solved for any given initial
 velocity distribution (distribution along a
@@ -51,5 +37,3 @@ method is used to calculate
 the flow behind a flat plate along a
 stream .  the results are shown in
 curves in the original .
-</TEXT>
-</DOC>

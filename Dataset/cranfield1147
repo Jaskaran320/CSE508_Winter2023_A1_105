@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1147
-</DOCNO>
-<TITLE>
 heat transfer to bodies traveling at high speed in the upper
-atmosphere .
-</TITLE>
-<AUTHOR>
-jackson r. stalder and david jukoff
-</AUTHOR>
-<BIBLIO>
-report 944
-</BIBLIO>
-<TEXT>
-a general method has been developed, using the methods of kinetic
+atmosphere . a general method has been developed, using the methods of kinetic
 theory, whereby the surface temperatures of bodies can be calculated for
 steady flight at any speed in a rarefied gas .  the particular solution
 was made for a flat plate., however, the calculations can be easily
@@ -53,5 +39,3 @@ the decrease in skin temperature which accompanies a decrease in
 thermal accommodation coefficient .  this phenomenon may be
 used to advantage if it is possible to decrease the accommodation
 coefficient by altering the surface characteristics of the skin .
-</TEXT>
-</DOC>

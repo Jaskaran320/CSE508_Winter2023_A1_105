@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-266
-</DOCNO>
-<TITLE>
 exact solution of the neumann problem . calculation
 for non- circulatory plane and axially symmetric flows
-about or within arbitrary boundaries .
-</TITLE>
-<AUTHOR>
-smith,a.n.c. and pierce,j.
-</AUTHOR>
-<BIBLIO>
-3rd nat. con. app. mech. 1958.
-</BIBLIO>
-<TEXT>
-  an exact general method of solving
+about or within arbitrary boundaries . an exact general method of solving
 the neumann or second boundary-value
 problem has been developed and has been
 applied to the calculation of lowspeed
@@ -51,5 +37,3 @@ computations require from three minutes
 to two hours, depending upon the
 shape of the body and the number of points
 used to define it .
-</TEXT>
-</DOC>

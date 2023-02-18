@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-542
-</DOCNO>
-<TITLE>
-biot's variational principle in heat conduction .
-</TITLE>
-<AUTHOR>
-lardner,t.j.
-</AUTHOR>
-<BIBLIO>
-a.i.a.a. j. 1963, 196.
-</BIBLIO>
-<TEXT>
-  biot's variational principle is applied to a number of different
+biot's variational principle in heat conduction . biot's variational principle is applied to a number of different
 one-dimensional heat conduction problems .  these problems
 show the applicability of the variational principle to problems
 involving prescribed heat flux boundary conditions and to those
@@ -34,5 +20,3 @@ law of cooling is then treated .  finally, the introduction of temperature-depen
 material properties is discussed and the determination
 of the temperature distribution in a semi-infinite
 solid with variable properties is investigated .
-</TEXT>
-</DOC>

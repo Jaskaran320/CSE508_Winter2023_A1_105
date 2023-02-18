@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-701
-</DOCNO>
-<TITLE>
 numerical determination of indical lift of a two-dimensional sinking
 airfoil at subsonic mach numbers from oscillatory lift coefficients with
- calculations for mach number 0.7 .
-</TITLE>
-<AUTHOR>
-mazelsky, b.
-</AUTHOR>
-<BIBLIO>
-naca tn 2562, 1951 .
-</BIBLIO>
-<TEXT>
-the reciprocal equations for relating the incompressible circulatory
+ calculations for mach number 0.7 . the reciprocal equations for relating the incompressible circulatory
 indicial lift to the lift due to harmonic oscillations have been
 modified to include the noncirculatory lift associated with apparentmass
 effects . although the apparent-mass effects are impulsive in
@@ -37,5 +23,3 @@ case . consequently, the calculation of the gust load factor
 at high subsonic mach numbers utilizing the two-dimensional incompressible
 indicial lift functions and an over-all correction for compressibility
 such as the prandtl-glauert factor might be conservative .
-</TEXT>
-</DOC>

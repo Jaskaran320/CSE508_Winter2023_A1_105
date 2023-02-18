@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-566
-</DOCNO>
-<TITLE>
 investigation of local heat transfer and pressure drag
 characteristics of a yawed circular cylinder at supersonic
-speeds .
-</TITLE>
-<AUTHOR>
-goodwin,g., creager,m.o. and winkler,e.l.
-</AUTHOR>
-<BIBLIO>
-naca rm.a55h31, 1956.
-</BIBLIO>
-<TEXT>
-  local heat-transfer coefficients,
+speeds . local heat-transfer coefficients,
 temperature recovery factors, and
 pressure distributions were measured
 on a circular cylinder at a nominal
@@ -42,5 +28,3 @@ temperature, mach number, and
 reynolds number indicates that these
 factors have little effect upon the
 dropoff of heat transfer due to yaw .
-</TEXT>
-</DOC>

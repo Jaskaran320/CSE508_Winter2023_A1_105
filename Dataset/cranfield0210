@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-210
-</DOCNO>
-<TITLE>
-propeller in yaw .
-</TITLE>
-<AUTHOR>
-ribner,h.s.
-</AUTHOR>
-<BIBLIO>
-naca r820, 1945.
-</BIBLIO>
-<TEXT>
-  it was realized as early as 1909 that a propeller in yaw
+propeller in yaw . it was realized as early as 1909 that a propeller in yaw
 develops a side force like that of a fin .  in 1917, r. g. harris
 expressed this force in terms of the torque coefficient for the
 unyawed propeller .  of several attempts to express the side
@@ -45,5 +31,3 @@ is small but possibly not negligible .
 exception of the compressibility correction) and a series of
 charts of the side-force derivative calculated therefrom have been
 presented without derivation in an earlier report .
-</TEXT>
-</DOC>

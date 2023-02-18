@@ -1,21 +1,7 @@
-<DOC>
-<DOCNO>
-857
-</DOCNO>
-<TITLE>
 experimental studies of flutter of buckled rectangular
 panels at mach numbers from 1. 2 to 3. 0 including
 effects of pressure differential and of panel width-length
-ratio .
-</TITLE>
-<AUTHOR>
-sylvester,m.a.
-</AUTHOR>
-<BIBLIO>
-nasa tn.d833, 1961.
-</BIBLIO>
-<TEXT>
-  experimental panel flutter data have been obtained at mach numbers
+ratio . experimental panel flutter data have been obtained at mach numbers
 from 1.2 to 3.0 for buckled rectangular panels and the effect of a pressure
 differential has been determined .  increasing the pressure
 differential was effective in eliminating flutter on most of the panels
@@ -32,5 +18,3 @@ panel length when the ratio of width to length is less than approximately
 in the direction of flow were found to be particularly susceptible to
 flutter .  the results of limited tests on panels with applied damping,
 curvature, and lengthwise stiffeners are also presented and discussed .
-</TEXT>
-</DOC>

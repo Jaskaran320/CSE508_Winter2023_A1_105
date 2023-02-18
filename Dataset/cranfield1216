@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1216
-</DOCNO>
-<TITLE>
 pressure distribution in regions of step-induced turbulent
-separation .
-</TITLE>
-<AUTHOR>
-vasilu,j.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1962, 596.
-</BIBLIO>
-<TEXT>
-  an analysis is made of the pressure distribution in the separated-flow
+separation . an analysis is made of the pressure distribution in the separated-flow
 region ahead of a step, using the concept of the turbulent
 mixing coefficient of crocco and lees and the /jet-flow/
 model of chapman with some modification .  on the basis of
@@ -32,5 +18,3 @@ of 5 percent is found between theory and experiment .
 use of the velocity profiles of jets, as required by the jet-flow
 model, necessarily restricts the applicability of the present study
 to flows with thin boundary layers at the separation point .
-</TEXT>
-</DOC>

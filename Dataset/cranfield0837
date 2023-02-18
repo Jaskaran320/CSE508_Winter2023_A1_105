@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-837
-</DOCNO>
-<TITLE>
 inelastic behaviour of structures subjected to cyclic
-thermal and mechanical stressing conditions .
-</TITLE>
-<AUTHOR>
-padlog,j., huff,r.d. and holloway,g.f.
-</AUTHOR>
-<BIBLIO>
-wadc tr 60-271, 1960.
-</BIBLIO>
-<TEXT>
-  a general analytical procedure is outlined for structures subjected to
+thermal and mechanical stressing conditions . a general analytical procedure is outlined for structures subjected to
 varying thermal and mechanical stressing conditions .  consideration is
 given to the accumulation of time-independent plastic strains and creep
 strains .  stress-strain-temperature-time relations for uniaxial and
@@ -35,5 +21,3 @@ cycles of a time-varying temperature and edge stress condition .  both
 plastic strain reversals and plastic strain growths were predicted at
 the hole .  however, a test-theory comparison indicated failure by
 creep-rupture .
-</TEXT>
-</DOC>

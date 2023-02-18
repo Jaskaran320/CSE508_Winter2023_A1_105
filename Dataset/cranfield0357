@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-357
-</DOCNO>
-<TITLE>
 optimum nose shapes for missiles in the super-aerodynamic
-region .
-</TITLE>
-<AUTHOR>
-carter,w.j.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 24, 1957, 527.
-</BIBLIO>
-<TEXT>
-  the mechanics of the kinetic theory of gases is employed to
+region . the mechanics of the kinetic theory of gases is employed to
 describe the drag force on the nose of a missile moving in the superaerodynamic
 region of the atmosphere .  three separate cases are
 considered--ideal specular reflection, specular-type reflection
@@ -30,5 +16,3 @@ are significantly dependent on the nose shape .  when surface
 absorption followed by random emission occurs, the drag coefficient
 is not strongly dependent on either the missile nose shape
 or the fineness ratio of the nose .
-</TEXT>
-</DOC>

@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-133
-</DOCNO>
-<TITLE>
 some effects of surface curvature on laminar boundary
-layer flow .
-</TITLE>
-<AUTHOR>
-murphy,j.s.
-</AUTHOR>
-<BIBLIO>
-j.aero.scs. 20, 1953, 338.
-</BIBLIO>
-<TEXT>
-  the laminar flow of a viscous incompressible fluid over a twodimensional
+layer flow . the laminar flow of a viscous incompressible fluid over a twodimensional
 curved surface is investigated for two cases, one in
 which the curvature is /large/ and the other in which it is
 cases are obtained as approximations from the exact equations of
@@ -33,5 +19,3 @@ that a smooth transition exist between the viscous flow and the
 potential flow at the outer edge of the layer causes the profile to
 have a negative slope near the outer edge for convex surface
 curvature and a positive slope for concave surface curvature .
-</TEXT>
-</DOC>

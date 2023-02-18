@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-749
-</DOCNO>
-<TITLE>
 the aerodynamic effects of aspect ratio and sweepback
-on wing flutter .
-</TITLE>
-<AUTHOR>
-molyneux,w.g. and hall,h.
-</AUTHOR>
-<BIBLIO>
-arc r + m.3011.
-</BIBLIO>
-<TEXT>
-  the report describes tests to obtain direct
+on wing flutter . the report describes tests to obtain direct
 measurements of the aerodynamic effects of aspect ratio and
 sweepback on wing flutter .  the tests were made on rigid
 wings with root flexibilities .
@@ -30,5 +16,3 @@ the stiffness coefficients by 1(f(a)) where a is the
 aspect ratio .
   for the wings tested an average value for
 f(a) is f(a) = (1 + (0.8a)) .
-</TEXT>
-</DOC>

@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-827
-</DOCNO>
-<TITLE>
 a nonlinear theory of bending and buckling of thin
-elastic shallow spherical shells .
-</TITLE>
-<AUTHOR>
-kaplan,a. and fung,y.c.
-</AUTHOR>
-<BIBLIO>
-naca tn.3212, 1954.
-</BIBLIO>
-<TEXT>
-  a shallow spherical dome subjected to lateral pressure is a structure
+elastic shallow spherical shells . a shallow spherical dome subjected to lateral pressure is a structure
 for which the deformation departs appreciably from the linear theory at
 relatively small values of the deflection amplitude .  it is also one
 for which the buckling process is characterized by a rapid decrease in
@@ -44,5 +30,3 @@ the maximum deflection does not occur at the center of the dome .
 of buckling is applicable to very shallow spherical domes for which the
 theoretical calculation was made .  a transition to energy criterion for
 higher domes is also indicated .
-</TEXT>
-</DOC>

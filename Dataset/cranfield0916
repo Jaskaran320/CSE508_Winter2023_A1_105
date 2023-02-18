@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-916
-</DOCNO>
-<TITLE>
 the flow around oscillating low aspect ratio wings at transonic
-speeds .
-</TITLE>
-<AUTHOR>
-landahl, m.t.
-</AUTHOR>
-<BIBLIO>
-kth aero. t.n.40, 1954 .
-</BIBLIO>
-<TEXT>
-when certain conditions are fulfilled for thickness ratio, aspect ratio,
+speeds . when certain conditions are fulfilled for thickness ratio, aspect ratio,
  and reduced frequency for a three-dimensional wing, it can be shown
 that the partial differential equation for the non-steady perturbation
 potential can be reduced to a comparatively simple linear equation .
@@ -27,5 +13,3 @@ non-steady forces in the potential equation, which are neglected in
 slender-body theory, are very important . stability derivatives can also
  be obtained by the method and it is seen that the damping in pitch may
 be negative at m 1 for delta wings of too high aspect ratio .
-</TEXT>
-</DOC>

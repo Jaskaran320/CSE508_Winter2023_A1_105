@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-515
-</DOCNO>
-<TITLE>
 self sustained oscillations of a system with non-linear
-damping of a particular type .
-</TITLE>
-<AUTHOR>
-neumark,s.
-</AUTHOR>
-<BIBLIO>
-rae tn.aero.2839, 1962.
-</BIBLIO>
-<TEXT>
-  the paper deals with self-sustained
+damping of a particular type . the paper deals with self-sustained
 oscillations of a dynamic system
 of single degree of freedom, with linear
 restoring force and non-linear
@@ -34,5 +20,3 @@ by series in powers of damping
 ratio is worked out which
 gives a satisfactory accuracy for
 quite large values of .
-</TEXT>
-</DOC>

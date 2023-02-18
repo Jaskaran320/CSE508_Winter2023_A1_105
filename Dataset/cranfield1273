@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1273
-</DOCNO>
-<TITLE>
 magnetohydrodynamic effects on the formation of couette,
-flow .
-</TITLE>
-<AUTHOR>
-tao,l.n.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1960, 334.
-</BIBLIO>
-<TEXT>
-  this paper is concerned with the problem of the formation of
+flow . this paper is concerned with the problem of the formation of
 couette flow--i.e., the problem of how the velocity profile varies
 with the time tending asymptotically to that of the steady flow of
 an electrically conducting viscous fluid in the presence of a magnetic
@@ -29,5 +15,3 @@ that in the presence of a magnetic field the flow rate is reduced
 depending on the magnitude of the hartmann number, and that
 the magnetic field /assists/ the flow to reach its steady condition
 .
-</TEXT>
-</DOC>

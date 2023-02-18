@@ -1,16 +1,4 @@
-<DOC>
-<DOCNO>
-1007
-</DOCNO>
-<TITLE>
-free-flight measurements of the static and dynamic
-</TITLE>
-<AUTHOR>
-</AUTHOR>
-<BIBLIO>
-</BIBLIO>
-<TEXT>
-  this report presents equations, tables, and figures for use in the
+free-flight measurements of the static and dynamic this report presents equations, tables, and figures for use in the
 analysis of helium flow at supersonic and hypersonic speeds .  the contents
 of the report and presentation of the data parallel that of a
 similar reference work (naca rep. 1135) prepared for air flow .
@@ -26,5 +14,3 @@ are plotted .  the oblique-shock characteristics of wedges and cones in
 helium at mach numbers of 12, 16, 20, and 24 are presented in a series
 of plots .  throughout all the computations, helium is considered to be
 a perfect gas .
-</TEXT>
-</DOC>

@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-622
-</DOCNO>
-<TITLE>
 scale height in the upper atmosphere, derived from changes in satellite
-orbits .
-</TITLE>
-<AUTHOR>
-king-hele, d.g. and hughes, k.m.
-</AUTHOR>
-<BIBLIO>
-r.a.e. tn space 4, 1962 .
-</BIBLIO>
-<TEXT>
-the'density scale height'h in the upper atmosphere is a measure of the
+orbits . the'density scale height'h in the upper atmosphere is a measure of the
 rate at which air density p varies with height y, being given by
 h-p//dp/dy/ . the value of h, although important because/with the
 molecular weight of the air/it determines the air temperature, has not
@@ -31,5 +17,3 @@ height becomes much less rapid above 350 km, and are consistent with the
 for 1959-61 . the results could be greatly extended in scope and
 improved in accuracy if more accurate orbits were available for shortlifetime
 satellites .
-</TEXT>
-</DOC>

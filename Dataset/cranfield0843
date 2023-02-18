@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-843
-</DOCNO>
-<TITLE>
 a simplified method of elastic stability analysis for
-thin cylindrical shells .
-</TITLE>
-<AUTHOR>
-batdorf,s.b.
-</AUTHOR>
-<BIBLIO>
-i. donnell's equation.  naca tn.1341, 1947.
-</BIBLIO>
-<TEXT>
-  the equation for the equilibrium of cylindrical
+thin cylindrical shells . the equation for the equilibrium of cylindrical
 shells introduced by donnell in naca report no. 479 to
 find the critical stresses of cylinders in torsion is
 applied to find critical stresses for cylinders with
@@ -31,5 +17,3 @@ previous theoretical solutions and with test results .
 buckling of cylinders with simply supported edges on the
 basis of a unified viewpoint are presented in a convenient
 form for practical use .
-</TEXT>
-</DOC>

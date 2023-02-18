@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1199
-</DOCNO>
-<TITLE>
 theoretical investigations of a supersonic laminar
-boundary layer with foreign-gas injection .
-</TITLE>
-<AUTHOR>
-freedman,s.i., radbill,j.r. and kaye,j.
-</AUTHOR>
-<BIBLIO>
-aiaa jnl. 1, 1963.
-</BIBLIO>
-<TEXT>
-  the phenomena arising from the uniform injection of helium,
+boundary layer with foreign-gas injection . the phenomena arising from the uniform injection of helium,
 air, argon, and iodine into the laminar boundary layer of a supersonic
 stream of air in a tube were investigated theoretically .
 the partial differential equations describing the energy, mass,
@@ -37,5 +23,3 @@ rise in the recovery factor along the tube, while experiments
 have shown only a 1-percent rise .  these differences between
 theory and experiment are attributed to inaccuracies in the approximations
 to the transport properties of the binary mixtures .
-</TEXT>
-</DOC>

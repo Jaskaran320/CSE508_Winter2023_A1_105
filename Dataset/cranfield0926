@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-926
-</DOCNO>
-<TITLE>
 post buckling behaviour of circular cylinderical shells
-under hydrostatic pressure .
-</TITLE>
-<AUTHOR>
-kempner,j.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 24, 1957, 253.
-</BIBLIO>
-<TEXT>
-  the postbuckling behavior of initially perfect, thin-walled,
+under hydrostatic pressure . the postbuckling behavior of initially perfect, thin-walled,
 circular cylindrical shells under hydrostatic pressure is investigated
 with the aid of the principle of stationary potential energy
 together with appropriate approximate deflection functions .
@@ -26,5 +12,3 @@ to radial displacements of the order of the shell thickness, it is
 found that the number of circumferential waves remain essentially
 constant with increasing deflection and equal to the
 number of waves developed at buckling .
-</TEXT>
-</DOC>

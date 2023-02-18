@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-484
-</DOCNO>
-<TITLE>
 the influence of two-dimensional stream shear for airfoil
-maximum lift .
-</TITLE>
-<AUTHOR>
-vidal,r.j.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 29, 1962, 889.
-</BIBLIO>
-<TEXT>
-  the effects of stream velocity gradients on airfoil maximum
+maximum lift . the effects of stream velocity gradients on airfoil maximum
 lift are defined with experimental data obtained in a simulated
 two-dimensional slipstream .  the experimental results show
 that when positioned near the slipstream plane of symmetry, the
@@ -40,5 +26,3 @@ stems from a shear effect of higher order than those treated in the
 inviscid theories .  it is hypothesized that it is a second-order
 effect, fixed by the product of the stream shear and the derivative
 of the shear, which was large in the present experiments .
-</TEXT>
-</DOC>

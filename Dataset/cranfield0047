@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-47
-</DOCNO>
-<TITLE>
-analysis of low-aspect-ratio aircraft structures .
-</TITLE>
-<AUTHOR>
-samson,s.h. and bergmann,h.w.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 27, 1960, 679.
-</BIBLIO>
-<TEXT>
-  two methods are presented for the analysis of complex lowaspect-ratio
+analysis of low-aspect-ratio aircraft structures . two methods are presented for the analysis of complex lowaspect-ratio
 aircraft structures .  both methods provide for
 arbitrary external loading, are general with respect to the orientation
 of structural members, and permit arbitrary boundary
@@ -34,5 +20,3 @@ small matrix and provides the solution for the unknown boundary
 conditions .
   comparisons of theoretical results with experimental data and
 electric-analog solutions are favorable .
-</TEXT>
-</DOC>

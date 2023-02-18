@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-486
-</DOCNO>
-<TITLE>
-similarity laws for aerothermoelastic testing .
-</TITLE>
-<AUTHOR>
-dugundji,j.
-</AUTHOR>
-<BIBLIO>
-j.ae.scs. 29, 1962, 935.
-</BIBLIO>
-<TEXT>
-  the similarity laws for aerothermoelastic testing are presented
+similarity laws for aerothermoelastic testing . the similarity laws for aerothermoelastic testing are presented
 in the range .  these are obtained by
 making nondimensional the appropriate governing equations of
 the individual external aerodynamic flow, heat conduction to
@@ -40,5 +26,3 @@ case as well as for the specialized situations mentioned
 in (1) above are given .
   finally, extension of the aerothermoelastic similarity laws to
 higher speeds and temperatures is discussed .
-</TEXT>
-</DOC>

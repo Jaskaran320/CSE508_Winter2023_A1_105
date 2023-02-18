@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-1240
-</DOCNO>
-<TITLE>
 nonsimilar solutions of the compressible laminar boundary
 layer equations with applications to the upstream-transpiration
-cooling problem .
-</TITLE>
-<AUTHOR>
-pallone,a.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1961, 449.
-</BIBLIO>
-<TEXT>
-  a new method is presented for predicting the boundary-layer
+cooling problem . a new method is presented for predicting the boundary-layer
 characteristics downstream of the porous region of an injectioncooled
 surface .  the method consists of a general scheme for
 obtaining nonsimilar solutions of the compressible-laminarboundary-layer
@@ -33,5 +19,3 @@ equations is obtained .  the set of equations may be solved for
 given initial conditions by a numerical integration scheme such
 as the runge-kutta method .  several numerical examples of
 interest are presented .
-</TEXT>
-</DOC>

@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-504
-</DOCNO>
-<TITLE>
 stability of compressible boundary layers induced by
-a moving wave .
-</TITLE>
-<AUTHOR>
-ostrach,s.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 29, 1962, 289.
-</BIBLIO>
-<TEXT>
-  the problem of determining the stability of compressible viscous
+a moving wave . the problem of determining the stability of compressible viscous
 flows with nonzero surface velocities is formulated and is
 shown to be identical to that for conventional boundary layers,
 with only a redefinition of the mach and reynolds numbers required
@@ -34,5 +20,3 @@ orders of magnitude below the computed minimum critical
 reynolds numbers .  the lack of correlation between theory and
 experiment is attributed to disturbances which are external to
 the boundary layer .
-</TEXT>
-</DOC>

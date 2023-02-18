@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-209
-</DOCNO>
-<TITLE>
-boundary layer induced noise in the interior of aircraft .
-</TITLE>
-<AUTHOR>
-ribner,h.s.
-</AUTHOR>
-<BIBLIO>
-utia r37, 1956.
-</BIBLIO>
-<TEXT>
-  at high speeds the turbulent boundary layer washing the
+boundary layer induced noise in the interior of aircraft . at high speeds the turbulent boundary layer washing the
 airplane fuselage excites appreciable skin vibration, promoting strong
 noise in the interior .  the fluctuating exciting pressure distribution
 can be represented as a pattern of moving waves (fourier integral) .
@@ -35,5 +21,3 @@ progressively to for thick layers ( = external air
 density, = speed, = layer thickness, = panel thickness) .  some
 comparisons are made with experiment .  finally, an idea for
 minimizing the noise is presented .
-</TEXT>
-</DOC>

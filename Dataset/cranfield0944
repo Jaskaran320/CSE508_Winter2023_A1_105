@@ -1,20 +1,6 @@
-<DOC>
-<DOCNO>
-944
-</DOCNO>
-<TITLE>
 one dimensional heat conduction through the skin of
 a vehicle upon entering a planetary atmosphere at constant
-velocity and entry angle .
-</TITLE>
-<AUTHOR>
-wells,w.r. and mclellan,c.h.
-</AUTHOR>
-<BIBLIO>
-nasa tn.d1476, 1962.
-</BIBLIO>
-<TEXT>
-  closed-form solutions of the
+velocity and entry angle . closed-form solutions of the
 one-dimensional heat-conduction equations
 for the flow of heat into a
 plate with a laminar boundary layer
@@ -33,5 +19,3 @@ the solution applies to the
 initial part of the entry before the maximum
 heating conditions are
 encountered .
-</TEXT>
-</DOC>

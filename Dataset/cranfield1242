@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1242
-</DOCNO>
-<TITLE>
 some considerations on the laminar stability of time-dependent basic
-flows .
-</TITLE>
-<AUTHOR>
-s. f. shen
-</AUTHOR>
-<BIBLIO>
-u.s. naval ordnance laboratory
-</BIBLIO>
-<TEXT>
-as a stability criterion for infinitesimal disturbances in an
+flows . as a stability criterion for infinitesimal disturbances in an
 incompressible, parallel but time-dependent basic flow, it is proposed
 to introduce the concept of /momentary stability,/ which is said
 to prevail at the instant if the kinetic energy of the disturbances,
@@ -35,5 +21,3 @@ even when the solution is acceptable, the condition for neutral
 stability may not be used without reservation .  to calculate
 momentary stability properly, a procedure for a slowly varying but more
 general profile is also described .
-</TEXT>
-</DOC>

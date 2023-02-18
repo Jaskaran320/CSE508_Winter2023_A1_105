@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1348
-</DOCNO>
-<TITLE>
 radiative heat transfer during atmosphere entry at
-parabolic velocity .
-</TITLE>
-<AUTHOR>
-yoshikawa,k.k. and wick,b.h.
-</AUTHOR>
-<BIBLIO>
-nasa tn.d1074, 1961.
-</BIBLIO>
-<TEXT>
-  stagnation point radiative heating
+parabolic velocity . stagnation point radiative heating
 rates for manned vehicles entering
 the earth's atmosphere at parabolic
 velocity are presented and compared
@@ -26,5 +12,3 @@ ratio, and drag .  it is concluded
 from the results presented that radiative
 heating will be important for
 the entry conditions considered .
-</TEXT>
-</DOC>

@@ -1,20 +1,5 @@
-<DOC>
-<DOCNO>
-370
-</DOCNO>
-<TITLE>
 theoretical pressure distribution on a hemisphere-cylinder
-combination .
-</TITLE>
-<AUTHOR>
-anthony casaccio
-</AUTHOR>
-<BIBLIO>
-research assistant, aerodynamics laboratory, polytechnic institute
-of brooklyn, freeport, n.y.
-</BIBLIO>
-<TEXT>
-in recent years great use has been made of approximate methods for
+combination . in recent years great use has been made of approximate methods for
 the determination of the pressure distribution on blunt-nosed bodies
 and afterbodies at high mach numbers .  for quasi-spherical bodies
 it has been suggested that modified newtonian theory in combination
@@ -32,5 +17,3 @@ and very difficult to obtain, the comparison would be of interest .  the
 basis of comparison is the flow field as it results from a numerical
 integration of the exact equations governing the motion of the ideal
 fluid .
-</TEXT>
-</DOC>

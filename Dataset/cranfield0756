@@ -1,19 +1,4 @@
-<DOC>
-<DOCNO>
-756
-</DOCNO>
-<TITLE>
-further comments on the inversion of large structural matrices .
-</TITLE>
-<AUTHOR>
-charles h. samson, jr.
-</AUTHOR>
-<BIBLIO>
-professor, departments of aeronautical and civil engineering,
-a. and m. college of texas
-</BIBLIO>
-<TEXT>
-in a recent note, klein referred to a paper co-authored by the writer,
+further comments on the inversion of large structural matrices . in a recent note, klein referred to a paper co-authored by the writer,
 and to ref. 3 .  regarding the subject of inversion of large-order
 matrices, klein stated that he would show 'that the situation is not as
 hopeless as the anove-mentioned authors intimate' .
@@ -28,5 +13,3 @@ this matrix must be inverted to solve the problem .  the second method
 ultimately produces a relatively small matrix requiring inversion.,
 however, to arrive at this point one must perform a number of matrix
 multiplications .
-</TEXT>
-</DOC>

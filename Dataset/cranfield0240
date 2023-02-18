@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-240
-</DOCNO>
-<TITLE>
-a theoretical analysis of heat transfer in regions of separated flow
-</TITLE>
-<AUTHOR>
-dean r. chapman
-</AUTHOR>
-<BIBLIO>
-naca technote 3792
-</BIBLIO>
-<TEXT>
-    the flow field analyzed consists of a thin, constant pressure
+a theoretical analysis of heat transfer in regions of separated flow the flow field analyzed consists of a thin, constant pressure
 viscous mixing layer separated from a solid surface by an enclosed
 region of low-velocity air (/dead air/) . the law of conservation of
 energy is employed to relate calculated conditions within the
@@ -34,5 +20,3 @@ of gas into the separated region is calculated to have a powerful effect
 in reducing the rate of heat transfn  to the wall  . it is calculated
 that a moderate quantity of gas injection reduces to zero the heat
 transfer in a laminar separated flow .
-</TEXT>
-</DOC>

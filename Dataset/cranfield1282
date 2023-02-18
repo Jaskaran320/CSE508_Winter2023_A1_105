@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1282
-</DOCNO>
-<TITLE>
 compressible flat-plate boundary-layer flow with an
-applied magnetic field .
-</TITLE>
-<AUTHOR>
-bush,w.b.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1960, 49.
-</BIBLIO>
-<TEXT>
-  the laminar boundary-layer equations are formulated and
+applied magnetic field . the laminar boundary-layer equations are formulated and
 solved for a flat plate in high-speed compressible air flow where
 equilibrium dissociation and ionization are assumed and where
 there is an applied magnetic field having its component normal
@@ -29,5 +15,3 @@ couette flow,. however, for the flat plate the hysteresis effect
 disappears at a higher mach number .  furthermore, it was
 found that the reduction in heat transfer with increasing field
 strength is opposite in behavior from that for couette flow .
-</TEXT>
-</DOC>

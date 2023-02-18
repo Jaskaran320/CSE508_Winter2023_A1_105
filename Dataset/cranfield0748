@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-748
-</DOCNO>
-<TITLE>
 subsonic aerodynamic flutter derivatives for wings and control surfaces,
- /compressible and incompressible flow/
-</TITLE>
-<AUTHOR>
-minhinnick, i. t.
-</AUTHOR>
-<BIBLIO>
-r.a.e. rep. structs. 87. july 1950 .
-</BIBLIO>
-<TEXT>
-this report gives tables of the two-dimensional subsonic flutter
+ /compressible and incompressible flow/ this report gives tables of the two-dimensional subsonic flutter
 derivatives,. where possible the values given are based on the published
  work of various authors, but some have been specially calculated for
 this report . wing derivatives are given for mach numbers 0, 0.5, 0.6
@@ -27,5 +13,3 @@ given for some particular values of the variables and methods of
 obtaining approximate values of these derivatives for other values of
 the variables are suggested . control surface and tab derivatives are in
  all cases for no aerodynamic balance .
-</TEXT>
-</DOC>

@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-582
-</DOCNO>
-<TITLE>
-the melting of finite slabs .
-</TITLE>
-<AUTHOR>
-goodman,t.r. and shea,j.j.
-</AUTHOR>
-<BIBLIO>
-j. app. mech. 27, 1960, 16.
-</BIBLIO>
-<TEXT>
-an approximate method, known as the
+the melting of finite slabs . an approximate method, known as the
 heat-balance integral, is used to determine the
 melting rate of a finite slab which is initially
 at a uniform temperature below the melting
@@ -23,5 +9,3 @@ temperature .  the first three terms of series
 solutions in an intrinsically small parameter
 are obtained for the time histories of
 melting and the temperature distribution in the slab .
-</TEXT>
-</DOC>

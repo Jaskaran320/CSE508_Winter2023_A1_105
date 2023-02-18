@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-297
-</DOCNO>
-<TITLE>
 compressibility effects in magneto-aerodynamic flows
-past thin bodies .
-</TITLE>
-<AUTHOR>
-mccune,j.e. and resler,e.l.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 27, 1960.
-</BIBLIO>
-<TEXT>
-  the effects of compressibility on the steady motion of a highly
+past thin bodies . the effects of compressibility on the steady motion of a highly
 conducting fluid past thin cylindrical bodies in the presence of a
 magnetic field are studied .  procedures are developed for the
 solution of this class of magnetoaerodynamic problems over the
@@ -28,5 +14,3 @@ magnetic field with respect to the flow direction .
   the results of the theory are explained in terms of the anisotropic
 propagation of magnetoacoustic pulses studied previously
 by several authors .
-</TEXT>
-</DOC>

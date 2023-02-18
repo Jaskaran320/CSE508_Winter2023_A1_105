@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-24
-</DOCNO>
-<TITLE>
 theory of stagnation point heat transfer in dissociated
-air .
-</TITLE>
-<AUTHOR>
-fay,j.a. and riddell,f.r.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 25, 1958, 73.
-</BIBLIO>
-<TEXT>
-  the boundary-layer equations are developed in general for the
+air . the boundary-layer equations are developed in general for the
 case of very high speed flight where the external flow is in a dissociated
 state .  in particular the effects of diffusion and of atom
 recombination in the boundary layer are included .  it is shown
@@ -42,5 +28,3 @@ a simple correlation formula and that the heat
 transfer is almost unaffected by a nonequilibrium state of the
 boundary layer provided the wall is catalytic and the lewis
 number near unity .
-</TEXT>
-</DOC>

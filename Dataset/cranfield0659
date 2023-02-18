@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-659
-</DOCNO>
-<TITLE>
-nonuniform shear flow past cylinders .
-</TITLE>
-<AUTHOR>
-murray,j.d.
-</AUTHOR>
-<BIBLIO>
-q. j. mech. app. math. 10, 1957, 406.
-</BIBLIO>
-<TEXT>
-  a general method is described whereby
+nonuniform shear flow past cylinders . a general method is described whereby
 an approximation of any desired degree
 of accuracy to the stream functions for
 two types of variable shear flows past
@@ -33,5 +19,3 @@ those of a general elliptic cylinder and
 cylinders of the form where and being the polar
 coordinates, and 2p the maximum width
 of the cylinder .
-</TEXT>
-</DOC>

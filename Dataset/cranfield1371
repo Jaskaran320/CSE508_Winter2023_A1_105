@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-1371
-</DOCNO>
-<TITLE>
-axisymmetric free mixing with swirl .
-</TITLE>
-<AUTHOR>
-steiger,m.h. and bloom,m.h.
-</AUTHOR>
-<BIBLIO>
-pibal r.628.
-</BIBLIO>
-<TEXT>
-  viscous laminar axially-symmetric
+axisymmetric free mixing with swirl . viscous laminar axially-symmetric
 free-mixing with small, moderate,
 and large swirl is investigated by a
 boundary layer type of analysis with
@@ -43,5 +29,3 @@ densities, due to decreased centrifugal
 effects, decreased radial pressure
 gradients, and decreased axial pressure
 gradients .
-</TEXT>
-</DOC>

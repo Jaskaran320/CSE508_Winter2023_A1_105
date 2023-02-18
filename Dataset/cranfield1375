@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1375
-</DOCNO>
-<TITLE>
 an approximate solution for the axisymmetric jet of a laminar
-compressible fluid .
-</TITLE>
-<AUTHOR>
-gdalia kleinstein
-</AUTHOR>
-<BIBLIO>
-polytechnic institute of brooklyn
-</BIBLIO>
-<TEXT>
-an extension of the modified-oseen method of carrier, based on the
+compressible fluid . an extension of the modified-oseen method of carrier, based on the
 linearization of the viscous term of the von mises transformation,
 is presented .  the method is employed to determine the velocity field
 associated with the laminar axisymmetric jet flow of a compressible
@@ -43,5 +29,3 @@ von mises transformation with a subsequent linearization of the viscous
 term, rather than the linearization of the convective term . pai's
 problem (3), originally treated by a finite difference technique,
 is considered to illustrate the effectiveness of this method .
-</TEXT>
-</DOC>

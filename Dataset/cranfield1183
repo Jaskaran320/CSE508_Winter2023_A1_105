@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1183
-</DOCNO>
-<TITLE>
 laminar hypersonic trail in the expansion-conduction
-region .
-</TITLE>
-<AUTHOR>
-lykoudis,p.s.
-</AUTHOR>
-<BIBLIO>
-aiaa jnl. 1963, 772.
-</BIBLIO>
-<TEXT>
-  the usual procedure in calculating the cooling
+region . the usual procedure in calculating the cooling
 process in a wake behind a blunt object is to
 assume a region of pure expansion up to a distance
 where the pressure has reached its ambient
@@ -31,5 +17,3 @@ where is the nondimensional value
 of the enthalpy at the axis of the wake below
 which the two methods of computation give the
 same result, and m is the flight mach number .
-</TEXT>
-</DOC>

@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1075
-</DOCNO>
-<TITLE>
 an experimental and theoretical investigation of second-order supersonic
- wing-body interference, for a non-lifting body with wings at incidence
-</TITLE>
-<AUTHOR>
-wilby, p.g.
-</AUTHOR>
-<BIBLIO>
-aero. res. inst. of sweden, ffa report 87, 1960 .
-</BIBLIO>
-<TEXT>
-pressure distributions on the wing of two wing-body combinations are
+ wing-body interference, for a non-lifting body with wings at incidence pressure distributions on the wing of two wing-body combinations are
 measured experimentally at mach numbers 3 and 4 with the wing at various
  incidences in the range 0degree to 10degree . the results are compared
 with theoretical results which include interference effects calculated
@@ -31,5 +17,3 @@ sweepback of the wings is small compared with that of the mach line . an
 is given . within this limit the agreement between theory and experiment
  is found to deteriorate only a little with increase of incidence, over
 the range tested .
-</TEXT>
-</DOC>

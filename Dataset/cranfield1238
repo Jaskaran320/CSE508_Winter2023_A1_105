@@ -1,19 +1,5 @@
-<DOC>
-<DOCNO>
-1238
-</DOCNO>
-<TITLE>
 the newtonian approximation in magnetic hypersonic
-stagnation-point flow .
-</TITLE>
-<AUTHOR>
-lykoudis,p.s.
-</AUTHOR>
-<BIBLIO>
-j. ae. scs. 1961.
-</BIBLIO>
-<TEXT>
-  the hypersonic flow of an electrically conducting fluid around
+stagnation-point flow . the hypersonic flow of an electrically conducting fluid around
 the stagnation region of a sphere carrying a radial magnetic field
 is examined .
   by assuming a newtonian pressure distribution and constant
@@ -31,5 +17,3 @@ ratio of the magnetic to the nonmagnetic case is shown to depend
 on the parameter .
   the case of cylindrical shocks is also examined,. the same
 general conclusions are drawn .
-</TEXT>
-</DOC>

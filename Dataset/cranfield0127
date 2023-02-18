@@ -1,18 +1,4 @@
-<DOC>
-<DOCNO>
-127
-</DOCNO>
-<TITLE>
-supersonic axially symmetric nozzles .
-</TITLE>
-<AUTHOR>
-clippinger,r.f.
-</AUTHOR>
-<BIBLIO>
-b. r. l. r794, 1951.
-</BIBLIO>
-<TEXT>
-  at each of twenty-one exit mach numbers, ranging
+supersonic axially symmetric nozzles . at each of twenty-one exit mach numbers, ranging
 from 1.008 to 8.238, ten supersonic axially symmetric
 nozzle shapes with plane sonic surfaces have been computed
 on the eniac by the method of characteristics .  the
@@ -27,5 +13,3 @@ research laboratories .  nozzle contours can be obtained
 accurately from them by interpolation for exit mach numbers
 between 1.479 and 8.238 for a wide range of ratios of nozzle
 length to throat diameter .
-</TEXT>
-</DOC>
